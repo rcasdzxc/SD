@@ -1,0 +1,4845 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10200201,
+      "product_type": "PackageShop",
+      "product_id": 200201,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.serveropen01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.serveropen01",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 10200202,
+      "product_type": "PackageShop",
+      "product_id": 200202,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.serveropen02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.serveropen02",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10200203,
+      "product_type": "PackageShop",
+      "product_id": 200203,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.serveropen03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.serveropen03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10200204,
+      "product_type": "PackageShop",
+      "product_id": 200204,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.serveropen04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.serveropen04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10200205,
+      "product_type": "PackageShop",
+      "product_id": 200205,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.serveropen05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.serveropen05",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 10200301,
+      "product_type": "PackageShop",
+      "product_id": 200301,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit01",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 10200302,
+      "product_type": "PackageShop",
+      "product_id": 200302,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit02",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10200303,
+      "product_type": "PackageShop",
+      "product_id": 200303,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit03",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10200304,
+      "product_type": "PackageShop",
+      "product_id": 200304,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit04",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10200401,
+      "product_type": "PackageShop",
+      "product_id": 200401,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10200402,
+      "product_type": "PackageShop",
+      "product_id": 200402,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10200403,
+      "product_type": "PackageShop",
+      "product_id": 200403,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10200404,
+      "product_type": "PackageShop",
+      "product_id": 200404,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10200405,
+      "product_type": "PackageShop",
+      "product_id": 200405,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10200501,
+      "product_type": "PackageShop",
+      "product_id": 200501,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup01_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup01_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10200502,
+      "product_type": "PackageShop",
+      "product_id": 200502,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup01_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup01_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10200503,
+      "product_type": "PackageShop",
+      "product_id": 200503,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup01_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup01_03",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10200504,
+      "product_type": "PackageShop",
+      "product_id": 200504,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup01_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup01_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10200505,
+      "product_type": "PackageShop",
+      "product_id": 200505,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup01_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup01_05",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10200506,
+      "product_type": "PackageShop",
+      "product_id": 200506,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup01_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup01_06",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10200507,
+      "product_type": "PackageShop",
+      "product_id": 200507,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup01_07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup01_07",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10200508,
+      "product_type": "PackageShop",
+      "product_id": 200508,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup01_08",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup01_08",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10200601,
+      "product_type": "PackageShop",
+      "product_id": 200601,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.commander01_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.commander01_01",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 10200602,
+      "product_type": "PackageShop",
+      "product_id": 200602,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.commander01_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.commander01_02",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10200603,
+      "product_type": "PackageShop",
+      "product_id": 200603,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.commander01_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.commander01_03",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10200604,
+      "product_type": "PackageShop",
+      "product_id": 200604,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.commander01_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.commander01_04",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10200701,
+      "product_type": "PackageShop",
+      "product_id": 200701,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup02_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup02_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10200702,
+      "product_type": "PackageShop",
+      "product_id": 200702,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup02_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup02_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10200703,
+      "product_type": "PackageShop",
+      "product_id": 200703,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup02_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup02_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10200704,
+      "product_type": "PackageShop",
+      "product_id": 200704,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup02_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup02_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10200705,
+      "product_type": "PackageShop",
+      "product_id": 200705,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup02_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup02_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10200706,
+      "product_type": "PackageShop",
+      "product_id": 200706,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event02_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event02_01",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10200707,
+      "product_type": "PackageShop",
+      "product_id": 200707,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event02_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event02_02",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10200708,
+      "product_type": "PackageShop",
+      "product_id": 200708,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event02_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event02_03",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10200709,
+      "product_type": "PackageShop",
+      "product_id": 200709,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event02_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event02_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10200710,
+      "product_type": "PackageShop",
+      "product_id": 200710,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event02_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event02_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10200711,
+      "product_type": "PackageShop",
+      "product_id": 200711,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event02_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event02_06",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10200901,
+      "product_type": "PackageShop",
+      "product_id": 200901,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup03_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup03_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10200902,
+      "product_type": "PackageShop",
+      "product_id": 200902,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup03_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup03_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10200903,
+      "product_type": "PackageShop",
+      "product_id": 200903,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup03_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup03_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10200904,
+      "product_type": "PackageShop",
+      "product_id": 200904,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup03_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup03_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10200905,
+      "product_type": "PackageShop",
+      "product_id": 200905,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup03_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup03_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201001,
+      "product_type": "PackageShop",
+      "product_id": 201001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup04_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup04_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201002,
+      "product_type": "PackageShop",
+      "product_id": 201002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup04_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup04_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201003,
+      "product_type": "PackageShop",
+      "product_id": 201003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup04_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup04_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10201004,
+      "product_type": "PackageShop",
+      "product_id": 201004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup04_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup04_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201005,
+      "product_type": "PackageShop",
+      "product_id": 201005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup04_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup04_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201006,
+      "product_type": "PackageShop",
+      "product_id": 201006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event03_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event03_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201007,
+      "product_type": "PackageShop",
+      "product_id": 201007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event03_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event03_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201008,
+      "product_type": "PackageShop",
+      "product_id": 201008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event03_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event03_06",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201101,
+      "product_type": "PackageShop",
+      "product_id": 201101,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event03_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event03_01",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10201102,
+      "product_type": "PackageShop",
+      "product_id": 201102,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event03_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event03_02",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201103,
+      "product_type": "PackageShop",
+      "product_id": 201103,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event03_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event03_03",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10201201,
+      "product_type": "PackageShop",
+      "product_id": 201201,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup05_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup05_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201202,
+      "product_type": "PackageShop",
+      "product_id": 201202,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup05_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup05_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201203,
+      "product_type": "PackageShop",
+      "product_id": 201203,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup05_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup05_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10201204,
+      "product_type": "PackageShop",
+      "product_id": 201204,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup05_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup05_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201205,
+      "product_type": "PackageShop",
+      "product_id": 201205,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup05_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup05_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201209,
+      "product_type": "PackageShop",
+      "product_id": 201209,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup05_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup05_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10201301,
+      "product_type": "PackageShop",
+      "product_id": 201301,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup06_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup06_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201302,
+      "product_type": "PackageShop",
+      "product_id": 201302,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup06_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup06_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201303,
+      "product_type": "PackageShop",
+      "product_id": 201303,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup06_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup06_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10201304,
+      "product_type": "PackageShop",
+      "product_id": 201304,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup06_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup06_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201305,
+      "product_type": "PackageShop",
+      "product_id": 201305,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup06_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup06_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201306,
+      "product_type": "PackageShop",
+      "product_id": 201306,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup06_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup06_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10201307,
+      "product_type": "PackageShop",
+      "product_id": 201307,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event04_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event04_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201308,
+      "product_type": "PackageShop",
+      "product_id": 201308,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event04_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event04_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201309,
+      "product_type": "PackageShop",
+      "product_id": 201309,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event04_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event04_06",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201401,
+      "product_type": "PackageShop",
+      "product_id": 201401,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup07_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup07_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201402,
+      "product_type": "PackageShop",
+      "product_id": 201402,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup07_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup07_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201403,
+      "product_type": "PackageShop",
+      "product_id": 201403,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup07_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup07_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10201404,
+      "product_type": "PackageShop",
+      "product_id": 201404,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup07_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup07_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201405,
+      "product_type": "PackageShop",
+      "product_id": 201405,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup07_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup07_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201406,
+      "product_type": "PackageShop",
+      "product_id": 201406,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup07_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup07_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10201407,
+      "product_type": "PackageShop",
+      "product_id": 201407,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event05_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event05_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201408,
+      "product_type": "PackageShop",
+      "product_id": 201408,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event05_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event05_02",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201409,
+      "product_type": "PackageShop",
+      "product_id": 201409,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event05_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event05_03",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201501,
+      "product_type": "PackageShop",
+      "product_id": 201501,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup08_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup08_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201502,
+      "product_type": "PackageShop",
+      "product_id": 201502,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup08_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup08_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201503,
+      "product_type": "PackageShop",
+      "product_id": 201503,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup08_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup08_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10201504,
+      "product_type": "PackageShop",
+      "product_id": 201504,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup08_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup08_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201505,
+      "product_type": "PackageShop",
+      "product_id": 201505,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup08_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup08_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201506,
+      "product_type": "PackageShop",
+      "product_id": 201506,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup08_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup08_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10201601,
+      "product_type": "PackageShop",
+      "product_id": 201601,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit02_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit02_01",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 10201602,
+      "product_type": "PackageShop",
+      "product_id": 201602,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit02_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit02_02",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10201603,
+      "product_type": "PackageShop",
+      "product_id": 201603,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit02_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit02_03",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201604,
+      "product_type": "PackageShop",
+      "product_id": 201604,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit02_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit02_04",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201701,
+      "product_type": "PackageShop",
+      "product_id": 201701,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup09_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup09_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201702,
+      "product_type": "PackageShop",
+      "product_id": 201702,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup09_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup09_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201703,
+      "product_type": "PackageShop",
+      "product_id": 201703,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup09_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup09_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10201704,
+      "product_type": "PackageShop",
+      "product_id": 201704,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup09_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup09_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201705,
+      "product_type": "PackageShop",
+      "product_id": 201705,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup09_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup09_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201706,
+      "product_type": "PackageShop",
+      "product_id": 201706,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup09_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup09_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10201707,
+      "product_type": "PackageShop",
+      "product_id": 201707,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event06_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event06_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201708,
+      "product_type": "PackageShop",
+      "product_id": 201708,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event06_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event06_02",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201709,
+      "product_type": "PackageShop",
+      "product_id": 201709,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event06_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event06_03",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201801,
+      "product_type": "PackageShop",
+      "product_id": 201801,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup10_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup10_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201802,
+      "product_type": "PackageShop",
+      "product_id": 201802,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup10_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup10_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201803,
+      "product_type": "PackageShop",
+      "product_id": 201803,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup10_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup10_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10201804,
+      "product_type": "PackageShop",
+      "product_id": 201804,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup10_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup10_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201805,
+      "product_type": "PackageShop",
+      "product_id": 201805,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup10_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup10_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201806,
+      "product_type": "PackageShop",
+      "product_id": 201806,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup10_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup10_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10201901,
+      "product_type": "PackageShop",
+      "product_id": 201901,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup11_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup11_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201902,
+      "product_type": "PackageShop",
+      "product_id": 201902,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup11_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup11_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10201903,
+      "product_type": "PackageShop",
+      "product_id": 201903,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup11_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup11_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10201904,
+      "product_type": "PackageShop",
+      "product_id": 201904,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup11_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup11_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201905,
+      "product_type": "PackageShop",
+      "product_id": 201905,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup11_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup11_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201906,
+      "product_type": "PackageShop",
+      "product_id": 201906,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup11_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup11_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10201907,
+      "product_type": "PackageShop",
+      "product_id": 201907,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event07_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event07_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10201908,
+      "product_type": "PackageShop",
+      "product_id": 201908,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event07_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event07_02",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10201909,
+      "product_type": "PackageShop",
+      "product_id": 201909,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event07_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event07_03",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202001,
+      "product_type": "PackageShop",
+      "product_id": 202001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit01_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit01_01",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 10202002,
+      "product_type": "PackageShop",
+      "product_id": 202002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit01_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit01_02",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10202003,
+      "product_type": "PackageShop",
+      "product_id": 202003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit01_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit01_03",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202004,
+      "product_type": "PackageShop",
+      "product_id": 202004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit01_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit01_04",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202101,
+      "product_type": "PackageShop",
+      "product_id": 202101,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup12_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup12_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202102,
+      "product_type": "PackageShop",
+      "product_id": 202102,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup12_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup12_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202103,
+      "product_type": "PackageShop",
+      "product_id": 202103,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup12_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup12_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10202104,
+      "product_type": "PackageShop",
+      "product_id": 202104,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup12_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup12_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202105,
+      "product_type": "PackageShop",
+      "product_id": 202105,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup12_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup12_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202106,
+      "product_type": "PackageShop",
+      "product_id": 202106,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup12_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup12_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10202107,
+      "product_type": "PackageShop",
+      "product_id": 202107,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event08_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event08_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202108,
+      "product_type": "PackageShop",
+      "product_id": 202108,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event08_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event08_02",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202109,
+      "product_type": "PackageShop",
+      "product_id": 202109,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event08_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event08_03",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202201,
+      "product_type": "PackageShop",
+      "product_id": 202201,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup13_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup13_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202202,
+      "product_type": "PackageShop",
+      "product_id": 202202,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup13_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup13_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202203,
+      "product_type": "PackageShop",
+      "product_id": 202203,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup13_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup13_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10202204,
+      "product_type": "PackageShop",
+      "product_id": 202204,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup13_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup13_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202205,
+      "product_type": "PackageShop",
+      "product_id": 202205,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup13_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup13_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202206,
+      "product_type": "PackageShop",
+      "product_id": 202206,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup13_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup13_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10202207,
+      "product_type": "PackageShop",
+      "product_id": 202207,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event09_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event09_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202208,
+      "product_type": "PackageShop",
+      "product_id": 202208,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event09_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event09_02",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202209,
+      "product_type": "PackageShop",
+      "product_id": 202209,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event09_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event09_03",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202301,
+      "product_type": "StepUpPackageShop",
+      "product_id": 202301,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup01_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup01_01",
+      "is_free": true,
+      "cost": "0"
+    },
+    {
+      "id": 10202302,
+      "product_type": "StepUpPackageShop",
+      "product_id": 202302,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup01_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup01_02",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10202303,
+      "product_type": "StepUpPackageShop",
+      "product_id": 202303,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup01_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup01_03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202304,
+      "product_type": "StepUpPackageShop",
+      "product_id": 202304,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup01_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup01_04",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10202305,
+      "product_type": "StepUpPackageShop",
+      "product_id": 202305,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup01_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup01_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202401,
+      "product_type": "PackageShop",
+      "product_id": 202401,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event10_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event10_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202402,
+      "product_type": "PackageShop",
+      "product_id": 202402,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event10_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event10_02",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202403,
+      "product_type": "PackageShop",
+      "product_id": 202403,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event10_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event10_03",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202404,
+      "product_type": "PackageShop",
+      "product_id": 202404,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event10_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event10_04",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10202405,
+      "product_type": "PackageShop",
+      "product_id": 202405,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event10_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event10_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202406,
+      "product_type": "PackageShop",
+      "product_id": 202406,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event10_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event10_06",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 10202407,
+      "product_type": "PackageShop",
+      "product_id": 202407,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event10_07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event10_07",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10202408,
+      "product_type": "PackageShop",
+      "product_id": 202408,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event10_08",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event10_08",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202409,
+      "product_type": "PackageShop",
+      "product_id": 202409,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event10_09",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event10_09",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202501,
+      "product_type": "PackageShop",
+      "product_id": 202501,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup14_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup14_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202502,
+      "product_type": "PackageShop",
+      "product_id": 202502,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup14_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup14_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202503,
+      "product_type": "PackageShop",
+      "product_id": 202503,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup14_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup14_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10202504,
+      "product_type": "PackageShop",
+      "product_id": 202504,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup14_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup14_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202505,
+      "product_type": "PackageShop",
+      "product_id": 202505,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup14_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup14_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202506,
+      "product_type": "PackageShop",
+      "product_id": 202506,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup14_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup14_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10202601,
+      "product_type": "PackageShop",
+      "product_id": 202601,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event11_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event11_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202602,
+      "product_type": "PackageShop",
+      "product_id": 202602,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event11_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event11_02",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202603,
+      "product_type": "PackageShop",
+      "product_id": 202603,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event11_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event11_03",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202604,
+      "product_type": "PackageShop",
+      "product_id": 202604,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup15_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup15_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202605,
+      "product_type": "PackageShop",
+      "product_id": 202605,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup15_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup15_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202606,
+      "product_type": "PackageShop",
+      "product_id": 202606,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup15_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup15_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10202607,
+      "product_type": "PackageShop",
+      "product_id": 202607,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup15_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup15_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202608,
+      "product_type": "PackageShop",
+      "product_id": 202608,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup15_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup15_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202609,
+      "product_type": "PackageShop",
+      "product_id": 202609,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup15_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup15_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10202610,
+      "product_type": "PackageShop",
+      "product_id": 202610,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup15_07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup15_07",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202701,
+      "product_type": "PackageShop",
+      "product_id": 202701,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup16_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup16_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202702,
+      "product_type": "PackageShop",
+      "product_id": 202702,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup16_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup16_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202703,
+      "product_type": "PackageShop",
+      "product_id": 202703,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup16_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup16_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10202704,
+      "product_type": "PackageShop",
+      "product_id": 202704,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup16_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup16_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202705,
+      "product_type": "PackageShop",
+      "product_id": 202705,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup16_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup16_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202706,
+      "product_type": "PackageShop",
+      "product_id": 202706,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup16_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup16_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10202707,
+      "product_type": "PackageShop",
+      "product_id": 202707,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup16_07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup16_07",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202801,
+      "product_type": "PackageShop",
+      "product_id": 202801,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit03_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit03_01",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 10202802,
+      "product_type": "PackageShop",
+      "product_id": 202802,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit03_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit03_02",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10202803,
+      "product_type": "PackageShop",
+      "product_id": 202803,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit03_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit03_03",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202804,
+      "product_type": "PackageShop",
+      "product_id": 202804,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit03_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit03_04",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202901,
+      "product_type": "PackageShop",
+      "product_id": 202901,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event12_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event12_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202902,
+      "product_type": "PackageShop",
+      "product_id": 202902,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event12_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event12_02",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202903,
+      "product_type": "PackageShop",
+      "product_id": 202903,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event12_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event12_03",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202904,
+      "product_type": "PackageShop",
+      "product_id": 202904,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup17_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup17_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202905,
+      "product_type": "PackageShop",
+      "product_id": 202905,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup17_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup17_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10202906,
+      "product_type": "PackageShop",
+      "product_id": 202906,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup17_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup17_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10202907,
+      "product_type": "PackageShop",
+      "product_id": 202907,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup17_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup17_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10202908,
+      "product_type": "PackageShop",
+      "product_id": 202908,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup17_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup17_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10202909,
+      "product_type": "PackageShop",
+      "product_id": 202909,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup17_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup17_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10202910,
+      "product_type": "PackageShop",
+      "product_id": 202910,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup17_07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup17_07",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10203001,
+      "product_type": "StepUpPackageShop",
+      "product_id": 203001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup02_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup02_01",
+      "is_free": true,
+      "cost": "0"
+    },
+    {
+      "id": 10203002,
+      "product_type": "StepUpPackageShop",
+      "product_id": 203002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup02_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup02_02",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10203003,
+      "product_type": "StepUpPackageShop",
+      "product_id": 203003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup02_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup02_03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10203004,
+      "product_type": "StepUpPackageShop",
+      "product_id": 203004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup02_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup02_04",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10203005,
+      "product_type": "StepUpPackageShop",
+      "product_id": 203005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup02_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup02_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10203101,
+      "product_type": "PackageShop",
+      "product_id": 203101,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event13_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event13_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10203102,
+      "product_type": "PackageShop",
+      "product_id": 203102,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event13_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event13_02",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10203103,
+      "product_type": "PackageShop",
+      "product_id": 203103,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event13_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event13_03",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10203104,
+      "product_type": "PackageShop",
+      "product_id": 203104,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup18_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup18_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10203105,
+      "product_type": "PackageShop",
+      "product_id": 203105,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup18_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup18_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10203106,
+      "product_type": "PackageShop",
+      "product_id": 203106,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup18_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup18_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10203107,
+      "product_type": "PackageShop",
+      "product_id": 203107,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup18_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup18_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10203108,
+      "product_type": "PackageShop",
+      "product_id": 203108,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup18_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup18_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10203109,
+      "product_type": "PackageShop",
+      "product_id": 203109,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup18_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup18_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10203110,
+      "product_type": "PackageShop",
+      "product_id": 203110,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup18_07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup18_07",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10203204,
+      "product_type": "PackageShop",
+      "product_id": 203204,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup19_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup19_01",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10203205,
+      "product_type": "PackageShop",
+      "product_id": 203205,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup19_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup19_02",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10203206,
+      "product_type": "PackageShop",
+      "product_id": 203206,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup19_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup19_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10203207,
+      "product_type": "PackageShop",
+      "product_id": 203207,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup19_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup19_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10203208,
+      "product_type": "PackageShop",
+      "product_id": 203208,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup19_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup19_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10203209,
+      "product_type": "PackageShop",
+      "product_id": 203209,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup19_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup19_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10203210,
+      "product_type": "PackageShop",
+      "product_id": 203210,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup19_07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup19_07",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10203401,
+      "product_type": "CustomPackageShop",
+      "product_id": 203401,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_repeat_30000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_repeat_30000",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10203402,
+      "product_type": "CustomPackageShop",
+      "product_id": 203402,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_repeat_85000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_repeat_85000",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10203403,
+      "product_type": "CustomPackageShop",
+      "product_id": 203403,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_repeat_149000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_repeat_149000",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10203601,
+      "product_type": "CustomPackageShop",
+      "product_id": 203601,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_02_30000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_02_30000",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10203602,
+      "product_type": "CustomPackageShop",
+      "product_id": 203602,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_02_85000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_02_85000",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10203603,
+      "product_type": "CustomPackageShop",
+      "product_id": 203603,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_02_149000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_02_149000",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10204401,
+      "product_type": "CustomPackageShop",
+      "product_id": 204401,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_03_30000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_03_30000",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10204402,
+      "product_type": "CustomPackageShop",
+      "product_id": 204402,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_03_85000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_03_85000",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10204403,
+      "product_type": "CustomPackageShop",
+      "product_id": 204403,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_03_149000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_03_149000",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10204901,
+      "product_type": "CustomPackageShop",
+      "product_id": 204901,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_04_30000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_04_30000",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10204902,
+      "product_type": "CustomPackageShop",
+      "product_id": 204902,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_04_85000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_04_85000",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10204903,
+      "product_type": "CustomPackageShop",
+      "product_id": 204903,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_04_149000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_04_149000",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10203901,
+      "product_type": "StepUpPackageShop",
+      "product_id": 203901,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup03_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup03_01",
+      "is_free": true,
+      "cost": "0"
+    },
+    {
+      "id": 10203902,
+      "product_type": "StepUpPackageShop",
+      "product_id": 203902,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup03_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup03_02",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10203903,
+      "product_type": "StepUpPackageShop",
+      "product_id": 203903,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup03_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup03_03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10203904,
+      "product_type": "StepUpPackageShop",
+      "product_id": 203904,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup03_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup03_04",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10203905,
+      "product_type": "StepUpPackageShop",
+      "product_id": 203905,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup03_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup03_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10204201,
+      "product_type": "StepUpPackageShop",
+      "product_id": 204201,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup04_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup04_01",
+      "is_free": true,
+      "cost": "0"
+    },
+    {
+      "id": 10204202,
+      "product_type": "StepUpPackageShop",
+      "product_id": 204202,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup04_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup04_02",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10204203,
+      "product_type": "StepUpPackageShop",
+      "product_id": 204203,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup04_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup04_03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10204204,
+      "product_type": "StepUpPackageShop",
+      "product_id": 204204,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup04_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup04_04",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10204205,
+      "product_type": "StepUpPackageShop",
+      "product_id": 204205,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup04_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup04_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10205201,
+      "product_type": "StepUpPackageShop",
+      "product_id": 205201,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup05_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup05_01",
+      "is_free": true,
+      "cost": "0"
+    },
+    {
+      "id": 10205202,
+      "product_type": "StepUpPackageShop",
+      "product_id": 205202,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup05_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup05_02",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10205203,
+      "product_type": "StepUpPackageShop",
+      "product_id": 205203,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup05_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup05_03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10205204,
+      "product_type": "StepUpPackageShop",
+      "product_id": 205204,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup05_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup05_04",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10205205,
+      "product_type": "StepUpPackageShop",
+      "product_id": 205205,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup05_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup05_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10205301,
+      "product_type": "CustomPackageShop",
+      "product_id": 205301,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_05_30000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_05_30000",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10205302,
+      "product_type": "CustomPackageShop",
+      "product_id": 205302,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_05_85000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_05_85000",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10205303,
+      "product_type": "CustomPackageShop",
+      "product_id": 205303,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_05_149000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_05_149000",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10205501,
+      "product_type": "CustomPackageShop",
+      "product_id": 205501,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_06_30000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_06_30000",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10205502,
+      "product_type": "CustomPackageShop",
+      "product_id": 205502,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_06_85000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_06_85000",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10205503,
+      "product_type": "CustomPackageShop",
+      "product_id": 205503,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_06_149000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_06_149000",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10205701,
+      "product_type": "StepUpPackageShop",
+      "product_id": 205701,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup06_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup06_01",
+      "is_free": true,
+      "cost": "0"
+    },
+    {
+      "id": 10205702,
+      "product_type": "StepUpPackageShop",
+      "product_id": 205702,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup06_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup06_02",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10205703,
+      "product_type": "StepUpPackageShop",
+      "product_id": 205703,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup06_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup06_03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10205704,
+      "product_type": "StepUpPackageShop",
+      "product_id": 205704,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup06_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup06_04",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10205705,
+      "product_type": "StepUpPackageShop",
+      "product_id": 205705,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup06_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup06_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10206001,
+      "product_type": "StepUpPackageShop",
+      "product_id": 206001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup07_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup07_01",
+      "is_free": true,
+      "cost": "0"
+    },
+    {
+      "id": 10206002,
+      "product_type": "StepUpPackageShop",
+      "product_id": 206002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup07_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup07_02",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10206003,
+      "product_type": "StepUpPackageShop",
+      "product_id": 206003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup07_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup07_03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10206004,
+      "product_type": "StepUpPackageShop",
+      "product_id": 206004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup07_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup07_04",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10206005,
+      "product_type": "StepUpPackageShop",
+      "product_id": 206005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.stepup07_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.stepup07_05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10206101,
+      "product_type": "CustomPackageShop",
+      "product_id": 206101,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_07_30000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_07_30000",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10206102,
+      "product_type": "CustomPackageShop",
+      "product_id": 206102,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_07_85000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_07_85000",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10206103,
+      "product_type": "CustomPackageShop",
+      "product_id": 206103,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.custompack_07_149000",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.custompack_07_149000",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10206401,
+      "product_type": "PackageShop",
+      "product_id": 206401,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.newyear24_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.newyear24_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10206402,
+      "product_type": "PackageShop",
+      "product_id": 206402,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.newyear24_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.newyear24_02",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10206403,
+      "product_type": "PackageShop",
+      "product_id": 206403,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.newyear24_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.newyear24_03",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 12101010,
+      "product_type": "PackageShop",
+      "product_id": 2101010,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event_repeat_01_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event_repeat_01_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 12101020,
+      "product_type": "PackageShop",
+      "product_id": 2101020,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event_repeat_01_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event_repeat_01_02",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12101030,
+      "product_type": "PackageShop",
+      "product_id": 2101030,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.event_repeat_01_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.event_repeat_01_03",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 12201011,
+      "product_type": "PackageShop",
+      "product_id": 2201011,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_01_1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_01_1",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12201012,
+      "product_type": "PackageShop",
+      "product_id": 2201012,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_01_2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_01_2",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12201013,
+      "product_type": "PackageShop",
+      "product_id": 2201013,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_01_3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_01_3",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12201014,
+      "product_type": "PackageShop",
+      "product_id": 2201014,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_01_4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_01_4",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12201015,
+      "product_type": "PackageShop",
+      "product_id": 2201015,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_01_5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_01_5",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12201021,
+      "product_type": "PackageShop",
+      "product_id": 2201021,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_02_1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_02_1",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 12201022,
+      "product_type": "PackageShop",
+      "product_id": 2201022,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_02_2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_02_2",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 12201023,
+      "product_type": "PackageShop",
+      "product_id": 2201023,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_02_3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_02_3",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 12201024,
+      "product_type": "PackageShop",
+      "product_id": 2201024,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_02_4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_02_4",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 12201025,
+      "product_type": "PackageShop",
+      "product_id": 2201025,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_02_5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_02_5",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 12201030,
+      "product_type": "PackageShop",
+      "product_id": 2201030,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 12201040,
+      "product_type": "PackageShop",
+      "product_id": 2201040,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 12201051,
+      "product_type": "PackageShop",
+      "product_id": 2201051,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_05_1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_05_1",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12201052,
+      "product_type": "PackageShop",
+      "product_id": 2201052,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_05_2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_05_2",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12201053,
+      "product_type": "PackageShop",
+      "product_id": 2201053,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_05_3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_05_3",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12201054,
+      "product_type": "PackageShop",
+      "product_id": 2201054,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_05_4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_05_4",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12201055,
+      "product_type": "PackageShop",
+      "product_id": 2201055,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_05_5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_05_5",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12201060,
+      "product_type": "PackageShop",
+      "product_id": 2201060,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_06",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 12201070,
+      "product_type": "PackageShop",
+      "product_id": 2201070,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_07",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12201081,
+      "product_type": "PackageShop",
+      "product_id": 2201081,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_08_1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_08_1",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 12201082,
+      "product_type": "PackageShop",
+      "product_id": 2201082,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_08_2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_08_2",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 12201083,
+      "product_type": "PackageShop",
+      "product_id": 2201083,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_08_3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_08_3",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 12201091,
+      "product_type": "PackageShop",
+      "product_id": 2201091,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_09_1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_09_1",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 12201092,
+      "product_type": "PackageShop",
+      "product_id": 2201092,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_09_2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_09_2",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 12201093,
+      "product_type": "PackageShop",
+      "product_id": 2201093,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_09_3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_09_3",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 12201094,
+      "product_type": "PackageShop",
+      "product_id": 2201094,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_09_4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_09_4",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 12201095,
+      "product_type": "PackageShop",
+      "product_id": 2201095,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.pickup_repeat_01_09_5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.pickup_repeat_01_09_5",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 12301010,
+      "product_type": "PackageShop",
+      "product_id": 2301010,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit05_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit05_01",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 12301020,
+      "product_type": "PackageShop",
+      "product_id": 2301020,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit05_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit05_02",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 12301030,
+      "product_type": "PackageShop",
+      "product_id": 2301030,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit05_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit05_03",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 12301040,
+      "product_type": "PackageShop",
+      "product_id": 2301040,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.limit05_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.limit05_04",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10300101,
+      "product_type": "PackageShop",
+      "product_id": 300101,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.dailypackage01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.dailypackage01",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 10300102,
+      "product_type": "PackageShop",
+      "product_id": 300102,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.dailypackage02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.dailypackage02",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10300103,
+      "product_type": "PackageShop",
+      "product_id": 300103,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.dailypackage03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.dailypackage03",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10300104,
+      "product_type": "PackageShop",
+      "product_id": 300104,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.dailypackage04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.dailypackage04",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10300105,
+      "product_type": "PackageShop",
+      "product_id": 300105,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.dailypackage05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.dailypackage05",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10300106,
+      "product_type": "PackageShop",
+      "product_id": 300106,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.dailypackage06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.dailypackage06",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10300107,
+      "product_type": "PackageShop",
+      "product_id": 300107,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.dailypackage07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.dailypackage07",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10300108,
+      "product_type": "PackageShop",
+      "product_id": 300108,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.dailypackage08",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.dailypackage08",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10300109,
+      "product_type": "PackageShop",
+      "product_id": 300109,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.dailypackage09_free",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.dailypackage09_free",
+      "is_free": true,
+      "cost": "0"
+    },
+    {
+      "id": 10300110,
+      "product_type": "PackageShop",
+      "product_id": 300110,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.dailypackage10",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.dailypackage10",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10300111,
+      "product_type": "PackageShop",
+      "product_id": 300111,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.dailypackage11",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.dailypackage11",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10300201,
+      "product_type": "PackageShop",
+      "product_id": 300201,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage01",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10300202,
+      "product_type": "PackageShop",
+      "product_id": 300202,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage02",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10300203,
+      "product_type": "PackageShop",
+      "product_id": 300203,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage03",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10300204,
+      "product_type": "PackageShop",
+      "product_id": 300204,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage04",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10300205,
+      "product_type": "PackageShop",
+      "product_id": 300205,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage05",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 10300206,
+      "product_type": "PackageShop",
+      "product_id": 300206,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage06",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10300207,
+      "product_type": "PackageShop",
+      "product_id": 300207,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage07",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10300208,
+      "product_type": "PackageShop",
+      "product_id": 300208,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage08",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage08",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10300209,
+      "product_type": "PackageShop",
+      "product_id": 300209,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage09_free",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage09_free",
+      "is_free": true,
+      "cost": "0"
+    },
+    {
+      "id": 10300210,
+      "product_type": "PackageShop",
+      "product_id": 300210,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage10",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage10",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10300211,
+      "product_type": "PackageShop",
+      "product_id": 300211,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage11",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage11",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 10300212,
+      "product_type": "PackageShop",
+      "product_id": 300212,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.weeklypackage12",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.weeklypackage12",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10300301,
+      "product_type": "PackageShop",
+      "product_id": 300301,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlypackage01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlypackage01",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 10300302,
+      "product_type": "PackageShop",
+      "product_id": 300302,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlypackage02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlypackage02",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10300303,
+      "product_type": "PackageShop",
+      "product_id": 300303,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlypackage03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlypackage03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 10300304,
+      "product_type": "PackageShop",
+      "product_id": 300304,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlypackage04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlypackage04",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10300305,
+      "product_type": "PackageShop",
+      "product_id": 300305,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlypackage05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlypackage05",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 10300306,
+      "product_type": "PackageShop",
+      "product_id": 300306,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlypackage06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlypackage06",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10300307,
+      "product_type": "PackageShop",
+      "product_id": 300307,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlypackage07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlypackage07",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10300308,
+      "product_type": "PackageShop",
+      "product_id": 300308,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlypackage08_free",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlypackage08_free",
+      "is_free": true,
+      "cost": "0"
+    },
+    {
+      "id": 10300309,
+      "product_type": "PackageShop",
+      "product_id": 300309,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlypackage9",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlypackage9",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 10300310,
+      "product_type": "PackageShop",
+      "product_id": 300310,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlypackage10",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlypackage10",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10300311,
+      "product_type": "PackageShop",
+      "product_id": 300311,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlypackage11",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlypackage11",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 10300501,
+      "product_type": "PackageShop",
+      "product_id": 300501,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.always01_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.always01_01",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 10300502,
+      "product_type": "PackageShop",
+      "product_id": 300502,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.always01_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.always01_02",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 10300503,
+      "product_type": "PackageShop",
+      "product_id": 300503,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.always01_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.always01_03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 21000021,
+      "product_type": "PopupPackageShop",
+      "product_id": 100001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageuserlv1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageuserlv1",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 21000022,
+      "product_type": "PopupPackageShop",
+      "product_id": 100002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageuserlv2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageuserlv2",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 21000023,
+      "product_type": "PopupPackageShop",
+      "product_id": 100003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageuserlv3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageuserlv3",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 21000024,
+      "product_type": "PopupPackageShop",
+      "product_id": 100004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageuserlv4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageuserlv4",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 21000025,
+      "product_type": "PopupPackageShop",
+      "product_id": 100005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageuserlv5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageuserlv5",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 21000026,
+      "product_type": "PopupPackageShop",
+      "product_id": 100006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageuserlv6",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageuserlv6",
+      "is_free": false,
+      "cost": "24.99"
+    },
+    {
+      "id": 21000027,
+      "product_type": "PopupPackageShop",
+      "product_id": 100007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageuserlv7",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageuserlv7",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 21000028,
+      "product_type": "PopupPackageShop",
+      "product_id": 100008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageuserlv8",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageuserlv8",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 21000029,
+      "product_type": "PopupPackageShop",
+      "product_id": 100009,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageuserlv9",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageuserlv9",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 21010051,
+      "product_type": "PopupPackageShop",
+      "product_id": 101001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagechapter1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagechapter1",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 21010052,
+      "product_type": "PopupPackageShop",
+      "product_id": 101002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagechapter2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagechapter2",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 21010053,
+      "product_type": "PopupPackageShop",
+      "product_id": 101003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagechapter3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagechapter3",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 21010054,
+      "product_type": "PopupPackageShop",
+      "product_id": 101004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagechapter4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagechapter4",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 21010055,
+      "product_type": "PopupPackageShop",
+      "product_id": 101005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagechapter5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagechapter5",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 21010056,
+      "product_type": "PopupPackageShop",
+      "product_id": 101006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagechapter6",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagechapter6",
+      "is_free": false,
+      "cost": "24.99"
+    },
+    {
+      "id": 21010057,
+      "product_type": "PopupPackageShop",
+      "product_id": 101007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagechapter7",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagechapter7",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 21010058,
+      "product_type": "PopupPackageShop",
+      "product_id": 101008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagechapter8",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagechapter8",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 21010059,
+      "product_type": "PopupPackageShop",
+      "product_id": 101009,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagechapter9",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagechapter9",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 21020031,
+      "product_type": "PopupPackageShop",
+      "product_id": 102001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetribetw1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetribetw1",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 21020032,
+      "product_type": "PopupPackageShop",
+      "product_id": 102002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetribetw2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetribetw2",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 21020033,
+      "product_type": "PopupPackageShop",
+      "product_id": 102003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetribetw3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetribetw3",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 21020034,
+      "product_type": "PopupPackageShop",
+      "product_id": 102004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetribetw4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetribetw4",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 21020035,
+      "product_type": "PopupPackageShop",
+      "product_id": 102005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetribetw5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetribetw5",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 21020036,
+      "product_type": "PopupPackageShop",
+      "product_id": 102006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetribetw6",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetribetw6",
+      "is_free": false,
+      "cost": "24.99"
+    },
+    {
+      "id": 21020037,
+      "product_type": "PopupPackageShop",
+      "product_id": 102007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetribetw7",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetribetw7",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 21020038,
+      "product_type": "PopupPackageShop",
+      "product_id": 102008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetribetw8",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetribetw8",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 21020039,
+      "product_type": "PopupPackageShop",
+      "product_id": 102009,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetribetw9",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetribetw9",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 21030031,
+      "product_type": "PopupPackageShop",
+      "product_id": 103001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageelysiontw1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageelysiontw1",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 21030032,
+      "product_type": "PopupPackageShop",
+      "product_id": 103002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageelysiontw2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageelysiontw2",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 21030033,
+      "product_type": "PopupPackageShop",
+      "product_id": 103003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageelysiontw3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageelysiontw3",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 21030034,
+      "product_type": "PopupPackageShop",
+      "product_id": 103004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageelysiontw4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageelysiontw4",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 21030035,
+      "product_type": "PopupPackageShop",
+      "product_id": 103005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageelysiontw5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageelysiontw5",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 21030036,
+      "product_type": "PopupPackageShop",
+      "product_id": 103006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageelysiontw6",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageelysiontw6",
+      "is_free": false,
+      "cost": "24.99"
+    },
+    {
+      "id": 21030037,
+      "product_type": "PopupPackageShop",
+      "product_id": 103007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageelysiontw7",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageelysiontw7",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 21030038,
+      "product_type": "PopupPackageShop",
+      "product_id": 103008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageelysiontw8",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageelysiontw8",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 21030039,
+      "product_type": "PopupPackageShop",
+      "product_id": 103009,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackageelysiontw9",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackageelysiontw9",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 21040031,
+      "product_type": "PopupPackageShop",
+      "product_id": 104001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagemissilistw1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagemissilistw1",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 21040032,
+      "product_type": "PopupPackageShop",
+      "product_id": 104002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagemissilistw2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagemissilistw2",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 21040033,
+      "product_type": "PopupPackageShop",
+      "product_id": 104003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagemissilistw3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagemissilistw3",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 21040034,
+      "product_type": "PopupPackageShop",
+      "product_id": 104004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagemissilistw4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagemissilistw4",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 21040035,
+      "product_type": "PopupPackageShop",
+      "product_id": 104005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagemissilistw5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagemissilistw5",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 21040036,
+      "product_type": "PopupPackageShop",
+      "product_id": 104006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagemissilistw6",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagemissilistw6",
+      "is_free": false,
+      "cost": "24.99"
+    },
+    {
+      "id": 21040037,
+      "product_type": "PopupPackageShop",
+      "product_id": 104007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagemissilistw7",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagemissilistw7",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 21040038,
+      "product_type": "PopupPackageShop",
+      "product_id": 104008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagemissilistw8",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagemissilistw8",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 21040039,
+      "product_type": "PopupPackageShop",
+      "product_id": 104009,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagemissilistw9",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagemissilistw9",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 21050031,
+      "product_type": "PopupPackageShop",
+      "product_id": 105001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetetratw1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetetratw1",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 21050032,
+      "product_type": "PopupPackageShop",
+      "product_id": 105002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetetratw2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetetratw2",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 21050033,
+      "product_type": "PopupPackageShop",
+      "product_id": 105003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetetratw3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetetratw3",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 21050034,
+      "product_type": "PopupPackageShop",
+      "product_id": 105004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetetratw4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetetratw4",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 21050035,
+      "product_type": "PopupPackageShop",
+      "product_id": 105005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetetratw5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetetratw5",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 21050036,
+      "product_type": "PopupPackageShop",
+      "product_id": 105006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetetratw6",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetetratw6",
+      "is_free": false,
+      "cost": "24.99"
+    },
+    {
+      "id": 21050037,
+      "product_type": "PopupPackageShop",
+      "product_id": 105007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetetratw7",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetetratw7",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 21050038,
+      "product_type": "PopupPackageShop",
+      "product_id": 105008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetetratw8",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetetratw8",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 21050039,
+      "product_type": "PopupPackageShop",
+      "product_id": 105009,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetetratw9",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetetratw9",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 21080011,
+      "product_type": "PopupPackageShop",
+      "product_id": 108001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagenikkelv1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagenikkelv1",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 21080012,
+      "product_type": "PopupPackageShop",
+      "product_id": 108002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagenikkelv2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagenikkelv2",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 21080013,
+      "product_type": "PopupPackageShop",
+      "product_id": 108003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagenikkelv3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagenikkelv3",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 21080014,
+      "product_type": "PopupPackageShop",
+      "product_id": 108004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagenikkelv4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagenikkelv4",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 21080015,
+      "product_type": "PopupPackageShop",
+      "product_id": 108005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagenikkelv5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagenikkelv5",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 21080016,
+      "product_type": "PopupPackageShop",
+      "product_id": 108006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagenikkelv6",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagenikkelv6",
+      "is_free": false,
+      "cost": "24.99"
+    },
+    {
+      "id": 21080017,
+      "product_type": "PopupPackageShop",
+      "product_id": 108007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagenikkelv7",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagenikkelv7",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 21080018,
+      "product_type": "PopupPackageShop",
+      "product_id": 108008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagenikkelv8",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagenikkelv8",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 21080019,
+      "product_type": "PopupPackageShop",
+      "product_id": 108009,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagenikkelv9",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagenikkelv9",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 21090011,
+      "product_type": "PopupPackageShop",
+      "product_id": 109001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagelimitbr1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagelimitbr1",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 21090012,
+      "product_type": "PopupPackageShop",
+      "product_id": 109002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagelimitbr2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagelimitbr2",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 21090013,
+      "product_type": "PopupPackageShop",
+      "product_id": 109003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagelimitbr3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagelimitbr3",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 21090014,
+      "product_type": "PopupPackageShop",
+      "product_id": 109004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagelimitbr4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagelimitbr4",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 21090015,
+      "product_type": "PopupPackageShop",
+      "product_id": 109005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagelimitbr5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagelimitbr5",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 21090016,
+      "product_type": "PopupPackageShop",
+      "product_id": 109006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagelimitbr6",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagelimitbr6",
+      "is_free": false,
+      "cost": "24.99"
+    },
+    {
+      "id": 21090017,
+      "product_type": "PopupPackageShop",
+      "product_id": 109007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagelimitbr7",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagelimitbr7",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 21090018,
+      "product_type": "PopupPackageShop",
+      "product_id": 109008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagelimitbr8",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagelimitbr8",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 21090019,
+      "product_type": "PopupPackageShop",
+      "product_id": 109009,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagelimitbr9",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagelimitbr9",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 21100011,
+      "product_type": "PopupPackageShop",
+      "product_id": 110001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagecoreen1",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagecoreen1",
+      "is_free": false,
+      "cost": "0.99"
+    },
+    {
+      "id": 21100012,
+      "product_type": "PopupPackageShop",
+      "product_id": 110002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagecoreen2",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagecoreen2",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 21100013,
+      "product_type": "PopupPackageShop",
+      "product_id": 110003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagecoreen3",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagecoreen3",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 21100014,
+      "product_type": "PopupPackageShop",
+      "product_id": 110004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagecoreen4",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagecoreen4",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 21100015,
+      "product_type": "PopupPackageShop",
+      "product_id": 110005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagecoreen5",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagecoreen5",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 21100016,
+      "product_type": "PopupPackageShop",
+      "product_id": 110006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagecoreen6",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagecoreen6",
+      "is_free": false,
+      "cost": "24.99"
+    },
+    {
+      "id": 21100017,
+      "product_type": "PopupPackageShop",
+      "product_id": 110007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagecoreen7",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagecoreen7",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 21100018,
+      "product_type": "PopupPackageShop",
+      "product_id": 110008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagecoreen8",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagecoreen8",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 21100019,
+      "product_type": "PopupPackageShop",
+      "product_id": 110009,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagecoreen9",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagecoreen9",
+      "is_free": false,
+      "cost": "99.99"
+    },
+    {
+      "id": 30050001,
+      "product_type": "CampaignPackageShop",
+      "product_id": 50001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.campaignpackage01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.campaignpackage01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 30050101,
+      "product_type": "CampaignPackageShop",
+      "product_id": 50101,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.campaignpackage02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.campaignpackage02",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 40000001,
+      "product_type": "MonthlyAmount",
+      "product_id": 2,
+      "item_type": "Currency",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlykit03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlykit03",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 40000002,
+      "product_type": "MonthlyAmount",
+      "product_id": 1,
+      "item_type": "Currency",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.monthlykit04_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.monthlykit04_01",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 50000001,
+      "product_type": "CashShop",
+      "product_id": 1,
+      "item_type": "Currency",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.jw300",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.jw300",
+      "is_free": false,
+      "cost": "4.99"
+    },
+    {
+      "id": 50000002,
+      "product_type": "CashShop",
+      "product_id": 2,
+      "item_type": "Currency",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.jw680",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.jw680",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 50000101,
+      "product_type": "CashShop",
+      "product_id": 101,
+      "item_type": "Currency",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.jw1280",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.jw1280",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 50000102,
+      "product_type": "CashShop",
+      "product_id": 102,
+      "item_type": "Currency",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.jw1980",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.jw1980",
+      "is_free": false,
+      "cost": "29.99"
+    },
+    {
+      "id": 50000103,
+      "product_type": "CashShop",
+      "product_id": 103,
+      "item_type": "Currency",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.jw3280",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.jw3280",
+      "is_free": false,
+      "cost": "54.99"
+    },
+    {
+      "id": 50000104,
+      "product_type": "CashShop",
+      "product_id": 104,
+      "item_type": "Currency",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.jw6480",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.jw6480",
+      "is_free": false,
+      "cost": "79.99"
+    },
+    {
+      "id": 60001002,
+      "product_type": "PassShop",
+      "product_id": 1002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001003,
+      "product_type": "PassShop",
+      "product_id": 1003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass02",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001004,
+      "product_type": "PassShop",
+      "product_id": 1004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001005,
+      "product_type": "PassShop",
+      "product_id": 1005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001006,
+      "product_type": "PassShop",
+      "product_id": 1006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass05",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001007,
+      "product_type": "PassShop",
+      "product_id": 1007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass06",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001008,
+      "product_type": "PassShop",
+      "product_id": 1008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass07",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001009,
+      "product_type": "PassShop",
+      "product_id": 1009,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass08",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass08",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001010,
+      "product_type": "PassShop",
+      "product_id": 1010,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass09",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass09",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001011,
+      "product_type": "PassShop",
+      "product_id": 1011,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass10",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass10",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001012,
+      "product_type": "PassShop",
+      "product_id": 1012,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass11",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass11",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001013,
+      "product_type": "PassShop",
+      "product_id": 1013,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass12",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass12",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001014,
+      "product_type": "PassShop",
+      "product_id": 1014,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass13",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass13",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001015,
+      "product_type": "PassShop",
+      "product_id": 1015,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass14",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass14",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001016,
+      "product_type": "PassShop",
+      "product_id": 1016,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass15",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass15",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 60001017,
+      "product_type": "PassShop",
+      "product_id": 1017,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass16",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass16",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 71000001,
+      "product_type": "EventPassShop",
+      "product_id": 1000001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.eventpass01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.eventpass01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 71000002,
+      "product_type": "EventPassShop",
+      "product_id": 1000002,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.eventpass02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.eventpass02",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 71000003,
+      "product_type": "EventPassShop",
+      "product_id": 1000003,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.eventpass03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.eventpass03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 71000004,
+      "product_type": "EventPassShop",
+      "product_id": 1000004,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.eventpass04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.eventpass04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 71000005,
+      "product_type": "EventPassShop",
+      "product_id": 1000005,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.eventpass05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.eventpass05",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 71000006,
+      "product_type": "EventPassShop",
+      "product_id": 1000006,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.eventpass06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.eventpass06",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 71000007,
+      "product_type": "EventPassShop",
+      "product_id": 1000007,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.eventpass07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.eventpass07",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 71000008,
+      "product_type": "EventPassShop",
+      "product_id": 1000008,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.eventpass08",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.eventpass08",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 71000009,
+      "product_type": "EventPassShop",
+      "product_id": 1000009,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.eventpass09",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.eventpass09",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 71000010,
+      "product_type": "EventPassShop",
+      "product_id": 1000010,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.eventpass10",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.eventpass10",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 72000001,
+      "product_type": "EventPassShop",
+      "product_id": 2000001,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.comebackpass01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.comebackpass01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 83000101,
+      "product_type": "CostumeShop",
+      "product_id": 4000101,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume01_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume01_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 83000201,
+      "product_type": "CostumeShop",
+      "product_id": 3000101,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 83000301,
+      "product_type": "CostumeShop",
+      "product_id": 3000301,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_02",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 84000101,
+      "product_type": "CostumeShop",
+      "product_id": 3000201,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_03",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 85000101,
+      "product_type": "CostumeShop",
+      "product_id": 5000101,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume03_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume03_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 83000401,
+      "product_type": "CostumeShop",
+      "product_id": 3000401,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_04",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 83000501,
+      "product_type": "CostumeShop",
+      "product_id": 3000501,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_05",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_05",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 83000502,
+      "product_type": "CostumeShop",
+      "product_id": 3000502,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_05_discount",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_05_discount",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 83000601,
+      "product_type": "CostumeShop",
+      "product_id": 3000601,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_06",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_06",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 83000602,
+      "product_type": "CostumeShop",
+      "product_id": 3000602,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_06_discount",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_06_discount",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 83000701,
+      "product_type": "CostumeShop",
+      "product_id": 3000701,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_07",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_07",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 83000702,
+      "product_type": "CostumeShop",
+      "product_id": 3000702,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_07_discount",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_07_discount",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 83000801,
+      "product_type": "CostumeShop",
+      "product_id": 3000801,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_08",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_08",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 83000802,
+      "product_type": "CostumeShop",
+      "product_id": 3000802,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume02_08_discount",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume02_08_discount",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 81000101,
+      "product_type": "CostumeShop",
+      "product_id": 1000101,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume04_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume04_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 81000102,
+      "product_type": "CostumeShop",
+      "product_id": 1000102,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costume04_01_discount",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costume04_01_discount",
+      "is_free": false,
+      "cost": "14.99"
+    },
+    {
+      "id": 90000101,
+      "product_type": "EventInAppShop",
+      "product_id": 101,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha01_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha01_01",
+      "is_free": false,
+      "cost": "1.99"
+    },
+    {
+      "id": 90000102,
+      "product_type": "EventInAppShop",
+      "product_id": 102,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha01_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha01_02",
+      "is_free": false,
+      "cost": "3.99"
+    },
+    {
+      "id": 90000103,
+      "product_type": "EventInAppShop",
+      "product_id": 103,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha01_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha01_03",
+      "is_free": false,
+      "cost": "7.99"
+    },
+    {
+      "id": 90000104,
+      "product_type": "EventInAppShop",
+      "product_id": 104,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha01_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha01_04",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 90000201,
+      "product_type": "EventInAppShop",
+      "product_id": 201,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha02_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha02_01",
+      "is_free": false,
+      "cost": "1.99"
+    },
+    {
+      "id": 90000202,
+      "product_type": "EventInAppShop",
+      "product_id": 202,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha02_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha02_02",
+      "is_free": false,
+      "cost": "3.99"
+    },
+    {
+      "id": 90000203,
+      "product_type": "EventInAppShop",
+      "product_id": 203,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha02_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha02_03",
+      "is_free": false,
+      "cost": "7.99"
+    },
+    {
+      "id": 90000204,
+      "product_type": "EventInAppShop",
+      "product_id": 204,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha02_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha02_04",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 90000301,
+      "product_type": "EventInAppShop",
+      "product_id": 301,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha03_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha03_01",
+      "is_free": false,
+      "cost": "1.99"
+    },
+    {
+      "id": 90000302,
+      "product_type": "EventInAppShop",
+      "product_id": 302,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha03_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha03_02",
+      "is_free": false,
+      "cost": "3.99"
+    },
+    {
+      "id": 90000303,
+      "product_type": "EventInAppShop",
+      "product_id": 303,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha03_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha03_03",
+      "is_free": false,
+      "cost": "7.99"
+    },
+    {
+      "id": 90000304,
+      "product_type": "EventInAppShop",
+      "product_id": 304,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha03_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha03_04",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 90000401,
+      "product_type": "EventInAppShop",
+      "product_id": 401,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha04_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha04_01",
+      "is_free": false,
+      "cost": "1.99"
+    },
+    {
+      "id": 90000402,
+      "product_type": "EventInAppShop",
+      "product_id": 402,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha04_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha04_02",
+      "is_free": false,
+      "cost": "3.99"
+    },
+    {
+      "id": 90000403,
+      "product_type": "EventInAppShop",
+      "product_id": 403,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha04_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha04_03",
+      "is_free": false,
+      "cost": "7.99"
+    },
+    {
+      "id": 90000404,
+      "product_type": "EventInAppShop",
+      "product_id": 404,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha04_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha04_04",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 90000501,
+      "product_type": "EventInAppShop",
+      "product_id": 501,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha05_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha05_01",
+      "is_free": false,
+      "cost": "1.99"
+    },
+    {
+      "id": 90000502,
+      "product_type": "EventInAppShop",
+      "product_id": 502,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha05_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha05_02",
+      "is_free": false,
+      "cost": "3.99"
+    },
+    {
+      "id": 90000503,
+      "product_type": "EventInAppShop",
+      "product_id": 503,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha05_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha05_03",
+      "is_free": false,
+      "cost": "7.99"
+    },
+    {
+      "id": 90000504,
+      "product_type": "EventInAppShop",
+      "product_id": 504,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha05_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha05_04",
+      "is_free": false,
+      "cost": "9.99"
+    },
+    {
+      "id": 90000601,
+      "product_type": "EventInAppShop",
+      "product_id": 601,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha06_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha06_01",
+      "is_free": false,
+      "cost": "1.99"
+    },
+    {
+      "id": 90000602,
+      "product_type": "EventInAppShop",
+      "product_id": 602,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha06_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha06_02",
+      "is_free": false,
+      "cost": "3.99"
+    },
+    {
+      "id": 90000603,
+      "product_type": "EventInAppShop",
+      "product_id": 603,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha06_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha06_03",
+      "is_free": false,
+      "cost": "7.99"
+    },
+    {
+      "id": 90000604,
+      "product_type": "EventInAppShop",
+      "product_id": 604,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumegacha06_04",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumegacha06_04",
+      "is_free": false,
+      "cost": "9.99"
+    }
+  ]
+}

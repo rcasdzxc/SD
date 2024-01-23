@@ -1,0 +1,1754 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "monster_id": [
+        0
+      ],
+      "qte_prefab": "QTEPrefab",
+      "group_id": [
+        1,
+        2,
+        3
+      ],
+      "random_preset": false,
+      "time_limit": 1000,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 2,
+      "monster_id": [
+        32200501,
+        2510030131
+      ],
+      "qte_prefab": "QTEPrefab",
+      "group_id": [
+        3,
+        4,
+        5
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10001,
+      "monster_id": [
+        2510030131,
+        2510030132,
+        2510030133,
+        2510030134
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        100
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 300001
+    },
+    {
+      "id": 10002,
+      "monster_id": [
+        2510030131,
+        2510030132,
+        2510030133,
+        2510030134
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        101
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 300001
+    },
+    {
+      "id": 10003,
+      "monster_id": [
+        2510030131,
+        2510030132,
+        2510030133,
+        2510030134
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        102
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 300001
+    },
+    {
+      "id": 10004,
+      "monster_id": [
+        2510030131,
+        2510030132,
+        2510030133,
+        2510030134
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        105
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 300001
+    },
+    {
+      "id": 10005,
+      "monster_id": [
+        2510030131,
+        2510030132,
+        2510030133,
+        2510030134
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        106
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 300001
+    },
+    {
+      "id": 10006,
+      "monster_id": [
+        2510030131,
+        2510030132,
+        2510030133,
+        2510030134
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        107
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 300001
+    },
+    {
+      "id": 10007,
+      "monster_id": [
+        2510030111,
+        2510030112,
+        2510030113,
+        2510030114
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        103
+      ],
+      "random_preset": false,
+      "time_limit": 1672,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10008,
+      "monster_id": [
+        2510030111,
+        2510030112,
+        2510030113,
+        2510030114
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        104
+      ],
+      "random_preset": false,
+      "time_limit": 1672,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10009,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        103,
+        100
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10010,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        104,
+        100
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10011,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        103,
+        101
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10012,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        104,
+        101
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10013,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        103,
+        102
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10014,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        104,
+        102
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10015,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        108,
+        105
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10016,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        109,
+        105
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10017,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        108,
+        106
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10018,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        109,
+        106
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10019,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        108,
+        107
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10020,
+      "monster_id": [
+        2510030151,
+        2510030152,
+        2510030153,
+        2510030154
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        109,
+        107
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10021,
+      "monster_id": [
+        2510030111,
+        2510030112,
+        2510030113,
+        2510030114
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        108
+      ],
+      "random_preset": false,
+      "time_limit": 1672,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10022,
+      "monster_id": [
+        2510030111,
+        2510030112,
+        2510030113,
+        2510030114
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        109
+      ],
+      "random_preset": false,
+      "time_limit": 1672,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10023,
+      "monster_id": [
+        3520020142
+      ],
+      "qte_prefab": "QTEPrefab_GraveDigger01",
+      "group_id": [
+        110
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10024,
+      "monster_id": [
+        3520020142
+      ],
+      "qte_prefab": "QTEPrefab_GraveDigger01",
+      "group_id": [
+        111
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10025,
+      "monster_id": [
+        3520020142
+      ],
+      "qte_prefab": "QTEPrefab_GraveDigger01",
+      "group_id": [
+        112
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10026,
+      "monster_id": [
+        3520020142
+      ],
+      "qte_prefab": "QTEPrefab_GraveDigger01",
+      "group_id": [
+        113
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10027,
+      "monster_id": [
+        3520020142
+      ],
+      "qte_prefab": "QTEPrefab_GraveDigger01",
+      "group_id": [
+        114
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10028,
+      "monster_id": [
+        3520020142
+      ],
+      "qte_prefab": "QTEPrefab_GraveDigger01",
+      "group_id": [
+        115
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10029,
+      "monster_id": [
+        2510010144,
+        2510010146,
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        116
+      ],
+      "random_preset": false,
+      "time_limit": 700,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10030,
+      "monster_id": [
+        2510010144,
+        2510010146,
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        117
+      ],
+      "random_preset": false,
+      "time_limit": 700,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10031,
+      "monster_id": [
+        2510010144,
+        2510010146,
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        118
+      ],
+      "random_preset": false,
+      "time_limit": 700,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10032,
+      "monster_id": [
+        1520020114
+      ],
+      "qte_prefab": "QTEPrefab_Talkertive01",
+      "group_id": [
+        119
+      ],
+      "random_preset": false,
+      "time_limit": 1200,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10033,
+      "monster_id": [
+        2520010122
+      ],
+      "qte_prefab": "QTEPrefab_LandEater01",
+      "group_id": [
+        120
+      ],
+      "random_preset": false,
+      "time_limit": 300,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10034,
+      "monster_id": [
+        2520010122
+      ],
+      "qte_prefab": "QTEPrefab_LandEater01",
+      "group_id": [
+        121
+      ],
+      "random_preset": false,
+      "time_limit": 300,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10035,
+      "monster_id": [
+        2520010122
+      ],
+      "qte_prefab": "QTEPrefab_LandEater01",
+      "group_id": [
+        122
+      ],
+      "random_preset": false,
+      "time_limit": 300,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10036,
+      "monster_id": [
+        2520010122
+      ],
+      "qte_prefab": "QTEPrefab_LandEater01",
+      "group_id": [
+        123
+      ],
+      "random_preset": false,
+      "time_limit": 300,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10037,
+      "monster_id": [
+        2520010122
+      ],
+      "qte_prefab": "QTEPrefab_LandEater01",
+      "group_id": [
+        124
+      ],
+      "random_preset": false,
+      "time_limit": 300,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10038,
+      "monster_id": [
+        3520020112
+      ],
+      "qte_prefab": "QTEPrefab_Nihilister01",
+      "group_id": [
+        125
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10039,
+      "monster_id": [
+        3520020112
+      ],
+      "qte_prefab": "QTEPrefab_Nihilister01",
+      "group_id": [
+        126
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10040,
+      "monster_id": [
+        3520020112
+      ],
+      "qte_prefab": "QTEPrefab_Nihilister01",
+      "group_id": [
+        127
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10041,
+      "monster_id": [
+        3520020112
+      ],
+      "qte_prefab": "QTEPrefab_Nihilister01",
+      "group_id": [
+        128
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10042,
+      "monster_id": [
+        3520020144,
+        3520020146
+      ],
+      "qte_prefab": "QTEPrefab_GraveDigger01",
+      "group_id": [
+        129
+      ],
+      "random_preset": false,
+      "time_limit": 500,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10043,
+      "monster_id": [
+        3520020144,
+        3520020146
+      ],
+      "qte_prefab": "QTEPrefab_GraveDigger01",
+      "group_id": [
+        130
+      ],
+      "random_preset": false,
+      "time_limit": 500,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10044,
+      "monster_id": [
+        3520020144,
+        3520020146
+      ],
+      "qte_prefab": "QTEPrefab_GraveDigger01",
+      "group_id": [
+        131
+      ],
+      "random_preset": false,
+      "time_limit": 500,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10045,
+      "monster_id": [
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        132
+      ],
+      "random_preset": false,
+      "time_limit": 700,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10046,
+      "monster_id": [
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        133
+      ],
+      "random_preset": false,
+      "time_limit": 800,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10047,
+      "monster_id": [
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        134
+      ],
+      "random_preset": false,
+      "time_limit": 1000,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10048,
+      "monster_id": [
+        1520010114,
+        1520010115,
+        1520010116
+      ],
+      "qte_prefab": "QTEPrefab_NoBG_Z9",
+      "group_id": [
+        135,
+        138
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10049,
+      "monster_id": [
+        1520010114,
+        1520010115,
+        1520010116
+      ],
+      "qte_prefab": "QTEPrefab_NoBG_Z9",
+      "group_id": [
+        136,
+        139
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10050,
+      "monster_id": [
+        1520010114,
+        1520010115,
+        1520010116
+      ],
+      "qte_prefab": "QTEPrefab_NoBG_Z9",
+      "group_id": [
+        137,
+        140
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10051,
+      "monster_id": [
+        1520010115
+      ],
+      "qte_prefab": "QTEPrefab_NoBG_Z9",
+      "group_id": [
+        138
+      ],
+      "random_preset": false,
+      "time_limit": 1000,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10052,
+      "monster_id": [
+        1520010115
+      ],
+      "qte_prefab": "QTEPrefab_NoBG_Z9",
+      "group_id": [
+        139
+      ],
+      "random_preset": false,
+      "time_limit": 1000,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10053,
+      "monster_id": [
+        1520010115
+      ],
+      "qte_prefab": "QTEPrefab_NoBG_Z9",
+      "group_id": [
+        140
+      ],
+      "random_preset": false,
+      "time_limit": 1000,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10054,
+      "monster_id": [
+        1520040121
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        141
+      ],
+      "random_preset": false,
+      "time_limit": 1000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10055,
+      "monster_id": [
+        1520040121
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        142
+      ],
+      "random_preset": false,
+      "time_limit": 1000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10056,
+      "monster_id": [
+        1520040121,
+        1520040122
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        143
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10057,
+      "monster_id": [
+        1520040121,
+        1520040122
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        143
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10058,
+      "monster_id": [
+        1520040121,
+        1520040122
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        143
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10059,
+      "monster_id": [
+        1520040121,
+        1520040122
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        144
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10060,
+      "monster_id": [
+        1520040121,
+        1520040122
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        144
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10061,
+      "monster_id": [
+        1520040121,
+        1520040122
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        144
+      ],
+      "random_preset": false,
+      "time_limit": 2000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10062,
+      "monster_id": [
+        1520040141,
+        1520040142
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        146
+      ],
+      "random_preset": false,
+      "time_limit": 1672,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10063,
+      "monster_id": [
+        1520040141,
+        1520040142
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        146
+      ],
+      "random_preset": false,
+      "time_limit": 1672,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10064,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        146,
+        143
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10065,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        146,
+        143
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10066,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        146,
+        143
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10067,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        146,
+        143
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10068,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        146,
+        143
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10069,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        146,
+        143
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10070,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        145,
+        144
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10071,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        145,
+        144
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10072,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        145,
+        144
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10073,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        145,
+        144
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10074,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        145,
+        144
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10075,
+      "monster_id": [
+        1520040151,
+        1520040152,
+        1520040153,
+        1520040154,
+        1520040155,
+        1520040156
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        145,
+        144
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 500001
+    },
+    {
+      "id": 10076,
+      "monster_id": [
+        1520040141,
+        1520040142
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        145
+      ],
+      "random_preset": false,
+      "time_limit": 1672,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10077,
+      "monster_id": [
+        1520040141,
+        1520040142
+      ],
+      "qte_prefab": "QTEPrefab_Kraken",
+      "group_id": [
+        145
+      ],
+      "random_preset": false,
+      "time_limit": 1672,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10078,
+      "monster_id": [
+        2510030121,
+        2510030122,
+        2510030123,
+        2510030124
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        147
+      ],
+      "random_preset": false,
+      "time_limit": 1000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10079,
+      "monster_id": [
+        2510030121,
+        2510030122,
+        2510030123,
+        2510030124
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        148
+      ],
+      "random_preset": false,
+      "time_limit": 1000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10080,
+      "monster_id": [
+        2510030121,
+        2510030122,
+        2510030123,
+        2510030124
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        149
+      ],
+      "random_preset": false,
+      "time_limit": 1000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10081,
+      "monster_id": [
+        2510030121,
+        2510030122,
+        2510030123,
+        2510030124
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        150
+      ],
+      "random_preset": false,
+      "time_limit": 1000,
+      "first_col_anim_time": 100,
+      "element_id": 200001
+    },
+    {
+      "id": 10082,
+      "monster_id": [
+        2510030141,
+        2510030142,
+        2510030143,
+        2510030144
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        151,
+        153
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10083,
+      "monster_id": [
+        2510030141,
+        2510030142,
+        2510030143,
+        2510030144
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        151,
+        154
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10084,
+      "monster_id": [
+        2510030141,
+        2510030142,
+        2510030143,
+        2510030144
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        151,
+        155
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10085,
+      "monster_id": [
+        2510030141,
+        2510030142,
+        2510030143,
+        2510030144
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        152,
+        153
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10086,
+      "monster_id": [
+        2510030141,
+        2510030142,
+        2510030143,
+        2510030144
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        152,
+        154
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10087,
+      "monster_id": [
+        2510030141,
+        2510030142,
+        2510030143,
+        2510030144
+      ],
+      "qte_prefab": "QTEPrefab_GateKeeper01",
+      "group_id": [
+        152,
+        155
+      ],
+      "random_preset": false,
+      "time_limit": 3000,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10088,
+      "monster_id": [
+        1520010112
+      ],
+      "qte_prefab": "QTEPrefab_NoBG_Z9",
+      "group_id": [
+        156,
+        159
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10089,
+      "monster_id": [
+        1520010112
+      ],
+      "qte_prefab": "QTEPrefab_NoBG_Z9",
+      "group_id": [
+        157,
+        160
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10090,
+      "monster_id": [
+        1520010112
+      ],
+      "qte_prefab": "QTEPrefab_NoBG_Z9",
+      "group_id": [
+        158,
+        161
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10091,
+      "monster_id": [
+        1520060141,
+        1520060145,
+        1520460141,
+        1520460145
+      ],
+      "qte_prefab": "QTEPrefab_Ultra",
+      "group_id": [
+        162,
+        178
+      ],
+      "random_preset": false,
+      "time_limit": 700,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10092,
+      "monster_id": [
+        1520060141,
+        1520060145,
+        1520460141,
+        1520460145
+      ],
+      "qte_prefab": "QTEPrefab_Ultra",
+      "group_id": [
+        163,
+        180
+      ],
+      "random_preset": false,
+      "time_limit": 700,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10093,
+      "monster_id": [
+        1520060141,
+        1520060145,
+        1520460141,
+        1520460145
+      ],
+      "qte_prefab": "QTEPrefab_Ultra",
+      "group_id": [
+        164,
+        182
+      ],
+      "random_preset": false,
+      "time_limit": 700,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10094,
+      "monster_id": [
+        1520060141,
+        1520060145,
+        1520460141,
+        1520460145
+      ],
+      "qte_prefab": "QTEPrefab_Ultra",
+      "group_id": [
+        165,
+        184
+      ],
+      "random_preset": false,
+      "time_limit": 700,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10095,
+      "monster_id": [
+        1420030114
+      ],
+      "qte_prefab": "QTEPrefab_NoBG_Z9",
+      "group_id": [
+        186
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10096,
+      "monster_id": [
+        2510010144,
+        2510010146,
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        187
+      ],
+      "random_preset": false,
+      "time_limit": 1200,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10097,
+      "monster_id": [
+        2510010144,
+        2510010146,
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        188
+      ],
+      "random_preset": false,
+      "time_limit": 1200,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10098,
+      "monster_id": [
+        2510010144,
+        2510010146,
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        189
+      ],
+      "random_preset": false,
+      "time_limit": 1200,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10099,
+      "monster_id": [
+        1520020115,
+        1520020119,
+        1520020129,
+        1520020139,
+        1520020149,
+        1520020159
+      ],
+      "qte_prefab": "QTEPrefab_Talkertive01",
+      "group_id": [
+        190
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10100,
+      "monster_id": [
+        1520020115,
+        1520020119,
+        1520020129,
+        1520020139,
+        1520020149,
+        1520020159
+      ],
+      "qte_prefab": "QTEPrefab_Talkertive01",
+      "group_id": [
+        191
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10101,
+      "monster_id": [
+        1520020115,
+        1520020119,
+        1520020129,
+        1520020139,
+        1520020149,
+        1520020159
+      ],
+      "qte_prefab": "QTEPrefab_Talkertive01",
+      "group_id": [
+        192
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 100001
+    },
+    {
+      "id": 10102,
+      "monster_id": [
+        2510010144,
+        2510010146,
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        193
+      ],
+      "random_preset": false,
+      "time_limit": 1200,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10103,
+      "monster_id": [
+        2510010144,
+        2510010146,
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        194
+      ],
+      "random_preset": false,
+      "time_limit": 1200,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    },
+    {
+      "id": 10104,
+      "monster_id": [
+        2510010144,
+        2510010146,
+        2510010142
+      ],
+      "qte_prefab": "QTEPrefab_StormBringer",
+      "group_id": [
+        195
+      ],
+      "random_preset": false,
+      "time_limit": 1200,
+      "first_col_anim_time": 100,
+      "element_id": 400001
+    }
+  ]
+}

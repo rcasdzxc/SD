@@ -1,0 +1,583 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10001,
+      "costume_theme_group_id": 1000,
+      "resource_id": 82,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:82_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:82_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 10002,
+      "costume_theme_group_id": 1000,
+      "resource_id": 142,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:142_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:142_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 10003,
+      "costume_theme_group_id": 1000,
+      "resource_id": 201,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:201_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:201_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 10004,
+      "costume_theme_group_id": 1000,
+      "resource_id": 131,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:131_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:131_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 10005,
+      "costume_theme_group_id": 1000,
+      "resource_id": 10,
+      "costume_index": 2,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:10_02_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:10_02_description",
+      "is_hidden": false
+    },
+    {
+      "id": 10006,
+      "costume_theme_group_id": 1000,
+      "resource_id": 350,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:350_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:350_01_description",
+      "costume_shop_price_id": 120011,
+      "is_hidden": false
+    },
+    {
+      "id": 20001,
+      "costume_theme_group_id": 2000,
+      "resource_id": 10,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:10_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:10_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30001,
+      "costume_theme_group_id": 3000,
+      "resource_id": 11,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:11_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:11_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30002,
+      "costume_theme_group_id": 3000,
+      "resource_id": 30,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:30_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:30_1_description",
+      "costume_shop_price_id": 120001,
+      "is_hidden": false
+    },
+    {
+      "id": 30003,
+      "costume_theme_group_id": 3000,
+      "resource_id": 70,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:70_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:70_1_description",
+      "costume_shop_price_id": 120002,
+      "is_hidden": false
+    },
+    {
+      "id": 30004,
+      "costume_theme_group_id": 3000,
+      "resource_id": 102,
+      "costume_index": 1,
+      "additional_skins": [
+        "acc"
+      ],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:102_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:102_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30005,
+      "costume_theme_group_id": 3000,
+      "resource_id": 72,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:72_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:72_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30006,
+      "costume_theme_group_id": 3000,
+      "resource_id": 72,
+      "costume_index": 2,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:72_02_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:72_2_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30007,
+      "costume_theme_group_id": 3000,
+      "resource_id": 181,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:181_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:181_1_description",
+      "costume_shop_price_id": 120003,
+      "is_hidden": false
+    },
+    {
+      "id": 30008,
+      "costume_theme_group_id": 3000,
+      "resource_id": 160,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:160_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:160_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30009,
+      "costume_theme_group_id": 3000,
+      "resource_id": 170,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:170_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:170_01_description",
+      "costume_shop_price_id": 120006,
+      "is_hidden": false
+    },
+    {
+      "id": 30010,
+      "costume_theme_group_id": 3000,
+      "resource_id": 212,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:212_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:212_01_description",
+      "costume_shop_price_id": 120009,
+      "is_hidden": false
+    },
+    {
+      "id": 30011,
+      "costume_theme_group_id": 3000,
+      "resource_id": 141,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:141_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:141_01_description",
+      "costume_shop_price_id": 120007,
+      "is_hidden": false
+    },
+    {
+      "id": 30012,
+      "costume_theme_group_id": 3000,
+      "resource_id": 80,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:80_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:80_01_description",
+      "costume_shop_price_id": 120008,
+      "is_hidden": false
+    },
+    {
+      "id": 30013,
+      "costume_theme_group_id": 3000,
+      "resource_id": 430,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:430_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:430_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30014,
+      "costume_theme_group_id": 3000,
+      "resource_id": 800,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:800_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:800_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30015,
+      "costume_theme_group_id": 3000,
+      "resource_id": 191,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:191_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:191_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30016,
+      "costume_theme_group_id": 3000,
+      "resource_id": 90,
+      "costume_index": 2,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:90_02_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:90_02_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30017,
+      "costume_theme_group_id": 3000,
+      "resource_id": 282,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:282_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:282_01_description",
+      "costume_shop_price_id": 120010,
+      "is_hidden": false
+    },
+    {
+      "id": 30018,
+      "costume_theme_group_id": 3000,
+      "resource_id": 260,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Unique",
+      "costume_name_locale": "Locale_CharacterCostume:260_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:260_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30019,
+      "costume_theme_group_id": 3000,
+      "resource_id": 70,
+      "costume_index": 2,
+      "additional_skins": [
+        "bg"
+      ],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:70_02_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:70_02_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30020,
+      "costume_theme_group_id": 3000,
+      "resource_id": 271,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:271_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:271_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30021,
+      "costume_theme_group_id": 3000,
+      "resource_id": 270,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:270_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:270_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30022,
+      "costume_theme_group_id": 3000,
+      "resource_id": 140,
+      "costume_index": 2,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:140_02_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:140_2_description",
+      "is_hidden": false
+    },
+    {
+      "id": 40001,
+      "costume_theme_group_id": 4000,
+      "resource_id": 90,
+      "costume_index": 1,
+      "additional_skins": [
+        "bg"
+      ],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:90_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:90_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 40002,
+      "costume_theme_group_id": 4000,
+      "resource_id": 210,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:210_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:210_1_description",
+      "costume_shop_price_id": 120004,
+      "is_hidden": false
+    },
+    {
+      "id": 50001,
+      "costume_theme_group_id": 5000,
+      "resource_id": 150,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:150_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:150_1_description",
+      "costume_shop_price_id": 120005,
+      "is_hidden": false
+    },
+    {
+      "id": 50002,
+      "costume_theme_group_id": 5000,
+      "resource_id": 140,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:140_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:140_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 50003,
+      "costume_theme_group_id": 5000,
+      "resource_id": 352,
+      "costume_index": 1,
+      "additional_skins": [
+        "bg"
+      ],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:352_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:352_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 50004,
+      "costume_theme_group_id": 5000,
+      "resource_id": 202,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:202_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:202_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 50005,
+      "costume_theme_group_id": 5000,
+      "resource_id": 170,
+      "costume_index": 2,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:170_02_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:170_2_description",
+      "is_hidden": false
+    },
+    {
+      "id": 50006,
+      "costume_theme_group_id": 5000,
+      "resource_id": 230,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:230_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:230_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 50007,
+      "costume_theme_group_id": 5000,
+      "resource_id": 233,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Unique",
+      "costume_name_locale": "Locale_CharacterCostume:233_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:233_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 50008,
+      "costume_theme_group_id": 5000,
+      "resource_id": 82,
+      "costume_index": 2,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:82_02_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:82_2_description",
+      "is_hidden": false
+    },
+    {
+      "id": 50009,
+      "costume_theme_group_id": 5000,
+      "resource_id": 180,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:180_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:180_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 50010,
+      "costume_theme_group_id": 5000,
+      "resource_id": 430,
+      "costume_index": 2,
+      "additional_skins": [
+        "bg"
+      ],
+      "costume_grade_id": "Unique",
+      "costume_name_locale": "Locale_CharacterCostume:430_02_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:430_2_description",
+      "is_hidden": false
+    },
+    {
+      "id": 60001,
+      "costume_theme_group_id": 6000,
+      "resource_id": 22,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:22_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:22_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 70001,
+      "costume_theme_group_id": 7000,
+      "resource_id": 112,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:112_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:112_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 70002,
+      "costume_theme_group_id": 7000,
+      "resource_id": 200,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Unique",
+      "costume_name_locale": "Locale_CharacterCostume:200_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:200_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 80001,
+      "costume_theme_group_id": 8000,
+      "resource_id": 101,
+      "costume_index": 1,
+      "additional_skins": [
+        "acc"
+      ],
+      "costume_grade_id": "Unique",
+      "costume_name_locale": "Locale_CharacterCostume:101_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:101_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 90001,
+      "costume_theme_group_id": 9000,
+      "resource_id": 810,
+      "costume_index": 1,
+      "additional_skins": [
+        "acc"
+      ],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:810_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:810_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 90002,
+      "costume_theme_group_id": 9000,
+      "resource_id": 810,
+      "costume_index": 2,
+      "additional_skins": [
+        "acc",
+        "bg"
+      ],
+      "costume_grade_id": "Unique",
+      "costume_name_locale": "Locale_CharacterCostume:810_02_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:810_2_description",
+      "is_hidden": false
+    },
+    {
+      "id": 90003,
+      "costume_theme_group_id": 9000,
+      "resource_id": 811,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:811_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:811_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 90004,
+      "costume_theme_group_id": 9000,
+      "resource_id": 811,
+      "costume_index": 2,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "Locale_CharacterCostume:811_02_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:811_2_description",
+      "is_hidden": false
+    },
+    {
+      "id": 100001,
+      "costume_theme_group_id": 10000,
+      "resource_id": 212,
+      "costume_index": 2,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "Locale_CharacterCostume:212_02_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:212_2_description",
+      "is_hidden": false
+    }
+  ]
+}

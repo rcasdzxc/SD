@@ -1,0 +1,653 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "group": "lethal",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "image",
+      "resource_value": "guide_con_pass"
+    },
+    {
+      "id": 2,
+      "group": "lethal",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "Immortal_add_des"
+    },
+    {
+      "id": 3,
+      "group": "10000",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10000_1_add_des"
+    },
+    {
+      "id": 4,
+      "group": "10000",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10000_2_add_des"
+    },
+    {
+      "id": 5,
+      "group": "10000",
+      "page_number": 1,
+      "order": 3,
+      "resource_type": "locale",
+      "resource_value": "10000_3_add_des"
+    },
+    {
+      "id": 6,
+      "group": "10001",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10001_1_add_des"
+    },
+    {
+      "id": 7,
+      "group": "10001",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10001_2_add_des"
+    },
+    {
+      "id": 8,
+      "group": "10001",
+      "page_number": 1,
+      "order": 3,
+      "resource_type": "locale",
+      "resource_value": "10001_3_add_des"
+    },
+    {
+      "id": 9,
+      "group": "10002",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10002_1_add_des"
+    },
+    {
+      "id": 10,
+      "group": "10002",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10002_2_add_des"
+    },
+    {
+      "id": 11,
+      "group": "10003",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10003_1_add_des"
+    },
+    {
+      "id": 12,
+      "group": "10003",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10003_2_add_des"
+    },
+    {
+      "id": 13,
+      "group": "10003",
+      "page_number": 1,
+      "order": 3,
+      "resource_type": "locale",
+      "resource_value": "10003_3_add_des"
+    },
+    {
+      "id": 14,
+      "group": "10004",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10004_1_add_des"
+    },
+    {
+      "id": 15,
+      "group": "10004",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10004_2_add_des"
+    },
+    {
+      "id": 16,
+      "group": "10004",
+      "page_number": 1,
+      "order": 3,
+      "resource_type": "locale",
+      "resource_value": "10004_3_add_des"
+    },
+    {
+      "id": 17,
+      "group": "10005",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10005_1_add_des"
+    },
+    {
+      "id": 18,
+      "group": "10005",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10005_2_add_des"
+    },
+    {
+      "id": 19,
+      "group": "10006",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10006_1_add_des"
+    },
+    {
+      "id": 20,
+      "group": "10006",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10006_2_add_des"
+    },
+    {
+      "id": 21,
+      "group": "10006",
+      "page_number": 1,
+      "order": 3,
+      "resource_type": "locale",
+      "resource_value": "10006_3_add_des"
+    },
+    {
+      "id": 22,
+      "group": "10007",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10007_1_add_des"
+    },
+    {
+      "id": 23,
+      "group": "10007",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10007_2_add_des"
+    },
+    {
+      "id": 24,
+      "group": "10008",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10008_1_add_des"
+    },
+    {
+      "id": 25,
+      "group": "10008",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10008_2_add_des"
+    },
+    {
+      "id": 26,
+      "group": "10009",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10009_1_add_des"
+    },
+    {
+      "id": 27,
+      "group": "10009",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10009_2_add_des"
+    },
+    {
+      "id": 28,
+      "group": "10010",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10010_1_add_des"
+    },
+    {
+      "id": 29,
+      "group": "10010",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10010_2_add_des"
+    },
+    {
+      "id": 30,
+      "group": "10011",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10011_1_add_des"
+    },
+    {
+      "id": 31,
+      "group": "10012",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10012_1_add_des"
+    },
+    {
+      "id": 32,
+      "group": "10013",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10013_1_add_des"
+    },
+    {
+      "id": 33,
+      "group": "10014",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10014_1_add_des"
+    },
+    {
+      "id": 34,
+      "group": "10014",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10014_2_add_des"
+    },
+    {
+      "id": 35,
+      "group": "10015",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10015_1_add_des"
+    },
+    {
+      "id": 36,
+      "group": "10015",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10015_2_add_des"
+    },
+    {
+      "id": 37,
+      "group": "10016",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10016_1_add_des"
+    },
+    {
+      "id": 38,
+      "group": "10016",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10016_2_add_des"
+    },
+    {
+      "id": 39,
+      "group": "10016",
+      "page_number": 1,
+      "order": 3,
+      "resource_type": "locale",
+      "resource_value": "10016_3_add_des"
+    },
+    {
+      "id": 40,
+      "group": "10017",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10017_1_add_des"
+    },
+    {
+      "id": 41,
+      "group": "10017",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10017_2_add_des"
+    },
+    {
+      "id": 42,
+      "group": "10018",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10018_1_add_des"
+    },
+    {
+      "id": 43,
+      "group": "10018",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10018_2_add_des"
+    },
+    {
+      "id": 44,
+      "group": "10019",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10019_1_add_des"
+    },
+    {
+      "id": 45,
+      "group": "10019",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10019_2_add_des"
+    },
+    {
+      "id": 46,
+      "group": "10019",
+      "page_number": 1,
+      "order": 3,
+      "resource_type": "locale",
+      "resource_value": "10019_3_add_des"
+    },
+    {
+      "id": 47,
+      "group": "10020",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10020_1_add_des"
+    },
+    {
+      "id": 48,
+      "group": "10021",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10021_1_add_des"
+    },
+    {
+      "id": 49,
+      "group": "10021",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10021_2_add_des"
+    },
+    {
+      "id": 50,
+      "group": "10022",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10022_1_add_des"
+    },
+    {
+      "id": 51,
+      "group": "10022",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10022_2_add_des"
+    },
+    {
+      "id": 52,
+      "group": "10023",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10023_1_add_des"
+    },
+    {
+      "id": 53,
+      "group": "10023",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10023_2_add_des"
+    },
+    {
+      "id": 54,
+      "group": "10023",
+      "page_number": 1,
+      "order": 3,
+      "resource_type": "locale",
+      "resource_value": "10023_3_add_des"
+    },
+    {
+      "id": 55,
+      "group": "10024",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10024_1_add_des"
+    },
+    {
+      "id": 56,
+      "group": "10024",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10024_2_add_des"
+    },
+    {
+      "id": 57,
+      "group": "10025",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10025_1_add_des"
+    },
+    {
+      "id": 58,
+      "group": "10025",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10025_2_add_des"
+    },
+    {
+      "id": 59,
+      "group": "10020",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10020_2_add_des"
+    },
+    {
+      "id": 60,
+      "group": "10026",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10026_1_add_des"
+    },
+    {
+      "id": 61,
+      "group": "10026",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10026_2_add_des"
+    },
+    {
+      "id": 62,
+      "group": "10027",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10027_1_add_des"
+    },
+    {
+      "id": 63,
+      "group": "10027",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10027_2_add_des"
+    },
+    {
+      "id": 64,
+      "group": "10027",
+      "page_number": 1,
+      "order": 3,
+      "resource_type": "locale",
+      "resource_value": "10027_3_add_des"
+    },
+    {
+      "id": 65,
+      "group": "10028",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10028_1_add_des"
+    },
+    {
+      "id": 66,
+      "group": "10029",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10029_1_add_des"
+    },
+    {
+      "id": 67,
+      "group": "10030",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10030_1_add_des"
+    },
+    {
+      "id": 68,
+      "group": "10031",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10031_1_add_des"
+    },
+    {
+      "id": 69,
+      "group": "10031",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10031_2_add_des"
+    },
+    {
+      "id": 70,
+      "group": "10031",
+      "page_number": 1,
+      "order": 3,
+      "resource_type": "locale",
+      "resource_value": "10031_3_add_des"
+    },
+    {
+      "id": 71,
+      "group": "10032",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10032_1_add_des"
+    },
+    {
+      "id": 72,
+      "group": "10032",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10032_2_add_des"
+    },
+    {
+      "id": 73,
+      "group": "10033",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10033_1_add_des"
+    },
+    {
+      "id": 74,
+      "group": "10033",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10033_2_add_des"
+    },
+    {
+      "id": 75,
+      "group": "10034",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10034_1_add_des"
+    },
+    {
+      "id": 76,
+      "group": "10035",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10035_1_add_des"
+    },
+    {
+      "id": 77,
+      "group": "10026",
+      "page_number": 1,
+      "order": 3,
+      "resource_type": "locale",
+      "resource_value": "10026_3_add_des"
+    },
+    {
+      "id": 78,
+      "group": "10036",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10036_1_add_des"
+    },
+    {
+      "id": 79,
+      "group": "10037",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10037_1_add_des"
+    },
+    {
+      "id": 80,
+      "group": "10038",
+      "page_number": 1,
+      "order": 1,
+      "resource_type": "locale",
+      "resource_value": "10038_1_add_des"
+    },
+    {
+      "id": 81,
+      "group": "10038",
+      "page_number": 1,
+      "order": 2,
+      "resource_type": "locale",
+      "resource_value": "10038_2_add_des"
+    }
+  ]
+}

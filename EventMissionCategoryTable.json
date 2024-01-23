@@ -1,0 +1,355 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 103,
+      "group": 1,
+      "order": 1,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 103,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 203,
+      "group": 2,
+      "order": 1,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 203,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 301,
+      "group": 3,
+      "order": 1,
+      "name": "Locale_System:DAILY_MISSION",
+      "description": "Locale_System:DAILY_MISSION_INFO",
+      "mission_list_group": 301,
+      "point_resource": "None",
+      "init_type": "Daily"
+    },
+    {
+      "id": 303,
+      "group": 3,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 303,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 503,
+      "group": 5,
+      "order": 1,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 503,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 603,
+      "group": 6,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 603,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 703,
+      "group": 7,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 703,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 801,
+      "group": 8,
+      "order": 1,
+      "name": "Locale_System:DAILY_MISSION",
+      "description": "Locale_System:DAILY_MISSION_INFO",
+      "mission_list_group": 801,
+      "point_resource": "None",
+      "init_type": "Daily"
+    },
+    {
+      "id": 803,
+      "group": 8,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 803,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 1003,
+      "group": 10,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 1003,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 1103,
+      "group": 11,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 1103,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 1203,
+      "group": 12,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 1203,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 1301,
+      "group": 13,
+      "order": 1,
+      "name": "Locale_System:DAILY_MISSION",
+      "description": "Locale_System:DAILY_MISSION_INFO",
+      "mission_list_group": 1301,
+      "point_resource": "None",
+      "init_type": "Daily"
+    },
+    {
+      "id": 1303,
+      "group": 13,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 1303,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 1503,
+      "group": 15,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 1503,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 1603,
+      "group": 16,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 1603,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 2001,
+      "group": 20,
+      "order": 1,
+      "name": "Locale_System:DAILY_MISSION",
+      "description": "Locale_System:DAILY_MISSION_INFO",
+      "mission_list_group": 2001,
+      "point_resource": "None",
+      "init_type": "Daily"
+    },
+    {
+      "id": 2003,
+      "group": 20,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 2003,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 2203,
+      "group": 22,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 2203,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 2303,
+      "group": 23,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 2303,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 2401,
+      "group": 24,
+      "order": 1,
+      "name": "Locale_System:DAILY_MISSION",
+      "description": "Locale_System:DAILY_MISSION_INFO",
+      "mission_list_group": 2401,
+      "point_resource": "None",
+      "init_type": "Daily"
+    },
+    {
+      "id": 2403,
+      "group": 24,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 2403,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 2601,
+      "group": 26,
+      "order": 1,
+      "name": "Locale_System:DAILY_MISSION",
+      "description": "Locale_System:DAILY_MISSION_INFO",
+      "mission_list_group": 2601,
+      "point_resource": "None",
+      "init_type": "Daily"
+    },
+    {
+      "id": 2603,
+      "group": 26,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 2603,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 2803,
+      "group": 28,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 2803,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 2903,
+      "group": 29,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 2903,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 3003,
+      "group": 30,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 3003,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 3101,
+      "group": 31,
+      "order": 1,
+      "name": "Locale_System:DAILY_MISSION",
+      "description": "Locale_System:DAILY_MISSION_INFO",
+      "mission_list_group": 3101,
+      "point_resource": "None",
+      "init_type": "Daily"
+    },
+    {
+      "id": 3103,
+      "group": 31,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 3103,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 3303,
+      "group": 33,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 3303,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 3401,
+      "group": 34,
+      "order": 1,
+      "name": "Locale_System:DAILY_MISSION",
+      "description": "Locale_System:DAILY_MISSION_INFO",
+      "mission_list_group": 3401,
+      "point_resource": "None",
+      "init_type": "Daily"
+    },
+    {
+      "id": 3403,
+      "group": 34,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 3403,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 3603,
+      "group": 36,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 3603,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 3703,
+      "group": 37,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 3703,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 3803,
+      "group": 38,
+      "order": 3,
+      "name": "Locale_System:CHALLENGE_MISSION",
+      "description": "Locale_System:CHALLENGE_MISSION_INFO",
+      "mission_list_group": 3803,
+      "point_resource": "None",
+      "init_type": "None"
+    }
+  ]
+}

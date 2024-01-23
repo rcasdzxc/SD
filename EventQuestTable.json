@@ -1,0 +1,380 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1000101,
+      "event_quest_manager_id": 10001,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000101",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000101",
+      "next_quest_id": 1000102,
+      "end_scenario_id": "event_fullfoolday_01",
+      "reward_id": 1320001
+    },
+    {
+      "id": 1000102,
+      "event_quest_manager_id": 10001,
+      "condition_type": "Normal_Chapter_View",
+      "condition_value": 3,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000102",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000102",
+      "next_quest_id": 1000103,
+      "end_scenario_id": "event_fullfoolday_02",
+      "reward_id": 1320002
+    },
+    {
+      "id": 1000103,
+      "event_quest_manager_id": 10001,
+      "condition_type": "EventQuest_Stage_Clear",
+      "condition_value": 6600101,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000103",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000103",
+      "next_quest_id": 1000104,
+      "end_scenario_id": "event_fullfoolday_04",
+      "reward_id": 1320003
+    },
+    {
+      "id": 1000104,
+      "event_quest_manager_id": 10001,
+      "condition_type": "Normal_Chapter_View",
+      "condition_value": 4,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000104",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000104",
+      "next_quest_id": 1000105,
+      "reward_id": 1320004
+    },
+    {
+      "id": 1000105,
+      "event_quest_manager_id": 10001,
+      "condition_type": "EventQuest_Stage_Group_Clear",
+      "condition_value": 100102,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000105",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000105",
+      "next_quest_id": 1000106,
+      "end_scenario_id": "event_fullfoolday_05",
+      "reward_id": 1320005
+    },
+    {
+      "id": 1000106,
+      "event_quest_manager_id": 10001,
+      "condition_type": "Lobby_Enter",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000106",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000106",
+      "next_quest_id": 1000107,
+      "end_scenario_id": "event_fullfoolday_06",
+      "reward_id": 1320006
+    },
+    {
+      "id": 1000107,
+      "event_quest_manager_id": 10001,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000107",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000107",
+      "next_quest_id": 1000108,
+      "end_scenario_id": "event_fullfoolday_07",
+      "reward_id": 1320007
+    },
+    {
+      "id": 1000108,
+      "event_quest_manager_id": 10001,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10501,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000108",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000108",
+      "next_quest_id": 1000109,
+      "end_scenario_id": "event_fullfoolday_08",
+      "reward_id": 1320008
+    },
+    {
+      "id": 1000109,
+      "event_quest_manager_id": 10001,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000109",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000109",
+      "next_quest_id": 1000110,
+      "end_scenario_id": "event_fullfoolday_09",
+      "reward_id": 1320009
+    },
+    {
+      "id": 1000110,
+      "event_quest_manager_id": 10001,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10201,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000110",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000110",
+      "next_quest_id": 1000111,
+      "end_scenario_id": "event_fullfoolday_10",
+      "reward_id": 1320010
+    },
+    {
+      "id": 1000111,
+      "event_quest_manager_id": 10001,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10301,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000111",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000111",
+      "next_quest_id": 1000112,
+      "end_scenario_id": "event_fullfoolday_11",
+      "reward_id": 1320011
+    },
+    {
+      "id": 1000112,
+      "event_quest_manager_id": 10001,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000112",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000112",
+      "next_quest_id": 1000113,
+      "end_scenario_id": "event_fullfoolday_end",
+      "reward_id": 1320012
+    },
+    {
+      "id": 1000113,
+      "event_quest_manager_id": 10001,
+      "condition_type": "End",
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000113",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000113",
+      "next_quest_id": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 1000201,
+      "event_quest_manager_id": 10002,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000201",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000201",
+      "next_quest_id": 1000202,
+      "end_scenario_id": "event_firstaffection_01",
+      "reward_id": 1320101
+    },
+    {
+      "id": 1000202,
+      "event_quest_manager_id": 10002,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10201,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000202",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000202",
+      "next_quest_id": 1000203,
+      "end_scenario_id": "event_firstaffection_02",
+      "reward_id": 1320102
+    },
+    {
+      "id": 1000203,
+      "event_quest_manager_id": 10002,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000203",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000203",
+      "next_quest_id": 1000204,
+      "end_scenario_id": "event_firstaffection_03",
+      "reward_id": 1320103
+    },
+    {
+      "id": 1000204,
+      "event_quest_manager_id": 10002,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10501,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000204",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000204",
+      "next_quest_id": 1000205,
+      "end_scenario_id": "event_firstaffection_04",
+      "reward_id": 1320104
+    },
+    {
+      "id": 1000205,
+      "event_quest_manager_id": 10002,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000205",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000205",
+      "next_quest_id": 1000206,
+      "end_scenario_id": "event_firstaffection_05",
+      "reward_id": 1320105
+    },
+    {
+      "id": 1000206,
+      "event_quest_manager_id": 10002,
+      "condition_type": "Normal_Chapter_View",
+      "condition_value": 4,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000206",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000206",
+      "next_quest_id": 1000207,
+      "end_scenario_id": "event_firstaffection_06",
+      "reward_id": 1320106
+    },
+    {
+      "id": 1000207,
+      "event_quest_manager_id": 10002,
+      "condition_type": "EventQuest_Stage_Clear",
+      "condition_value": 6600201,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000207",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000207",
+      "next_quest_id": 1000208,
+      "reward_id": 1320107
+    },
+    {
+      "id": 1000208,
+      "event_quest_manager_id": 10002,
+      "condition_type": "Normal_Chapter_View",
+      "condition_value": 5,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000208",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000208",
+      "next_quest_id": 1000209,
+      "reward_id": 1320108
+    },
+    {
+      "id": 1000209,
+      "event_quest_manager_id": 10002,
+      "condition_type": "EventQuest_Stage_Group_Clear",
+      "condition_value": 100201,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000209",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000209",
+      "next_quest_id": 1000210,
+      "reward_id": 1320109
+    },
+    {
+      "id": 1000210,
+      "event_quest_manager_id": 10002,
+      "condition_type": "EventQuest_Stage_Group_Clear",
+      "condition_value": 100202,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000210",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000210",
+      "next_quest_id": 1000211,
+      "end_scenario_id": "event_firstaffection_07",
+      "reward_id": 1320110
+    },
+    {
+      "id": 1000211,
+      "event_quest_manager_id": 10002,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000211",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000211",
+      "next_quest_id": 1000212,
+      "end_scenario_id": "event_firstaffection_08",
+      "reward_id": 1320111
+    },
+    {
+      "id": 1000212,
+      "event_quest_manager_id": 10002,
+      "condition_type": "End",
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000212",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000212",
+      "next_quest_id": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 1000301,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000301",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000301",
+      "next_quest_id": 1000302,
+      "end_scenario_id": "event_1yearalready_01",
+      "reward_id": 1320201
+    },
+    {
+      "id": 1000302,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10201,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000302",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000302",
+      "next_quest_id": 1000303,
+      "end_scenario_id": "event_1yearalready_02",
+      "reward_id": 1320202
+    },
+    {
+      "id": 1000303,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10601,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000303",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000303",
+      "next_quest_id": 1000304,
+      "end_scenario_id": "event_1yearalready_03",
+      "reward_id": 1320203
+    },
+    {
+      "id": 1000304,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10801,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000304",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000304",
+      "next_quest_id": 1000305,
+      "end_scenario_id": "event_1yearalready_04",
+      "reward_id": 1320204
+    },
+    {
+      "id": 1000305,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10301,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000305",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000305",
+      "next_quest_id": 1000306,
+      "end_scenario_id": "event_1yearalready_05",
+      "reward_id": 1320205
+    },
+    {
+      "id": 1000306,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10501,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000306",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000306",
+      "next_quest_id": 1000307,
+      "end_scenario_id": "event_1yearalready_06",
+      "reward_id": 1320206
+    },
+    {
+      "id": 1000307,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000307",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000307",
+      "next_quest_id": 1000308,
+      "end_scenario_id": "event_1yearalready_07",
+      "reward_id": 1320207
+    },
+    {
+      "id": 1000308,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000308",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000308",
+      "next_quest_id": 1000309,
+      "end_scenario_id": "event_1yearalready_08",
+      "reward_id": 1320208
+    },
+    {
+      "id": 1000309,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Building_Enter",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000309",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000309",
+      "next_quest_id": 1000310,
+      "end_scenario_id": "event_1yearalready_epilogue",
+      "reward_id": 1320209
+    },
+    {
+      "id": 1000310,
+      "event_quest_manager_id": 10003,
+      "condition_type": "End",
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000310",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000310",
+      "next_quest_id": 0,
+      "reward_id": 0
+    }
+  ]
+}

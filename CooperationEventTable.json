@@ -1,0 +1,335 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10001,
+      "event_id": 30001,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 1,
+      "cooperation_daily_group": 101,
+      "currency_id": 8000,
+      "ui_prefab": "common"
+    },
+    {
+      "id": 10002,
+      "event_id": 30002,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 2,
+      "cooperation_daily_group": 101,
+      "currency_id": 8000,
+      "ui_prefab": "common"
+    },
+    {
+      "id": 10003,
+      "event_id": 30003,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 3,
+      "cooperation_daily_group": 101,
+      "currency_id": 8000,
+      "ui_prefab": "common"
+    },
+    {
+      "id": 10004,
+      "event_id": 30004,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 4,
+      "cooperation_daily_group": 101,
+      "currency_id": 8000,
+      "ui_prefab": "common"
+    },
+    {
+      "id": 10005,
+      "event_id": 30005,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 5,
+      "cooperation_daily_group": 101,
+      "currency_id": 8000,
+      "ui_prefab": "common"
+    },
+    {
+      "id": 10006,
+      "event_id": 30006,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 6,
+      "cooperation_daily_group": 101,
+      "currency_id": 8000,
+      "ui_prefab": "common"
+    },
+    {
+      "id": 10007,
+      "event_id": 30007,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 7,
+      "cooperation_daily_group": 101,
+      "currency_id": 8000,
+      "ui_prefab": "common_hsta"
+    },
+    {
+      "id": 10008,
+      "event_id": 30008,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 8,
+      "cooperation_daily_group": 101,
+      "currency_id": 8000,
+      "ui_prefab": "common_zeus"
+    },
+    {
+      "id": 10009,
+      "event_id": 30009,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 9,
+      "cooperation_daily_group": 101,
+      "currency_id": 8000,
+      "ui_prefab": "common_dmtr"
+    },
+    {
+      "id": 10010,
+      "event_id": 30010,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 10,
+      "cooperation_daily_group": 304,
+      "currency_id": 8000,
+      "ui_prefab": "common_psid"
+    },
+    {
+      "id": 10011,
+      "event_id": 30011,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 11,
+      "cooperation_daily_group": 301,
+      "currency_id": 8000,
+      "ui_prefab": "common_hsta"
+    },
+    {
+      "id": 10012,
+      "event_id": 30012,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 12,
+      "cooperation_daily_group": 301,
+      "currency_id": 8000,
+      "ui_prefab": "common_anmi"
+    },
+    {
+      "id": 10013,
+      "event_id": 30013,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 13,
+      "cooperation_daily_group": 303,
+      "currency_id": 8000,
+      "ui_prefab": "common_zeus"
+    },
+    {
+      "id": 10014,
+      "event_id": 30014,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 14,
+      "cooperation_daily_group": 301,
+      "currency_id": 8000,
+      "ui_prefab": "common_hsta"
+    },
+    {
+      "id": 10015,
+      "event_id": 30015,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 15,
+      "cooperation_daily_group": 302,
+      "currency_id": 8000,
+      "ui_prefab": "common_dmtr"
+    },
+    {
+      "id": 10016,
+      "event_id": 30016,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 16,
+      "cooperation_daily_group": 301,
+      "currency_id": 8000,
+      "ui_prefab": "bbg004_psid"
+    },
+    {
+      "id": 10017,
+      "event_id": 30017,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 17,
+      "cooperation_daily_group": 301,
+      "currency_id": 8000,
+      "ui_prefab": "bbg004_zeus"
+    },
+    {
+      "id": 10018,
+      "event_id": 30018,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 18,
+      "cooperation_daily_group": 302,
+      "currency_id": 8000,
+      "ui_prefab": "bbg004_dmtr"
+    },
+    {
+      "id": 10019,
+      "event_id": 30019,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 19,
+      "cooperation_daily_group": 305,
+      "currency_id": 8000,
+      "ui_prefab": "eba003_zeus"
+    },
+    {
+      "id": 10020,
+      "event_id": 30020,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 20,
+      "cooperation_daily_group": 305,
+      "currency_id": 8000,
+      "ui_prefab": "eba003_anmi"
+    },
+    {
+      "id": 10021,
+      "event_id": 30021,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 21,
+      "cooperation_daily_group": 305,
+      "currency_id": 8000,
+      "ui_prefab": "eba003_psid"
+    },
+    {
+      "id": 10022,
+      "event_id": 30022,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 22,
+      "cooperation_daily_group": 303,
+      "currency_id": 8000,
+      "ui_prefab": "common_hsta"
+    },
+    {
+      "id": 10023,
+      "event_id": 30023,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 23,
+      "cooperation_daily_group": 302,
+      "currency_id": 8000,
+      "ui_prefab": "common_psid"
+    },
+    {
+      "id": 10024,
+      "event_id": 30024,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 24,
+      "cooperation_daily_group": 304,
+      "currency_id": 8000,
+      "ui_prefab": "common_hsta"
+    },
+    {
+      "id": 10025,
+      "event_id": 30025,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 25,
+      "cooperation_daily_group": 304,
+      "currency_id": 8000,
+      "ui_prefab": "common_hsta"
+    },
+    {
+      "id": 10026,
+      "event_id": 30026,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 26,
+      "cooperation_daily_group": 303,
+      "currency_id": 8000,
+      "ui_prefab": "common_dmtr"
+    },
+    {
+      "id": 10027,
+      "event_id": 30027,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 27,
+      "cooperation_daily_group": 301,
+      "currency_id": 8000,
+      "ui_prefab": "common_psid"
+    },
+    {
+      "id": 10028,
+      "event_id": 30028,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 28,
+      "cooperation_daily_group": 301,
+      "currency_id": 8000,
+      "ui_prefab": "common_anmi"
+    },
+    {
+      "id": 10029,
+      "event_id": 30029,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 29,
+      "cooperation_daily_group": 301,
+      "currency_id": 8000,
+      "ui_prefab": "common_hsta"
+    },
+    {
+      "id": 10030,
+      "event_id": 30030,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 30,
+      "cooperation_daily_group": 301,
+      "currency_id": 8000,
+      "ui_prefab": "common_hsta"
+    },
+    {
+      "id": 100101,
+      "event_id": 300101,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 101,
+      "cooperation_daily_group": 201,
+      "currency_id": 8000,
+      "ui_prefab": "eba003_hsta"
+    },
+    {
+      "id": 100102,
+      "event_id": 300102,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 102,
+      "cooperation_daily_group": 201,
+      "currency_id": 8000,
+      "ui_prefab": "eba003"
+    },
+    {
+      "id": 100103,
+      "event_id": 300103,
+      "thumbnail": "None",
+      "contents_type": "MultiRaid",
+      "contents_value": 103,
+      "cooperation_daily_group": 201,
+      "currency_id": 8000,
+      "ui_prefab": "eba003_dmtr"
+    }
+  ]
+}

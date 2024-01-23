@@ -1,0 +1,410 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1000,
+      "group": 1,
+      "is_outpost": true,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_MAIN",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_MAIN",
+      "name_tag_localkey": "Locale_System:ALBUM_NAMETAG_CHAPTER",
+      "is_show_total_count": true
+    },
+    {
+      "id": 2000,
+      "group": 2,
+      "is_outpost": true,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_SUDDENSTORY",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_SUDDENSTORY",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10001,
+      "group": 1000,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10011,
+      "group": 1001,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10021,
+      "group": 1002,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10031,
+      "group": 1003,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10041,
+      "group": 1004,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10051,
+      "group": 1005,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10061,
+      "group": 1006,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10071,
+      "group": 1007,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10081,
+      "group": 1008,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10091,
+      "group": 1009,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10101,
+      "group": 1010,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10111,
+      "group": 1011,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10121,
+      "group": 1012,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10131,
+      "group": 1013,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10141,
+      "group": 1014,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10151,
+      "group": 1015,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10201,
+      "group": 1020,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10211,
+      "group": 1021,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10221,
+      "group": 1022,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10231,
+      "group": 1023,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10241,
+      "group": 1024,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10251,
+      "group": 1025,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10261,
+      "group": 1026,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10271,
+      "group": 1027,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10281,
+      "group": 1028,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10291,
+      "group": 1029,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10301,
+      "group": 1030,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10311,
+      "group": 1031,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10321,
+      "group": 1032,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10331,
+      "group": 1033,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10341,
+      "group": 1034,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10351,
+      "group": 1035,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10361,
+      "group": 1036,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10371,
+      "group": 1037,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10381,
+      "group": 1038,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 20001,
+      "group": 20001,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_EVENT_QUEST",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 20002,
+      "group": 20002,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_EVENT_QUEST",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 20003,
+      "group": 20003,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_EVENT_QUEST",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 30001,
+      "group": 30001,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_EVENT_QUEST",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 30002,
+      "group": 30002,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_EVENT_QUEST",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 30003,
+      "group": 30003,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_EVENT_MINIGAME",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_EVENT_MINIGAME",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 30004,
+      "group": 30004,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_EVENT_MINIGAME",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_EVENT_MINIGAME",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 40001,
+      "group": 40001,
+      "is_outpost": false,
+      "category_name_localkey": "Locale_System:ALBUM_CATEGORY_NAME_EVENT_SUDDENSTORY",
+      "category_description_localkey": "Locale_System:ALBUM_CATEGORY_DESC_EVENT_SUDDENSTORY",
+      "name_tag_localkey": "Locale_System:OUTPOST_EN",
+      "is_show_total_count": false
+    }
+  ]
+}
