@@ -1,0 +1,122 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 111,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_111_02",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_111",
+      "stat_type": "Atk",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_statatk"
+    },
+    {
+      "id": 112,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_112_02",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_112",
+      "stat_type": "Atk",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_statatk"
+    },
+    {
+      "id": 113,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_113_02",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_113",
+      "stat_type": "Atk",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_statatk"
+    },
+    {
+      "id": 114,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_114_02",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_114",
+      "stat_type": "Atk",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_statatk"
+    },
+    {
+      "id": 115,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_115_02",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_115",
+      "stat_type": "Atk",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_statatk"
+    },
+    {
+      "id": 121,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_121",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_121",
+      "stat_type": "Atk",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_statatk"
+    },
+    {
+      "id": 122,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_122",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_122",
+      "stat_type": "Atk",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_statatk"
+    },
+    {
+      "id": 123,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_123",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_123",
+      "stat_type": "Atk",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_statatk"
+    },
+    {
+      "id": 131,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_131_02",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_131",
+      "stat_type": "Hp",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_stathp"
+    },
+    {
+      "id": 132,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_132_02",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_132",
+      "stat_type": "Hp",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_stathp"
+    },
+    {
+      "id": 133,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_133_02",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_133",
+      "stat_type": "Hp",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_stathp"
+    },
+    {
+      "id": 134,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_134_02",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_134",
+      "stat_type": "Hp",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_stathp"
+    },
+    {
+      "id": 135,
+      "name_localkey": "Locale_Skill:bf_name_cooperation_135_02",
+      "description_localkey": "Locale_Skill:bf_desc_cooperation_135",
+      "stat_type": "Hp",
+      "function_value_type": "Percent",
+      "stat_value": 1000,
+      "buff_icon": "icn_buff_stathp"
+    }
+  ]
+}

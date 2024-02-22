@@ -1,0 +1,173 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 101,
+      "list_id": 100,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10011
+    },
+    {
+      "id": 102,
+      "list_id": 100,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_HARD",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10012
+    },
+    {
+      "id": 201,
+      "list_id": 200,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_01_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10131
+    },
+    {
+      "id": 203,
+      "list_id": 200,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_02_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10141
+    },
+    {
+      "id": 204,
+      "list_id": 200,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_02_HARD",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10142
+    },
+    {
+      "id": 301,
+      "list_id": 300,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10101
+    },
+    {
+      "id": 302,
+      "list_id": 300,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_HARD",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10102
+    },
+    {
+      "id": 401,
+      "list_id": 400,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10121
+    },
+    {
+      "id": 402,
+      "list_id": 400,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_HARD",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10122
+    },
+    {
+      "id": 501,
+      "list_id": 500,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_01_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10031
+    },
+    {
+      "id": 502,
+      "list_id": 500,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_02_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10041
+    },
+    {
+      "id": 503,
+      "list_id": 500,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_02_HARD",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10042
+    },
+    {
+      "id": 601,
+      "list_id": 600,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10171
+    },
+    {
+      "id": 602,
+      "list_id": 600,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_HARD",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10172
+    },
+    {
+      "id": 701,
+      "list_id": 700,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10221
+    },
+    {
+      "id": 702,
+      "list_id": 700,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_HARD",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10222
+    },
+    {
+      "id": 801,
+      "list_id": 800,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10111
+    },
+    {
+      "id": 802,
+      "list_id": 800,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_HARD",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10112
+    },
+    {
+      "id": 901,
+      "list_id": 900,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10061
+    },
+    {
+      "id": 902,
+      "list_id": 900,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_HARD",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10062
+    },
+    {
+      "id": 1001,
+      "list_id": 1000,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10071
+    },
+    {
+      "id": 1002,
+      "list_id": 1000,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_HARD",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10072
+    },
+    {
+      "id": 1101,
+      "list_id": 1100,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_NORMAL",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10161
+    },
+    {
+      "id": 1102,
+      "list_id": 1100,
+      "reward_info_tab_locale": "Locale_System:RECORD_REWARD_INFO_DUNGEON_HARD",
+      "reward_data_load_type": "EventDungeonDifficult",
+      "reward_data_load_sub_id": 10162
+    }
+  ]
+}

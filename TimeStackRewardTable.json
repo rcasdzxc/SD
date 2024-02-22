@@ -1,0 +1,645 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 101001,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 101001,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 71796,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 100000,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 101002,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 101002,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 71616,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 99167,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 101003,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 101003,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 71437,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 98334,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 101004,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 101004,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 71257,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 97500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 101005,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 101005,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 71077,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 96667,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 101006,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 101006,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 70899,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 95834,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 101007,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 101007,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 70719,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 95000,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 101008,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 101008,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 70539,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 94167,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 101009,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 101009,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 70360,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 93334,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 101010,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 101010,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 70180,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 92500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 102001,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 102001,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 70000,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 87500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 102002,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 102002,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 69822,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 82500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 102003,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 102003,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 69642,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 77500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 102004,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 102004,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 69462,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 72500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 102005,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 102005,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 69283,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 67500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 102006,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 102006,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 69103,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 62500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 102007,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 102007,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 68924,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 57500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 102008,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 102008,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 68745,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 52500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 102009,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 102009,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 68565,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 47500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 102010,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 102010,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 68385,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 42500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 103001,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 103001,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 68206,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 37500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 103002,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 103002,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 68026,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 34167,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 103003,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 103003,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 67847,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 30834,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 104001,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 104001,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 67668,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 27500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 104002,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 104002,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 67488,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 24167,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 104003,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 104003,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 67308,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 20834,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 105001,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 105001,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 67129,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 17500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 105002,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 105002,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 66950,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 14167,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 105003,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 105003,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 66770,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 10834,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 106001,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 106001,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 66591,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 7500,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 106002,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 106002,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 66411,
+          "time_sec": 60
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 4167,
+          "time_sec": 60
+        }
+      ]
+    },
+    {
+      "id": 999999,
+      "arena_type": "ArenaSpecial",
+      "condition_type": "Tier",
+      "condition_value": 999999,
+      "time_stack_reward": [
+        {
+          "item_type": "Currency",
+          "item_id": 5000,
+          "item_value": 0,
+          "time_sec": 0
+        },
+        {
+          "item_type": "Point",
+          "item_id": 1,
+          "item_value": 0,
+          "time_sec": 0
+        }
+      ]
+    }
+  ]
+}

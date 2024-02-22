@@ -1,0 +1,362 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10001,
+      "item_type": "Item",
+      "item_id": 7070001,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10002,
+      "item_type": "Item",
+      "item_id": 7070002,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10003,
+      "item_type": "Item",
+      "item_id": 7070003,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10005,
+      "item_type": "Item",
+      "item_id": 7070004,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10006,
+      "item_type": "Item",
+      "item_id": 7070006,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10007,
+      "item_type": "Item",
+      "item_id": 7070007,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10008,
+      "item_type": "Item",
+      "item_id": 7070008,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10010,
+      "item_type": "Item",
+      "item_id": 7070010,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10011,
+      "item_type": "Item",
+      "item_id": 7070011,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10012,
+      "item_type": "Item",
+      "item_id": 7070012,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10013,
+      "item_type": "Item",
+      "item_id": 7070013,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10014,
+      "item_type": "Item",
+      "item_id": 7070014,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10015,
+      "item_type": "Item",
+      "item_id": 7070015,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10020,
+      "item_type": "Item",
+      "item_id": 7070020,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10022,
+      "item_type": "Item",
+      "item_id": 7070022,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10023,
+      "item_type": "Item",
+      "item_id": 7070023,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10024,
+      "item_type": "Item",
+      "item_id": 7070024,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10026,
+      "item_type": "Item",
+      "item_id": 7070026,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10028,
+      "item_type": "Item",
+      "item_id": 7070028,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10029,
+      "item_type": "Item",
+      "item_id": 7070029,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10030,
+      "item_type": "Item",
+      "item_id": 7070030,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10031,
+      "item_type": "Item",
+      "item_id": 7070031,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10033,
+      "item_type": "Item",
+      "item_id": 7070033,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10034,
+      "item_type": "Item",
+      "item_id": 7070034,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10036,
+      "item_type": "Item",
+      "item_id": 7070036,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10037,
+      "item_type": "Item",
+      "item_id": 7070037,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10038,
+      "item_type": "Item",
+      "item_id": 7070038,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10039,
+      "item_type": "Item",
+      "item_id": 7070039,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 20001,
+      "item_type": "Currency",
+      "item_id": 6003,
+      "auto_charge_plus": 3,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 30001,
+      "item_type": "Item",
+      "item_id": 7070005,
+      "auto_charge_plus": 3,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 30002,
+      "item_type": "Item",
+      "item_id": 7071001,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 1
+    },
+    {
+      "id": 30003,
+      "item_type": "Item",
+      "item_id": 7071002,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 1
+    },
+    {
+      "id": 30004,
+      "item_type": "Item",
+      "item_id": 7071003,
+      "auto_charge_plus": 3,
+      "auto_charge_max": 21
+    },
+    {
+      "id": 40001,
+      "item_type": "Item",
+      "item_id": 7110001,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 40002,
+      "item_type": "Item",
+      "item_id": 7110002,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 40003,
+      "item_type": "Item",
+      "item_id": 7110003,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 40020,
+      "item_type": "Item",
+      "item_id": 7110020,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 40022,
+      "item_type": "Item",
+      "item_id": 7110022,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 40023,
+      "item_type": "Item",
+      "item_id": 7110023,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 40024,
+      "item_type": "Item",
+      "item_id": 7110024,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 40026,
+      "item_type": "Item",
+      "item_id": 7110026,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 40028,
+      "item_type": "Item",
+      "item_id": 7110028,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 40029,
+      "item_type": "Item",
+      "item_id": 7110029,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 40030,
+      "item_type": "Item",
+      "item_id": 7110030,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 40031,
+      "item_type": "Item",
+      "item_id": 7110031,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 1
+    },
+    {
+      "id": 40033,
+      "item_type": "Item",
+      "item_id": 7110033,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 1
+    },
+    {
+      "id": 40034,
+      "item_type": "Item",
+      "item_id": 7110034,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 1
+    },
+    {
+      "id": 40036,
+      "item_type": "Item",
+      "item_id": 7110036,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 1
+    },
+    {
+      "id": 40037,
+      "item_type": "Item",
+      "item_id": 7110037,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 1
+    },
+    {
+      "id": 40038,
+      "item_type": "Item",
+      "item_id": 7110038,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 1
+    },
+    {
+      "id": 40039,
+      "item_type": "Item",
+      "item_id": 7110039,
+      "auto_charge_plus": 1,
+      "auto_charge_max": 1
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10011,
+      "group": 1001,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1001101
+    },
+    {
+      "id": 10012,
+      "group": 1001,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1001201
+    },
+    {
+      "id": 10131,
+      "group": 1013,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1013101
+    },
+    {
+      "id": 10141,
+      "group": 1014,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1014101
+    },
+    {
+      "id": 10142,
+      "group": 1014,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1014201
+    },
+    {
+      "id": 10101,
+      "group": 1010,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1010101
+    },
+    {
+      "id": 10102,
+      "group": 1010,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1010201
+    },
+    {
+      "id": 10121,
+      "group": 1012,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1012101
+    },
+    {
+      "id": 10122,
+      "group": 1012,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1012201
+    },
+    {
+      "id": 10031,
+      "group": 1003,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1003101
+    },
+    {
+      "id": 10041,
+      "group": 1004,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1004101
+    },
+    {
+      "id": 10042,
+      "group": 1004,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1004201
+    },
+    {
+      "id": 10171,
+      "group": 1017,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1017101
+    },
+    {
+      "id": 10172,
+      "group": 1017,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1017201
+    },
+    {
+      "id": 10221,
+      "group": 1022,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1022101
+    },
+    {
+      "id": 10222,
+      "group": 1022,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1022201
+    },
+    {
+      "id": 10111,
+      "group": 1011,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1011101
+    },
+    {
+      "id": 10112,
+      "group": 1011,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1011201
+    },
+    {
+      "id": 10061,
+      "group": 1006,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1006101
+    },
+    {
+      "id": 10062,
+      "group": 1006,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1006201
+    },
+    {
+      "id": 10071,
+      "group": 1007,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1007101
+    },
+    {
+      "id": 10072,
+      "group": 1007,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1007201
+    },
+    {
+      "id": 10161,
+      "group": 1016,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1016101
+    },
+    {
+      "id": 10162,
+      "group": 1016,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1016201
+    }
+  ]
+}

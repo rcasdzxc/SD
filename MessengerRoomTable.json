@@ -1,0 +1,3695 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "test",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:10_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rapi"
+      ]
+    },
+    {
+      "id": "test_1",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:11_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "neon"
+      ]
+    },
+    {
+      "id": "test_2",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:900_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "ingrid"
+      ]
+    },
+    {
+      "id": "test_quest",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_50_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "keuoaang01"
+      ]
+    },
+    {
+      "id": "test_quest_2",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_51_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "ruruphee01"
+      ]
+    },
+    {
+      "id": "m_test_quest3",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:170_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "privaty"
+      ]
+    },
+    {
+      "id": "test_counters",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:counters_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rapi",
+        "neon",
+        "anis"
+      ]
+    },
+    {
+      "id": "test_rapi",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3001,
+      "name_locale": "Locale_Character:10_name",
+      "thumbnail_image": "mi_c010_00_s",
+      "members": [
+        "rapi"
+      ]
+    },
+    {
+      "id": "test_neon",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3002,
+      "name_locale": "Locale_Character:11_name",
+      "thumbnail_image": "mi_c011_00_s",
+      "members": [
+        "neon"
+      ]
+    },
+    {
+      "id": "test_anis",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3005,
+      "name_locale": "Locale_Character:12_name",
+      "thumbnail_image": "mi_c012_00_s",
+      "members": [
+        "anis"
+      ]
+    },
+    {
+      "id": "rapi",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3001,
+      "name_locale": "Locale_Character:10_name",
+      "thumbnail_image": "mi_c010_00_s",
+      "members": [
+        "rapi"
+      ]
+    },
+    {
+      "id": "neon",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3002,
+      "name_locale": "Locale_Character:11_name",
+      "thumbnail_image": "mi_c011_00_s",
+      "members": [
+        "neon"
+      ]
+    },
+    {
+      "id": "anis",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3005,
+      "name_locale": "Locale_Character:12_name",
+      "thumbnail_image": "mi_c012_00_s",
+      "members": [
+        "anis"
+      ]
+    },
+    {
+      "id": "delta",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3003,
+      "name_locale": "Locale_Character:20_name",
+      "thumbnail_image": "mi_c020_00_s",
+      "members": [
+        "delta"
+      ]
+    },
+    {
+      "id": "signal",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5015,
+      "name_locale": "Locale_Character:22_name",
+      "thumbnail_image": "mi_c022_00_s",
+      "members": [
+        "signal"
+      ]
+    },
+    {
+      "id": "poli",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5016,
+      "name_locale": "Locale_Character:30_name",
+      "thumbnail_image": "mi_c030_00_s",
+      "members": [
+        "poli"
+      ]
+    },
+    {
+      "id": "miranda",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5017,
+      "name_locale": "Locale_Character:32_name",
+      "thumbnail_image": "mi_c032_00_s",
+      "members": [
+        "miranda"
+      ]
+    },
+    {
+      "id": "quiry",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5082,
+      "name_locale": "Locale_Character:33_name",
+      "thumbnail_image": "mi_c033_00_s",
+      "members": [
+        "quiry"
+      ]
+    },
+    {
+      "id": "belorta",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3007,
+      "name_locale": "Locale_Character:60_name",
+      "thumbnail_image": "mi_c060_00_s",
+      "members": [
+        "belorta"
+      ]
+    },
+    {
+      "id": "mica",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3008,
+      "name_locale": "Locale_Character:61_name",
+      "thumbnail_image": "mi_c061_00_s",
+      "members": [
+        "mica"
+      ]
+    },
+    {
+      "id": "brid",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5018,
+      "name_locale": "Locale_Character:70_name",
+      "thumbnail_image": "mi_c070_00_s",
+      "members": [
+        "brid"
+      ]
+    },
+    {
+      "id": "soline",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5019,
+      "name_locale": "Locale_Character:71_name",
+      "thumbnail_image": "mi_c071_00_s",
+      "members": [
+        "soline"
+      ]
+    },
+    {
+      "id": "diesel",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5020,
+      "name_locale": "Locale_Character:72_name",
+      "thumbnail_image": "mi_c072_00_s",
+      "members": [
+        "diesel"
+      ]
+    },
+    {
+      "id": "centi",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5021,
+      "name_locale": "Locale_Character:80_name",
+      "thumbnail_image": "mi_c080_00_s",
+      "members": [
+        "centi"
+      ]
+    },
+    {
+      "id": "liter",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5011,
+      "name_locale": "Locale_Character:82_name",
+      "thumbnail_image": "mi_c082_00_s",
+      "members": [
+        "liter"
+      ]
+    },
+    {
+      "id": "emma",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5005,
+      "name_locale": "Locale_Character:90_name",
+      "thumbnail_image": "mi_c090_00_s",
+      "members": [
+        "emma"
+      ]
+    },
+    {
+      "id": "vesti",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5022,
+      "name_locale": "Locale_Character:91_name",
+      "thumbnail_image": "mi_c091_00_s",
+      "members": [
+        "vesti"
+      ]
+    },
+    {
+      "id": "eunhwa",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5023,
+      "name_locale": "Locale_Character:92_name",
+      "thumbnail_image": "mi_c092_00_s",
+      "members": [
+        "eunhwa"
+      ]
+    },
+    {
+      "id": "drake",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5024,
+      "name_locale": "Locale_Character:101_name",
+      "thumbnail_image": "mi_c101_00_s",
+      "members": [
+        "drake"
+      ]
+    },
+    {
+      "id": "maxwell",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5001,
+      "name_locale": "Locale_Character:102_name",
+      "thumbnail_image": "mi_c102_00_s",
+      "members": [
+        "maxwell"
+      ]
+    },
+    {
+      "id": "crow",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5025,
+      "name_locale": "Locale_Character:110_name",
+      "thumbnail_image": "mi_c110_00_s",
+      "members": [
+        "crow"
+      ]
+    },
+    {
+      "id": "n102",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3009,
+      "name_locale": "Locale_Character:120_name",
+      "thumbnail_image": "mi_c120_00_s",
+      "members": [
+        "n102"
+      ]
+    },
+    {
+      "id": "mary",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5026,
+      "name_locale": "Locale_Character:130_name",
+      "thumbnail_image": "mi_c130_00_s",
+      "members": [
+        "mary"
+      ]
+    },
+    {
+      "id": "pepper",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5027,
+      "name_locale": "Locale_Character:131_name",
+      "thumbnail_image": "mi_c131_00_s",
+      "members": [
+        "pepper"
+      ]
+    },
+    {
+      "id": "sugar",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5002,
+      "name_locale": "Locale_Character:140_name",
+      "thumbnail_image": "mi_c140_00_s",
+      "members": [
+        "sugar"
+      ]
+    },
+    {
+      "id": "milk",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5028,
+      "name_locale": "Locale_Character:141_name",
+      "thumbnail_image": "mi_c141_00_s",
+      "members": [
+        "milk"
+      ]
+    },
+    {
+      "id": "frima",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5010,
+      "name_locale": "Locale_Character:142_name",
+      "thumbnail_image": "mi_c142_00_s",
+      "members": [
+        "frima"
+      ]
+    },
+    {
+      "id": "julia",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5014,
+      "name_locale": "Locale_Character:150_name",
+      "thumbnail_image": "mi_c150_00_s",
+      "members": [
+        "julia"
+      ]
+    },
+    {
+      "id": "yuni",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5006,
+      "name_locale": "Locale_Character:160_name",
+      "thumbnail_image": "mi_c160_00_s",
+      "members": [
+        "yuni"
+      ]
+    },
+    {
+      "id": "mihara",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3006,
+      "name_locale": "Locale_Character:161_name",
+      "thumbnail_image": "mi_c161_00_s",
+      "members": [
+        "mihara"
+      ]
+    },
+    {
+      "id": "privaty",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5007,
+      "name_locale": "Locale_Character:170_name",
+      "thumbnail_image": "mi_c170_00_s",
+      "members": [
+        "privaty"
+      ]
+    },
+    {
+      "id": "yulha",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5029,
+      "name_locale": "Locale_Character:171_name",
+      "thumbnail_image": "mi_c171_00_s",
+      "members": [
+        "yulha"
+      ]
+    },
+    {
+      "id": "admi",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5030,
+      "name_locale": "Locale_Character:172_name",
+      "thumbnail_image": "mi_c172_00_s",
+      "members": [
+        "admi"
+      ]
+    },
+    {
+      "id": "guillotine",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5031,
+      "name_locale": "Locale_Character:180_name",
+      "thumbnail_image": "mi_c180_00_s",
+      "members": [
+        "guillotine"
+      ]
+    },
+    {
+      "id": "maiden",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5032,
+      "name_locale": "Locale_Character:181_name",
+      "thumbnail_image": "mi_c181_00_s",
+      "members": [
+        "maiden"
+      ]
+    },
+    {
+      "id": "ludmilla",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5033,
+      "name_locale": "Locale_Character:190_name",
+      "thumbnail_image": "mi_c190_00_s",
+      "members": [
+        "ludmilla"
+      ]
+    },
+    {
+      "id": "alice",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5004,
+      "name_locale": "Locale_Character:191_name",
+      "thumbnail_image": "mi_c191_00_s",
+      "members": [
+        "alice"
+      ]
+    },
+    {
+      "id": "rupee",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5034,
+      "name_locale": "Locale_Character:200_name",
+      "thumbnail_image": "mi_c200_00_s",
+      "members": [
+        "rupee"
+      ]
+    },
+    {
+      "id": "yan",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5035,
+      "name_locale": "Locale_Character:201_name",
+      "thumbnail_image": "mi_c201_00_s",
+      "members": [
+        "yan"
+      ]
+    },
+    {
+      "id": "dolla",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5036,
+      "name_locale": "Locale_Character:202_name",
+      "thumbnail_image": "mi_c202_00_s",
+      "members": [
+        "dolla"
+      ]
+    },
+    {
+      "id": "exia",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5003,
+      "name_locale": "Locale_Character:210_name",
+      "thumbnail_image": "mi_c210_00_s",
+      "members": [
+        "exia"
+      ]
+    },
+    {
+      "id": "novel",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5037,
+      "name_locale": "Locale_Character:212_name",
+      "thumbnail_image": "mi_c212_00_s",
+      "members": [
+        "novel"
+      ]
+    },
+    {
+      "id": "epinel",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5038,
+      "name_locale": "Locale_Character:241_name",
+      "thumbnail_image": "mi_c241_00_s",
+      "members": [
+        "epinel"
+      ]
+    },
+    {
+      "id": "folkwang",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5039,
+      "name_locale": "Locale_Character:242_name",
+      "thumbnail_image": "mi_c242_00_s",
+      "members": [
+        "folkwang"
+      ]
+    },
+    {
+      "id": "snowwhite",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5012,
+      "name_locale": "Locale_Character:220_name",
+      "thumbnail_image": "mi_c220_00_s",
+      "members": [
+        "snowwhite"
+      ]
+    },
+    {
+      "id": "rapunzel",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5040,
+      "name_locale": "Locale_Character:221_name",
+      "thumbnail_image": "mi_c221_00_s",
+      "members": [
+        "rapunzel"
+      ]
+    },
+    {
+      "id": "hongryeon",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5041,
+      "name_locale": "Locale_Character:222_name",
+      "thumbnail_image": "mi_c222_00_s",
+      "members": [
+        "hongryeon"
+      ]
+    },
+    {
+      "id": "harran",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5042,
+      "name_locale": "Locale_Character:230_name",
+      "thumbnail_image": "mi_c230_00_s",
+      "members": [
+        "harran"
+      ]
+    },
+    {
+      "id": "isabel",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5013,
+      "name_locale": "Locale_Character:231_name",
+      "thumbnail_image": "mi_c231_00_s",
+      "members": [
+        "isabel"
+      ]
+    },
+    {
+      "id": "noah",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5043,
+      "name_locale": "Locale_Character:232_name",
+      "thumbnail_image": "mi_c232_00_s",
+      "members": [
+        "noah"
+      ]
+    },
+    {
+      "id": "marian",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:13_name",
+      "thumbnail_image": "mi_c260_00_s",
+      "members": [
+        "marian"
+      ]
+    },
+    {
+      "id": "ether",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3010,
+      "name_locale": "Locale_Character:291_name",
+      "thumbnail_image": "mi_c291_00_s",
+      "members": [
+        "ether"
+      ]
+    },
+    {
+      "id": "laplace",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:100_name",
+      "thumbnail_image": "mi_c100_00_s",
+      "members": [
+        "laplace"
+      ]
+    },
+    {
+      "id": "blanc",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:270_name",
+      "thumbnail_image": "mi_c270_00_s",
+      "members": [
+        "blanc"
+      ]
+    },
+    {
+      "id": "noir",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:271_name",
+      "thumbnail_image": "mi_c271_00_s",
+      "members": [
+        "noir"
+      ]
+    },
+    {
+      "id": "rouge",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:272_name",
+      "thumbnail_image": "mi_c272_00_s",
+      "members": [
+        "rouge"
+      ]
+    },
+    {
+      "id": "rosanna",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:280_name",
+      "thumbnail_image": "mi_c280_00_s",
+      "members": [
+        "rosanna"
+      ]
+    },
+    {
+      "id": "moran",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:281_name",
+      "thumbnail_image": "mi_c281_00_s",
+      "members": [
+        "moran"
+      ]
+    },
+    {
+      "id": "sakura",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:282_name",
+      "thumbnail_image": "mi_c282_00_s",
+      "members": [
+        "sakura"
+      ]
+    },
+    {
+      "id": "mana",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:290_name",
+      "thumbnail_image": "mi_c290_00_s",
+      "members": [
+        "mana"
+      ]
+    },
+    {
+      "id": "rumani",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:240_name",
+      "thumbnail_image": "mi_c240_00_s",
+      "members": [
+        "rumani"
+      ]
+    },
+    {
+      "id": "jackal",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:111_name",
+      "thumbnail_image": "mi_c111_00_s",
+      "members": [
+        "jackal"
+      ]
+    },
+    {
+      "id": "viper",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:112_name",
+      "thumbnail_image": "mi_c112_00_s",
+      "members": [
+        "viper"
+      ]
+    },
+    {
+      "id": "noise",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5074,
+      "name_locale": "Locale_Character:430_name",
+      "thumbnail_image": "mi_c430_00_s",
+      "members": [
+        "noise"
+      ]
+    },
+    {
+      "id": "volume",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5075,
+      "name_locale": "Locale_Character:431_name",
+      "thumbnail_image": "mi_c431_00_s",
+      "members": [
+        "volume"
+      ]
+    },
+    {
+      "id": "aria",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5070,
+      "name_locale": "Locale_Character:432_name",
+      "thumbnail_image": "mi_c432_00_s",
+      "members": [
+        "aria"
+      ]
+    },
+    {
+      "id": "helm",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5066,
+      "name_locale": "Locale_Character:352_name",
+      "thumbnail_image": "mi_c352_00_s",
+      "members": [
+        "helm"
+      ]
+    },
+    {
+      "id": "neve",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3011,
+      "name_locale": "Locale_Character:193_name",
+      "thumbnail_image": "mi_c193_00_s",
+      "members": [
+        "neve"
+      ]
+    },
+    {
+      "id": "guilty",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5055,
+      "name_locale": "Locale_Character:400_name",
+      "thumbnail_image": "mi_c400_00_s",
+      "members": [
+        "guilty"
+      ]
+    },
+    {
+      "id": "sin",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5059,
+      "name_locale": "Locale_Character:401_name",
+      "thumbnail_image": "mi_c401_00_s",
+      "members": [
+        "sin"
+      ]
+    },
+    {
+      "id": "quency",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5078,
+      "name_locale": "Locale_Character:402_name",
+      "thumbnail_image": "mi_c402_00_s",
+      "members": [
+        "quency"
+      ]
+    },
+    {
+      "id": "cocoa",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5050,
+      "name_locale": "Locale_Character:311_name",
+      "thumbnail_image": "mi_c311_00_s",
+      "members": [
+        "cocoa"
+      ]
+    },
+    {
+      "id": "soda",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5051,
+      "name_locale": "Locale_Character:312_name",
+      "thumbnail_image": "mi_c312_00_s",
+      "members": [
+        "soda"
+      ]
+    },
+    {
+      "id": "ade",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:310_name",
+      "thumbnail_image": "mi_c310_00_s",
+      "members": [
+        "ade"
+      ]
+    },
+    {
+      "id": "biscuit",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5054,
+      "name_locale": "Locale_Character:381_name",
+      "thumbnail_image": "mi_c381_00_s",
+      "members": [
+        "biscuit"
+      ]
+    },
+    {
+      "id": "d",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 1007,
+      "name_locale": "Locale_Character:40_name",
+      "thumbnail_image": "mi_c040_00_s",
+      "members": [
+        "d"
+      ]
+    },
+    {
+      "id": "rei",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5069,
+      "name_locale": "Locale_Character:392_name",
+      "thumbnail_image": "mi_c392_00_s",
+      "members": [
+        "rei"
+      ]
+    },
+    {
+      "id": "dorothy",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5061,
+      "name_locale": "Locale_Character:233_name",
+      "thumbnail_image": "mi_c233_00_s",
+      "members": [
+        "dorothy"
+      ]
+    },
+    {
+      "id": "nero",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5068,
+      "name_locale": "Locale_Character:380_name",
+      "thumbnail_image": "mi_c380_00_s",
+      "members": [
+        "nero"
+      ]
+    },
+    {
+      "id": "mast",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5079,
+      "name_locale": "Locale_Character:350_name",
+      "thumbnail_image": "mi_c350_00_s",
+      "members": [
+        "mast"
+      ]
+    },
+    {
+      "id": "anchor",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:351_name",
+      "thumbnail_image": "mi_c351_00_s",
+      "members": [
+        "anchor"
+      ]
+    },
+    {
+      "id": "naga",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5099,
+      "name_locale": "Locale_Character:450_name",
+      "thumbnail_image": "mi_c450_00_s",
+      "members": [
+        "naga"
+      ]
+    },
+    {
+      "id": "tia",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5100,
+      "name_locale": "Locale_Character:451_name",
+      "thumbnail_image": "mi_c451_00_s",
+      "members": [
+        "tia"
+      ]
+    },
+    {
+      "id": "marciana",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5048,
+      "name_locale": "Locale_Character:321_name",
+      "thumbnail_image": "mi_c321_00_s",
+      "members": [
+        "marciana"
+      ]
+    },
+    {
+      "id": "tove",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5081,
+      "name_locale": "Locale_Character:192_name",
+      "thumbnail_image": "mi_c192_00_s",
+      "members": [
+        "tove"
+      ]
+    },
+    {
+      "id": "leona",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5092,
+      "name_locale": "Locale_Character:382_name",
+      "thumbnail_image": "mi_c382_00_s",
+      "members": [
+        "leona"
+      ]
+    },
+    {
+      "id": "shifty",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:907_name",
+      "thumbnail_image": "mi_c907_00_s",
+      "members": [
+        "shifty"
+      ]
+    },
+    {
+      "id": "counters",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:counters_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rapi",
+        "neon",
+        "anis"
+      ]
+    },
+    {
+      "id": "counters2",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:counters_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rapi",
+        "neon",
+        "anis"
+      ]
+    },
+    {
+      "id": "absolut",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:absolut_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "emma",
+        "vesti",
+        "eunhwa"
+      ]
+    },
+    {
+      "id": "scouting",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:scouting_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "delta",
+        "signal"
+      ]
+    },
+    {
+      "id": "infinityrail",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:infinityrail_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "brid",
+        "soline",
+        "diesel"
+      ]
+    },
+    {
+      "id": "external",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:external_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "guillotine",
+        "maiden"
+      ]
+    },
+    {
+      "id": "matis",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:matis_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "drake",
+        "maxwell",
+        "laplace"
+      ]
+    },
+    {
+      "id": "cafesweety",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:cafesweety_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "sugar",
+        "milk",
+        "frima"
+      ]
+    },
+    {
+      "id": "triangle",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:triangle_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "privaty",
+        "yulha",
+        "admi"
+      ]
+    },
+    {
+      "id": "talentum",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:talentum_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rupee",
+        "yan",
+        "dolla"
+      ]
+    },
+    {
+      "id": "littlecannon",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:littlecannon_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "belorta",
+        "mica"
+      ]
+    },
+    {
+      "id": "protocol",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:protocol_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "exia",
+        "novel"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:unlimited_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "ludmilla",
+        "alice"
+      ]
+    },
+    {
+      "id": "acpu",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:acpu_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "poli",
+        "miranda",
+        "quiry"
+      ]
+    },
+    {
+      "id": "mightytools",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:mightytools_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "centi",
+        "liter"
+      ]
+    },
+    {
+      "id": "seraphim",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:seraphim_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "mary",
+        "pepper"
+      ]
+    },
+    {
+      "id": "wardress",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:wardress_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "yuni",
+        "mihara"
+      ]
+    },
+    {
+      "id": "exotic",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:exotic_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "crow",
+        "jackal",
+        "viper"
+      ]
+    },
+    {
+      "id": "lifetonic",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:lifetonic_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rumani",
+        "epinel",
+        "folkwang"
+      ]
+    },
+    {
+      "id": "pioneer",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:pioneer_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "snowwhite",
+        "rapunzel",
+        "hongryeon"
+      ]
+    },
+    {
+      "id": "inherit",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:inherit_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "harran",
+        "isabel",
+        "noah"
+      ]
+    },
+    {
+      "id": "mmr",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:mmr_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "ether",
+        "mana"
+      ]
+    },
+    {
+      "id": "primadonna",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:primadonna_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "noise",
+        "volume",
+        "aria"
+      ]
+    },
+    {
+      "id": "realkindness",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:realkindness_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "sin",
+        "guilty",
+        "quency"
+      ]
+    },
+    {
+      "id": "maidforyou",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:maidforyou_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "soda",
+        "ade",
+        "cocoa"
+      ]
+    },
+    {
+      "id": "schoolcircle",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:schoolcircle_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "zwei",
+        "rei",
+        "ein"
+      ]
+    },
+    {
+      "id": "777",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:777_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "blanc",
+        "noir"
+      ]
+    },
+    {
+      "id": "underworldqueen",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:underworldqueen_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rosanna",
+        "sakura",
+        "moran"
+      ]
+    },
+    {
+      "id": "happyzoo",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:happyzoo_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "biscuit",
+        "nero",
+        "leona"
+      ]
+    },
+    {
+      "id": "aegis",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:aegis_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "helm",
+        "mast",
+        "anchor"
+      ]
+    },
+    {
+      "id": "dazzlingpearl",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:dazzlingpearl_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "naga",
+        "tia"
+      ]
+    },
+    {
+      "id": "bunnyx777",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_06_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "blanc",
+        "noir"
+      ]
+    },
+    {
+      "id": "queensorder",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_07_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "sakura_n",
+        "rosanna"
+      ]
+    },
+    {
+      "id": "2023_summer",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_08_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rapi_s",
+        "anis",
+        "neon_s"
+      ]
+    },
+    {
+      "id": "xxx",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_09_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "mary_s"
+      ]
+    },
+    {
+      "id": "nyanyaparadise",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_10_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "biscuit",
+        "nero",
+        "leona"
+      ]
+    },
+    {
+      "id": "ex_all",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_11_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rapi"
+      ]
+    },
+    {
+      "id": "goldenship",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_12_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "mast"
+      ]
+    },
+    {
+      "id": "blueezs",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_326_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "blueezs"
+      ]
+    },
+    {
+      "id": "dazzlingcupid",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_13_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "naga",
+        "tia"
+      ]
+    },
+    {
+      "id": "cupidnaga",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_14_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "naga"
+      ]
+    },
+    {
+      "id": "cupidtia",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_15_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "tia"
+      ]
+    },
+    {
+      "id": "schooloflock",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_16_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "zwei",
+        "rei",
+        "ein"
+      ]
+    },
+    {
+      "id": "freezeacpu",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_17_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "poli",
+        "miranda",
+        "quiry"
+      ]
+    },
+    {
+      "id": "alonesurviver",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_18_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "ludmilla",
+        "alice",
+        "neve",
+        "tove"
+      ]
+    },
+    {
+      "id": "survivor",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_361_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "survivor"
+      ]
+    },
+    {
+      "id": "lionheart",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_19_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "guillotine"
+      ]
+    },
+    {
+      "id": "dirtybackyard_01",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_20_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "moran",
+        "sugar"
+      ]
+    },
+    {
+      "id": "dirtybackyard_02",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_21_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "moran"
+      ]
+    },
+    {
+      "id": "perfectmaid",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_22_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "privaty_m",
+        "cocoa",
+        "soda",
+        "drake_m"
+      ]
+    },
+    {
+      "id": "rapi_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:10_name",
+      "thumbnail_image": "mi_c010_00_s",
+      "members": [
+        "rapi"
+      ]
+    },
+    {
+      "id": "neon_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:11_name",
+      "thumbnail_image": "mi_c011_00_s",
+      "members": [
+        "neon"
+      ]
+    },
+    {
+      "id": "anis_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:12_name",
+      "thumbnail_image": "mi_c012_00_s",
+      "members": [
+        "anis"
+      ]
+    },
+    {
+      "id": "delta_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:20_name",
+      "thumbnail_image": "mi_c020_00_s",
+      "members": [
+        "delta"
+      ]
+    },
+    {
+      "id": "signal_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:22_name",
+      "thumbnail_image": "mi_c022_00_s",
+      "members": [
+        "signal"
+      ]
+    },
+    {
+      "id": "poli_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:30_name",
+      "thumbnail_image": "mi_c030_00_s",
+      "members": [
+        "poli"
+      ]
+    },
+    {
+      "id": "miranda_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:32_name",
+      "thumbnail_image": "mi_c032_00_s",
+      "members": [
+        "miranda"
+      ]
+    },
+    {
+      "id": "belorta_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:60_name",
+      "thumbnail_image": "mi_c060_00_s",
+      "members": [
+        "belorta"
+      ]
+    },
+    {
+      "id": "mica_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:61_name",
+      "thumbnail_image": "mi_c061_00_s",
+      "members": [
+        "mica"
+      ]
+    },
+    {
+      "id": "brid_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:70_name",
+      "thumbnail_image": "mi_c070_00_s",
+      "members": [
+        "brid"
+      ]
+    },
+    {
+      "id": "soline_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:71_name",
+      "thumbnail_image": "mi_c071_00_s",
+      "members": [
+        "soline"
+      ]
+    },
+    {
+      "id": "diesel_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:72_name",
+      "thumbnail_image": "mi_c072_00_s",
+      "members": [
+        "diesel"
+      ]
+    },
+    {
+      "id": "centi_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:80_name",
+      "thumbnail_image": "mi_c080_00_s",
+      "members": [
+        "centi"
+      ]
+    },
+    {
+      "id": "liter_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:82_name",
+      "thumbnail_image": "mi_c082_00_s",
+      "members": [
+        "liter"
+      ]
+    },
+    {
+      "id": "emma_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:90_name",
+      "thumbnail_image": "mi_c090_00_s",
+      "members": [
+        "emma"
+      ]
+    },
+    {
+      "id": "vesti_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:91_name",
+      "thumbnail_image": "mi_c091_00_s",
+      "members": [
+        "vesti"
+      ]
+    },
+    {
+      "id": "eunhwa_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:92_name",
+      "thumbnail_image": "mi_c092_00_s",
+      "members": [
+        "eunhwa"
+      ]
+    },
+    {
+      "id": "drake_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:101_name",
+      "thumbnail_image": "mi_c101_00_s",
+      "members": [
+        "drake"
+      ]
+    },
+    {
+      "id": "maxwell_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:102_name",
+      "thumbnail_image": "mi_c102_00_s",
+      "members": [
+        "maxwell"
+      ]
+    },
+    {
+      "id": "crow_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:110_name",
+      "thumbnail_image": "mi_c110_00_s",
+      "members": [
+        "crow"
+      ]
+    },
+    {
+      "id": "n102_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:120_name",
+      "thumbnail_image": "mi_c120_00_s",
+      "members": [
+        "n102"
+      ]
+    },
+    {
+      "id": "mary_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:130_name",
+      "thumbnail_image": "mi_c130_00_s",
+      "members": [
+        "mary"
+      ]
+    },
+    {
+      "id": "pepper_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:131_name",
+      "thumbnail_image": "mi_c131_00_s",
+      "members": [
+        "pepper"
+      ]
+    },
+    {
+      "id": "sugar_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:140_name",
+      "thumbnail_image": "mi_c140_00_s",
+      "members": [
+        "sugar"
+      ]
+    },
+    {
+      "id": "milk_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:141_name",
+      "thumbnail_image": "mi_c141_00_s",
+      "members": [
+        "milk"
+      ]
+    },
+    {
+      "id": "frima_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:142_name",
+      "thumbnail_image": "mi_c142_00_s",
+      "members": [
+        "frima"
+      ]
+    },
+    {
+      "id": "julia_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:150_name",
+      "thumbnail_image": "mi_c150_00_s",
+      "members": [
+        "julia"
+      ]
+    },
+    {
+      "id": "yuni_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:160_name",
+      "thumbnail_image": "mi_c160_00_s",
+      "members": [
+        "yuni"
+      ]
+    },
+    {
+      "id": "mihara_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:161_name",
+      "thumbnail_image": "mi_c161_00_s",
+      "members": [
+        "mihara"
+      ]
+    },
+    {
+      "id": "privaty_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:170_name",
+      "thumbnail_image": "mi_c170_00_s",
+      "members": [
+        "privaty"
+      ]
+    },
+    {
+      "id": "yulha_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:171_name",
+      "thumbnail_image": "mi_c171_00_s",
+      "members": [
+        "yulha"
+      ]
+    },
+    {
+      "id": "admi_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:172_name",
+      "thumbnail_image": "mi_c172_00_s",
+      "members": [
+        "admi"
+      ]
+    },
+    {
+      "id": "guillotine_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:180_name",
+      "thumbnail_image": "mi_c180_00_s",
+      "members": [
+        "guillotine"
+      ]
+    },
+    {
+      "id": "maiden_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:181_name",
+      "thumbnail_image": "mi_c181_00_s",
+      "members": [
+        "maiden"
+      ]
+    },
+    {
+      "id": "ludmilla_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:190_name",
+      "thumbnail_image": "mi_c190_00_s",
+      "members": [
+        "ludmilla"
+      ]
+    },
+    {
+      "id": "alice_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:191_name",
+      "thumbnail_image": "mi_c191_00_s",
+      "members": [
+        "alice"
+      ]
+    },
+    {
+      "id": "neve_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:193_name",
+      "thumbnail_image": "mi_c193_00_s",
+      "members": [
+        "neve"
+      ]
+    },
+    {
+      "id": "rupee_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:200_name",
+      "thumbnail_image": "mi_c200_00_s",
+      "members": [
+        "rupee"
+      ]
+    },
+    {
+      "id": "yan_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:201_name",
+      "thumbnail_image": "mi_c201_00_s",
+      "members": [
+        "yan"
+      ]
+    },
+    {
+      "id": "dolla_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:202_name",
+      "thumbnail_image": "mi_c202_00_s",
+      "members": [
+        "dolla"
+      ]
+    },
+    {
+      "id": "exia_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:210_name",
+      "thumbnail_image": "mi_c210_00_s",
+      "members": [
+        "exia"
+      ]
+    },
+    {
+      "id": "novel_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:212_name",
+      "thumbnail_image": "mi_c212_00_s",
+      "members": [
+        "novel"
+      ]
+    },
+    {
+      "id": "epinel_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:241_name",
+      "thumbnail_image": "mi_c241_00_s",
+      "members": [
+        "epinel"
+      ]
+    },
+    {
+      "id": "folkwang_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:242_name",
+      "thumbnail_image": "mi_c242_00_s",
+      "members": [
+        "folkwang"
+      ]
+    },
+    {
+      "id": "snowwhite_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:220_name",
+      "thumbnail_image": "mi_c220_00_s",
+      "members": [
+        "snowwhite"
+      ]
+    },
+    {
+      "id": "rapunzel_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:221_name",
+      "thumbnail_image": "mi_c221_00_s",
+      "members": [
+        "rapunzel"
+      ]
+    },
+    {
+      "id": "hongryeon_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:222_name",
+      "thumbnail_image": "mi_c222_00_s",
+      "members": [
+        "hongryeon"
+      ]
+    },
+    {
+      "id": "harran_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:230_name",
+      "thumbnail_image": "mi_c230_00_s",
+      "members": [
+        "harran"
+      ]
+    },
+    {
+      "id": "isabel_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:231_name",
+      "thumbnail_image": "mi_c231_00_s",
+      "members": [
+        "isabel"
+      ]
+    },
+    {
+      "id": "noah_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:232_name",
+      "thumbnail_image": "mi_c232_00_s",
+      "members": [
+        "noah"
+      ]
+    },
+    {
+      "id": "modernia_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:13_name",
+      "thumbnail_image": "mi_c260_00_s",
+      "members": [
+        "marian"
+      ]
+    },
+    {
+      "id": "ether_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:291_name",
+      "thumbnail_image": "mi_c291_00_s",
+      "members": [
+        "ether"
+      ]
+    },
+    {
+      "id": "laplace_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:100_name",
+      "thumbnail_image": "mi_c100_00_s",
+      "members": [
+        "laplace"
+      ]
+    },
+    {
+      "id": "blanc_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:270_name",
+      "thumbnail_image": "mi_c270_00_s",
+      "members": [
+        "blanc"
+      ]
+    },
+    {
+      "id": "noir_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:271_name",
+      "thumbnail_image": "mi_c271_00_s",
+      "members": [
+        "noir"
+      ]
+    },
+    {
+      "id": "rouge_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:272_name",
+      "thumbnail_image": "mi_c272_00_s",
+      "members": [
+        "rouge"
+      ]
+    },
+    {
+      "id": "rosanna_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:280_name",
+      "thumbnail_image": "mi_c280_00_s",
+      "members": [
+        "rosanna"
+      ]
+    },
+    {
+      "id": "moran_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:281_name",
+      "thumbnail_image": "mi_c281_00_s",
+      "members": [
+        "moran"
+      ]
+    },
+    {
+      "id": "sakura_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:282_name",
+      "thumbnail_image": "mi_c282_00_s",
+      "members": [
+        "sakura"
+      ]
+    },
+    {
+      "id": "mana_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:290_name",
+      "thumbnail_image": "mi_c290_00_s",
+      "members": [
+        "mana"
+      ]
+    },
+    {
+      "id": "rumani_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:240_name",
+      "thumbnail_image": "mi_c240_00_s",
+      "members": [
+        "rumani"
+      ]
+    },
+    {
+      "id": "jackal_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:111_name",
+      "thumbnail_image": "mi_c111_00_s",
+      "members": [
+        "jackal"
+      ]
+    },
+    {
+      "id": "viper_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:112_name",
+      "thumbnail_image": "mi_c112_00_s",
+      "members": [
+        "viper"
+      ]
+    },
+    {
+      "id": "noise_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:430_name",
+      "thumbnail_image": "mi_c430_00_s",
+      "members": [
+        "noise"
+      ]
+    },
+    {
+      "id": "volume_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:431_name",
+      "thumbnail_image": "mi_c431_00_s",
+      "members": [
+        "volume"
+      ]
+    },
+    {
+      "id": "aria_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:432_name",
+      "thumbnail_image": "mi_c432_00_s",
+      "members": [
+        "aria"
+      ]
+    },
+    {
+      "id": "helm_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:352_name",
+      "thumbnail_image": "mi_c352_00_s",
+      "members": [
+        "helm"
+      ]
+    },
+    {
+      "id": "guilty_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:400_name",
+      "thumbnail_image": "mi_c400_00_s",
+      "members": [
+        "guilty"
+      ]
+    },
+    {
+      "id": "sin_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:401_name",
+      "thumbnail_image": "mi_c401_00_s",
+      "members": [
+        "sin"
+      ]
+    },
+    {
+      "id": "quency_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:402_name",
+      "thumbnail_image": "mi_c402_00_s",
+      "members": [
+        "quency"
+      ]
+    },
+    {
+      "id": "cocoa_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:311_name",
+      "thumbnail_image": "mi_c311_00_s",
+      "members": [
+        "cocoa"
+      ]
+    },
+    {
+      "id": "soda_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:312_name",
+      "thumbnail_image": "mi_c312_00_s",
+      "members": [
+        "soda"
+      ]
+    },
+    {
+      "id": "ade_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:310_name",
+      "thumbnail_image": "mi_c310_00_s",
+      "members": [
+        "ade"
+      ]
+    },
+    {
+      "id": "biscuit_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:381_name",
+      "thumbnail_image": "mi_c381_00_s",
+      "members": [
+        "biscuit"
+      ]
+    },
+    {
+      "id": "d_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:40_name",
+      "thumbnail_image": "mi_c040_00_s",
+      "members": [
+        "d"
+      ]
+    },
+    {
+      "id": "nero_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:380_name",
+      "thumbnail_image": "mi_c380_00_s",
+      "members": [
+        "nero"
+      ]
+    },
+    {
+      "id": "mast_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:350_name",
+      "thumbnail_image": "mi_c350_00_s",
+      "members": [
+        "mast"
+      ]
+    },
+    {
+      "id": "anchor_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:351_name",
+      "thumbnail_image": "mi_c351_00_s",
+      "members": [
+        "anchor"
+      ]
+    },
+    {
+      "id": "naga_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:450_name",
+      "thumbnail_image": "mi_c450_00_s",
+      "members": [
+        "naga"
+      ]
+    },
+    {
+      "id": "tia_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:451_name",
+      "thumbnail_image": "mi_c451_00_s",
+      "members": [
+        "tia"
+      ]
+    },
+    {
+      "id": "marciana_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:321_name",
+      "thumbnail_image": "mi_c321_00_s",
+      "members": [
+        "marciana"
+      ]
+    },
+    {
+      "id": "leona_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:382_name",
+      "thumbnail_image": "mi_c382_00_s",
+      "members": [
+        "leona"
+      ]
+    },
+    {
+      "id": "counters_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:counters_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rapi",
+        "neon",
+        "anis"
+      ]
+    },
+    {
+      "id": "absolut_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:absolut_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "emma",
+        "vesti",
+        "eunhwa"
+      ]
+    },
+    {
+      "id": "scouting_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:scouting_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "delta",
+        "signal"
+      ]
+    },
+    {
+      "id": "infinityrail_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:infinityrail_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "brid",
+        "soline",
+        "diesel"
+      ]
+    },
+    {
+      "id": "external_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:external_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "guillotine",
+        "maiden"
+      ]
+    },
+    {
+      "id": "matis_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:matis_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "drake",
+        "maxwell",
+        "laplace"
+      ]
+    },
+    {
+      "id": "cafesweety_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:cafesweety_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "sugar",
+        "milk",
+        "frima"
+      ]
+    },
+    {
+      "id": "triangle_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:triangle_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "privaty",
+        "yulha",
+        "admi"
+      ]
+    },
+    {
+      "id": "talentum_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:talentum_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rupee",
+        "yan",
+        "dolla"
+      ]
+    },
+    {
+      "id": "littlecannon_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:littlecannon_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "belorta",
+        "mica"
+      ]
+    },
+    {
+      "id": "protocol_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:protocol_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "exia",
+        "novel"
+      ]
+    },
+    {
+      "id": "unlimited_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:unlimited_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "ludmilla",
+        "alice"
+      ]
+    },
+    {
+      "id": "acpu_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:acpu_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "poli",
+        "miranda"
+      ]
+    },
+    {
+      "id": "mightytools_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:mightytools_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "centi",
+        "liter"
+      ]
+    },
+    {
+      "id": "seraphim_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:seraphim_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "mary",
+        "pepper"
+      ]
+    },
+    {
+      "id": "wardress_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:wardress_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "yuni",
+        "mihara"
+      ]
+    },
+    {
+      "id": "exotic_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:exotic_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "crow",
+        "jackal",
+        "viper"
+      ]
+    },
+    {
+      "id": "lifetonic_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:lifetonic_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rumani",
+        "epinel",
+        "folkwang"
+      ]
+    },
+    {
+      "id": "pioneer_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:pioneer_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "snowwhite",
+        "rapunzel",
+        "hongryeon"
+      ]
+    },
+    {
+      "id": "inherit_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:inherit_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "harran",
+        "isabel",
+        "noah"
+      ]
+    },
+    {
+      "id": "mmr_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:mmr_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "ether",
+        "mana"
+      ]
+    },
+    {
+      "id": "realkindness_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:realkindness_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "sin",
+        "guilty",
+        "quency"
+      ]
+    },
+    {
+      "id": "maidforyou_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:maidforyou_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "soda",
+        "ade",
+        "cocoa"
+      ]
+    },
+    {
+      "id": "siegeperilous_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:siegeperilous_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "d",
+        "k"
+      ]
+    },
+    {
+      "id": "cafesweety_q_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:cafesweety_q_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "sugar",
+        "milk",
+        "frima"
+      ]
+    },
+    {
+      "id": "dazzlingpearl_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:dazzlingpearl_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "naga",
+        "tia"
+      ]
+    },
+    {
+      "id": "underworldqueen_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:underworldqueen_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rosanna",
+        "sakura",
+        "moran"
+      ]
+    },
+    {
+      "id": "andersen_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:903_name",
+      "thumbnail_image": "mi_c903_00_s",
+      "members": [
+        "andersen"
+      ]
+    },
+    {
+      "id": "syuen_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:901_name",
+      "thumbnail_image": "mi_c901_00_s",
+      "members": [
+        "syuen"
+      ]
+    },
+    {
+      "id": "ingrid_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:900_name",
+      "thumbnail_image": "mi_c900_00_s",
+      "members": [
+        "ingrid"
+      ]
+    },
+    {
+      "id": "mustang_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:902_name",
+      "thumbnail_image": "mi_c902_00_s",
+      "members": [
+        "mustang"
+      ]
+    },
+    {
+      "id": "johan_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:925_name",
+      "thumbnail_image": "mi_c925_00_s",
+      "members": [
+        "johan"
+      ]
+    },
+    {
+      "id": "einkk_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:928_name",
+      "thumbnail_image": "mi_c928_00_s",
+      "members": [
+        "einkk"
+      ]
+    },
+    {
+      "id": "cecil_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:929_name",
+      "thumbnail_image": "mi_c929_00_s",
+      "members": [
+        "cecil"
+      ]
+    },
+    {
+      "id": "shifty_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:907_name",
+      "thumbnail_image": "mi_c907_00_s",
+      "members": [
+        "shifty"
+      ]
+    },
+    {
+      "id": "lucy",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_07_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "lucy"
+      ]
+    },
+    {
+      "id": "g_npc_01",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_01_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "nightmare",
+        "host",
+        "darkness",
+        "louisaofdawn",
+        "guillotine"
+      ]
+    },
+    {
+      "id": "blackbox",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_17_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "blackbox"
+      ]
+    },
+    {
+      "id": "g_npc_02",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_02_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "prisoldier05",
+        "prisoldier06",
+        "prisoldier07",
+        "prisoldier08"
+      ]
+    },
+    {
+      "id": "g_npc_03",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_03_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "yesman",
+        "keuoaang",
+        "ruruphee",
+        "wjd0684",
+        "braindead"
+      ]
+    },
+    {
+      "id": "Royaldolla",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_63_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "Royaldolla"
+      ]
+    },
+    {
+      "id": "mr0",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_70_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "mr0"
+      ]
+    },
+    {
+      "id": "ms0",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_71_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "ms0"
+      ]
+    },
+    {
+      "id": "9s2ba2",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_81_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "9s2ba2"
+      ]
+    },
+    {
+      "id": "g_npc_05",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_05_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "yan",
+        "folkwang"
+      ]
+    },
+    {
+      "id": "kitsune",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_273_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "kitsune"
+      ]
+    },
+    {
+      "id": "edennotice_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_296_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "cecil",
+        "noah",
+        "isabel",
+        "johan",
+        "harran",
+        "dorothy"
+      ]
+    },
+    {
+      "id": "tacticaltitac_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_354_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "tacticaltitac"
+      ]
+    },
+    {
+      "id": "raptilion_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_149_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "raptilion"
+      ]
+    },
+    {
+      "id": "six0_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_374_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "six0"
+      ]
+    },
+    {
+      "id": "chilipepper",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_108_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "chilipepper"
+      ]
+    },
+    {
+      "id": "collector",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_109_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "collector"
+      ]
+    },
+    {
+      "id": "government",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_110_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "government"
+      ]
+    },
+    {
+      "id": "tetraconnect",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_111_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "tetraconnect"
+      ]
+    },
+    {
+      "id": "ghost",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_112_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "ghost"
+      ]
+    },
+    {
+      "id": "treasurehunter",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_113_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "treasurehunter"
+      ]
+    },
+    {
+      "id": "nippur",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_114_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "nippur"
+      ]
+    },
+    {
+      "id": "cervan",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_148_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "cervan"
+      ]
+    },
+    {
+      "id": "raptilion",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_149_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "raptilion"
+      ]
+    },
+    {
+      "id": "coree",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_150_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "coree"
+      ]
+    },
+    {
+      "id": "blackrose",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_115_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "blackrose"
+      ]
+    },
+    {
+      "id": "orangeperfect",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_125_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "orangeperfect"
+      ]
+    },
+    {
+      "id": "cali",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_142_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "cali"
+      ]
+    },
+    {
+      "id": "g_npc_04",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_04_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "crooked",
+        "duck",
+        "fanfan",
+        "lovelove",
+        "spicy",
+        "bangle"
+      ]
+    },
+    {
+      "id": "grandpa",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_167_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "grandpa"
+      ]
+    },
+    {
+      "id": "writer",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_169_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "writer"
+      ]
+    },
+    {
+      "id": "serial",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_170_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "serial"
+      ]
+    },
+    {
+      "id": "spade",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_171_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "spade"
+      ]
+    },
+    {
+      "id": "roam",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_172_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "roam"
+      ]
+    },
+    {
+      "id": "regale",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_173_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "regale"
+      ]
+    },
+    {
+      "id": "justin",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_174_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "justin"
+      ]
+    },
+    {
+      "id": "lovelydream",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_175_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "lovelydream"
+      ]
+    },
+    {
+      "id": "jade",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_176_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "jade"
+      ]
+    },
+    {
+      "id": "teddy",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_177_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "teddy"
+      ]
+    },
+    {
+      "id": "missilysresearch",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_178_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "missilysresearch"
+      ]
+    },
+    {
+      "id": "musiclover",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_180_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "musiclover"
+      ]
+    },
+    {
+      "id": "forestfairy",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_181_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "forestfairy"
+      ]
+    },
+    {
+      "id": "traingo",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_182_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "traingo"
+      ]
+    },
+    {
+      "id": "alchollover",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_183_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "alchollover"
+      ]
+    },
+    {
+      "id": "refugee",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_184_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "refugee"
+      ]
+    },
+    {
+      "id": "jennifer",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_185_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "jennifer"
+      ]
+    },
+    {
+      "id": "deipara",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_245_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "deipara"
+      ]
+    },
+    {
+      "id": "romantist",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_246_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "romantist"
+      ]
+    },
+    {
+      "id": "edennotice",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_296_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "cecil",
+        "noah",
+        "isabel",
+        "johan",
+        "harran",
+        "dorothy"
+      ]
+    },
+    {
+      "id": "stationery",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_297_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "stationery"
+      ]
+    },
+    {
+      "id": "shelter2admin",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_298_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "shelter2admin"
+      ]
+    },
+    {
+      "id": "tacticaltitac",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_354_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "tacticaltitac"
+      ]
+    },
+    {
+      "id": "pira",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_355_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "pira"
+      ]
+    },
+    {
+      "id": "triangle_q",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:triangle_q_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "privaty",
+        "yulha",
+        "admi"
+      ]
+    },
+    {
+      "id": "talentum_q",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:talentum_q_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rupee",
+        "yan",
+        "dolla"
+      ]
+    },
+    {
+      "id": "cafesweety_q",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:cafesweety_q_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "sugar",
+        "milk",
+        "frima"
+      ]
+    },
+    {
+      "id": "protocol_q",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:protocol_q_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "exia",
+        "novel"
+      ]
+    },
+    {
+      "id": "777_q",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:777_q_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "blanc",
+        "noir"
+      ]
+    }
+  ]
+}

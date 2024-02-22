@@ -1,0 +1,57 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "difficult_group": 1001
+    },
+    {
+      "id": 13,
+      "difficult_group": 1013
+    },
+    {
+      "id": 14,
+      "difficult_group": 1014
+    },
+    {
+      "id": 10,
+      "difficult_group": 1010
+    },
+    {
+      "id": 12,
+      "difficult_group": 1012
+    },
+    {
+      "id": 3,
+      "difficult_group": 1003
+    },
+    {
+      "id": 4,
+      "difficult_group": 1004
+    },
+    {
+      "id": 17,
+      "difficult_group": 1017
+    },
+    {
+      "id": 22,
+      "difficult_group": 1022
+    },
+    {
+      "id": 11,
+      "difficult_group": 1011
+    },
+    {
+      "id": 6,
+      "difficult_group": 1006
+    },
+    {
+      "id": 7,
+      "difficult_group": 1007
+    },
+    {
+      "id": 16,
+      "difficult_group": 1016
+    }
+  ]
+}

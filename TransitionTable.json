@@ -1,0 +1,843 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "depart_scene_code": "Title",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true
+    },
+    {
+      "id": 2,
+      "depart_scene_code": "Title",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true
+    },
+    {
+      "id": 3,
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "Campaign",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 4,
+      "depart_scene_code": "Campaign",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 1
+    },
+    {
+      "id": 5,
+      "depart_scene_code": "Campaign",
+      "arrive_scene_code": "Campaign",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 6,
+      "depart_scene_code": "Campaign",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 7,
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "Campaign",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 8,
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "Outpost",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 9,
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 1
+    },
+    {
+      "id": 10,
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "LostSector",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 4
+    },
+    {
+      "id": 11,
+      "depart_scene_code": "LostSector",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 1
+    },
+    {
+      "id": 12,
+      "depart_scene_code": "LostSector",
+      "arrive_scene_code": "LostSector",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 4
+    },
+    {
+      "id": 13,
+      "depart_scene_code": "LostSector",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 4
+    },
+    {
+      "id": 14,
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "LostSector",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 4
+    },
+    {
+      "id": 15,
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "Arena",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 16,
+      "depart_scene_code": "Arena",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 17,
+      "depart_scene_code": "BattleIntro",
+      "arrive_scene_code": "Arena",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 18,
+      "depart_scene_code": "Arena",
+      "arrive_scene_code": "BattleIntro",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 19,
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 4
+    },
+    {
+      "id": 20,
+      "depart_scene_code": "Title",
+      "arrive_scene_code": "Campaign",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 21,
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 22,
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 23,
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "Scenario",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 24,
+      "depart_scene_code": "Scenario",
+      "arrive_scene_code": "Outpost",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 25,
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "OutpostUI",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 26,
+      "depart_scene_code": "OutpostUI",
+      "arrive_scene_code": "Outpost",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 27,
+      "depart_scene_code": "OutpostUI",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 28,
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 29,
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 30,
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "Campaign",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 31,
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 32,
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 33,
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 34,
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Outpost",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 35,
+      "depart_scene_code": "Scenario",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 36,
+      "depart_scene_code": "Campaign",
+      "arrive_scene_code": "Outpost",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 37,
+      "depart_scene_code": "OutpostUI",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 38,
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "OutpostUI",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 39,
+      "depart_scene_code": "OutpostUI",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 40,
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "OutpostUI",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 41,
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true
+    },
+    {
+      "id": 42,
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "Outpost",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true
+    },
+    {
+      "id": 1001,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6028,
+      "arrive_view_type": 30001,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 1002,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 30001,
+      "arrive_view_type": 6028,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 1003,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6028,
+      "arrive_view_type": 6008,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1004,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 6028,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 1005,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 6031,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1006,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6031,
+      "arrive_view_type": 6008,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1007,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 13000,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1008,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 13000,
+      "arrive_view_type": 6008,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1009,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 6035,
+      "transition_type": 1,
+      "is_gauge": false
+    },
+    {
+      "id": 1010,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6035,
+      "arrive_view_type": 6008,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1012,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 6047,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1013,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6047,
+      "arrive_view_type": 6008,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 2001,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": -1,
+      "arrive_view_type": 6014,
+      "transition_type": 5,
+      "is_gauge": false
+    },
+    {
+      "id": 2002,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6014,
+      "arrive_view_type": -1,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 2018,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 17001,
+      "transition_type": 6,
+      "is_gauge": false
+    },
+    {
+      "id": 2019,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 17003,
+      "transition_type": 6,
+      "is_gauge": false
+    },
+    {
+      "id": 2020,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 17001,
+      "arrive_view_type": 17003,
+      "transition_type": 6,
+      "is_gauge": false
+    },
+    {
+      "id": 2021,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 17003,
+      "arrive_view_type": 17001,
+      "transition_type": 6,
+      "is_gauge": false
+    },
+    {
+      "id": 2022,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 4109,
+      "arrive_view_type": 6014,
+      "transition_type": 5,
+      "is_gauge": false
+    },
+    {
+      "id": 2023,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": -1,
+      "arrive_view_type": 6012,
+      "transition_type": 5,
+      "is_gauge": false
+    },
+    {
+      "id": 2024,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6012,
+      "arrive_view_type": -1,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 2025,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 5002,
+      "arrive_view_type": 30001,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 2026,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 30001,
+      "arrive_view_type": 5002,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 2031,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": -1,
+      "arrive_view_type": 6016,
+      "transition_type": 5,
+      "is_gauge": false
+    },
+    {
+      "id": 3001,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": -1,
+      "arrive_view_type": 31001,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 3002,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 31001,
+      "arrive_view_type": -1,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 3003,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 2021,
+      "arrive_view_type": 6028,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 4001,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 70004,
+      "arrive_view_type": 70001,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 4002,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 70005,
+      "arrive_view_type": 70001,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 4011,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 70002,
+      "arrive_view_type": 70001,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 4012,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 70003,
+      "arrive_view_type": 70001,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 8070001,
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "event_id": 80700,
+      "transition_type": 7,
+      "is_gauge": false
+    },
+    {
+      "id": 8070002,
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "event_id": 80700,
+      "transition_type": 8,
+      "is_gauge": false
+    },
+    {
+      "id": 8070003,
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "event_id": 80700,
+      "transition_type": 7,
+      "is_gauge": false
+    },
+    {
+      "id": 8070004,
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Outpost",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "event_id": 80700,
+      "transition_type": 8,
+      "is_gauge": false
+    },
+    {
+      "id": 4002601,
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "event_id": 40026,
+      "transition_type": 8,
+      "is_gauge": true,
+      "loading_tip_group": 101
+    },
+    {
+      "id": 4002602,
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "event_id": 40026,
+      "transition_type": 8,
+      "is_gauge": true,
+      "loading_tip_group": 101
+    },
+    {
+      "id": 4002603,
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "event_id": 40026,
+      "transition_type": 8,
+      "is_gauge": true,
+      "loading_tip_group": 101
+    },
+    {
+      "id": 4002604,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6014,
+      "arrive_view_type": -1,
+      "event_id": 40026,
+      "transition_type": 8,
+      "is_gauge": false
+    },
+    {
+      "id": 4002701,
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "event_id": 40027,
+      "transition_type": 8,
+      "is_gauge": true,
+      "loading_tip_group": 101
+    },
+    {
+      "id": 4002702,
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "event_id": 40027,
+      "transition_type": 8,
+      "is_gauge": true,
+      "loading_tip_group": 101
+    },
+    {
+      "id": 4002703,
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "event_id": 40027,
+      "transition_type": 8,
+      "is_gauge": true,
+      "loading_tip_group": 101
+    },
+    {
+      "id": 4002704,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6014,
+      "arrive_view_type": -1,
+      "event_id": 40027,
+      "transition_type": 8,
+      "is_gauge": false
+    },
+    {
+      "id": 4002801,
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Scenario",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "event_id": 80700,
+      "transition_type": 8,
+      "is_gauge": false
+    },
+    {
+      "id": 4013,
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "CE002MiniGame",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 9,
+      "is_gauge": false
+    },
+    {
+      "id": 4014,
+      "depart_scene_code": "CE002MiniGame",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 9,
+      "is_gauge": false
+    }
+  ]
+}
