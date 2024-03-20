@@ -1,0 +1,539 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "key": "UNION_RAID_RANK_REWARD",
+      "title": "UNION_RAID_RANK_REWARD_TITLE",
+      "description": "UNION_RAID_RANK_REWARD_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "UNION_RAID_GUILD_RANK_REWARD",
+      "title": "UNION_RAID_GUILD_RANK_REWARD_TITLE",
+      "description": "UNION_RAID_GUILD_RANK_REWARD_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "UNION_BANNED",
+      "title": "GUILD_BANNED_MAIL_TITLE",
+      "description": "GUILD_JOURNAL_KICK",
+      "sender_id": 1
+    },
+    {
+      "key": "COOPERATION_RANK_REWARD",
+      "title": "COOPERATION_RANK_REWARD_TITLE",
+      "description": "COOPERATION_RANK_REWARD_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "COOPERATION_RANK_REWARD_ABSOLUTE",
+      "title": "COOPERATION_RANK_REWARD_TITLE",
+      "description": "COOPERATION_RANK_REWARD_DESC_ABSOLUTE",
+      "sender_id": 1
+    },
+    {
+      "key": "COOPERATION_RANK_REWARD_PERCENTAGE",
+      "title": "COOPERATION_RANK_REWARD_TITLE",
+      "description": "COOPERATION_RANK_REWARD_DESC_PERCENTAGE",
+      "sender_id": 1
+    },
+    {
+      "key": "POLL_REWARD",
+      "title": "POLL_REWARD_MAIL_TITLE",
+      "description": "POLL_REWARD_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "WORLD_RAID_RANKING_REWARD",
+      "title": "WORLD_RAID_RANKING_REWARD_MAIL_TITLE",
+      "description": "WORLD_RAID_RANKING_REWARD_MAIL_DESC",
+      "sender_id": 101
+    },
+    {
+      "key": "WORLD_RAID_CLEAR_REWARD",
+      "title": "WORLD_RAID_CLEAR_REWARD_MAIL_TITLE",
+      "description": "WORLD_RAID_CLEAR_REWARD_MAIL_DESC",
+      "sender_id": 101
+    },
+    {
+      "key": "UNION_RAID_BAN_USER_INFORM",
+      "title": "GUILD_RAID_BAN_USER_INFORM_MAIL_TITLE",
+      "description": "GUILD_RAID_BAN_USER_INFORM_MAIL_DESC",
+      "sender_id": 102
+    },
+    {
+      "key": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MASTER",
+      "title": "GUILD_NOTICE_FUNCTION",
+      "description": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MASTER",
+      "sender_id": 0
+    },
+    {
+      "key": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MANAGER",
+      "title": "GUILD_NOTICE_FUNCTION",
+      "description": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MANAGER",
+      "sender_id": 0
+    },
+    {
+      "key": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MEMBER",
+      "title": "GUILD_NOTICE_FUNCTION",
+      "description": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MEMBER",
+      "sender_id": 0
+    },
+    {
+      "key": "INFRACORE_GRADE_REWARD",
+      "title": "INFRACORE_GRADE_REWARD_TITLE",
+      "description": "INFRACORE_GRADE_REWARD_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "MIDAS_BUY_PRODUCT",
+      "title": "MIDAS_BUY_PRODUCT_TITLE",
+      "description": "MIDAS_BUY_PRODUCT_DESC",
+      "sender_id": 102
+    },
+    {
+      "key": "MIDAS_BUY_CURRENCY",
+      "title": "MIDAS_BUY_CURRENCY_TITLE",
+      "description": "MIDAS_BUY_CURRENCY_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ARENA_SPECIAL_POINT_RANK_REWARD",
+      "title": "ARENA_SPECIAL_POINT_RANK_REWARD_MAIL_TITLE",
+      "description": "ARENA_SPECIAL_POINT_RANK_REWARD_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_SPECIAL_TIME_REWARD_AUTO_RECEIVE",
+      "title": "ARENA_SPECIAL_TIME_REWARD_AUTO_RECEIVE_MAIL_TITLE_02",
+      "description": "ARENA_SPECIAL_TIME_REWARD_AUTO_RECEIVE_MAIL_DESC_02",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_ROOKIE_POINT_RANK_REWARD",
+      "title": "ARENA_SEASON_REWARD_MAIL_TITLE",
+      "description": "ARENA_SEASON_REWARD_MAIL_BODY",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_ROOKIE_DAILY_REWARD",
+      "title": "ARENA_DAILY_REWARD_MAIL_TITLE",
+      "description": "ARENA_DAILY_REWARD_MAIL_BODY",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_BATTING_REWARD",
+      "title": "ARENA_CHAMPION_BATTING_REWARD_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_BATTING_REWARD_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_10100",
+      "title": "ARENA_CHAMPION_REWARD_10100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_10100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_10200",
+      "title": "ARENA_CHAMPION_REWARD_10200_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_10200_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_10300",
+      "title": "ARENA_CHAMPION_REWARD_10300_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_10300_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_10400",
+      "title": "ARENA_CHAMPION_REWARD_10400_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_10400_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_10500",
+      "title": "ARENA_CHAMPION_REWARD_10500_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_10500_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_20100",
+      "title": "ARENA_CHAMPION_REWARD_20100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_20100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_30100",
+      "title": "ARENA_CHAMPION_REWARD_30100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_30100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_40100",
+      "title": "ARENA_CHAMPION_REWARD_40100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_40100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_50100",
+      "title": "ARENA_CHAMPION_REWARD_50100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_50100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_60100",
+      "title": "ARENA_CHAMPION_REWARD_60100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_60100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_70100",
+      "title": "ARENA_CHAMPION_REWARD_70100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_70100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_80100",
+      "title": "ARENA_CHAMPION_REWARD_80100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_80100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_80200",
+      "title": "ARENA_CHAMPION_REWARD_80200_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_80200_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_80300",
+      "title": "ARENA_CHAMPION_REWARD_80300_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_80300_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_80400",
+      "title": "ARENA_CHAMPION_REWARD_80400_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_80400_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_80500",
+      "title": "ARENA_CHAMPION_REWARD_80500_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_80500_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_10000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_10000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_10000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_20000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_20000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_20000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_30000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_30000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_30000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_40000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_40000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_40000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_50000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_50000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_50000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_60000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_60000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_60000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_70000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_70000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_70000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_80000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_80000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_80000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ITEM_EXCHANGE_10001",
+      "title": "ITEM_EXCHANGE_10001_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10001_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10002",
+      "title": "ITEM_EXCHANGE_10002_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10002_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10003",
+      "title": "ITEM_EXCHANGE_10003_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10003_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10004",
+      "title": "ITEM_EXCHANGE_10004_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10004_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10005",
+      "title": "ITEM_EXCHANGE_10005_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10005_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10006",
+      "title": "ITEM_EXCHANGE_10006_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10006_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10007",
+      "title": "ITEM_EXCHANGE_10007_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10007_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10008",
+      "title": "ITEM_EXCHANGE_10008_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10008_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10009",
+      "title": "ITEM_EXCHANGE_10009_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10009_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10010",
+      "title": "ITEM_EXCHANGE_10010_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10010_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10011",
+      "title": "ITEM_EXCHANGE_10011_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10011_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10012",
+      "title": "ITEM_EXCHANGE_10012_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10012_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10013",
+      "title": "ITEM_EXCHANGE_10013_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10013_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10014",
+      "title": "ITEM_EXCHANGE_10014_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10014_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10015",
+      "title": "ITEM_EXCHANGE_10015_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10015_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10016",
+      "title": "ITEM_EXCHANGE_10016_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10016_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10020",
+      "title": "ITEM_EXCHANGE_10020_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10020_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10022",
+      "title": "ITEM_EXCHANGE_10022_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10022_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10023",
+      "title": "ITEM_EXCHANGE_10023_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10023_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10024",
+      "title": "ITEM_EXCHANGE_10024_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10024_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10026",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10026_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10028",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10028_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10029",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10029_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10030",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10030_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10031",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10031_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10033",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10033_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10034",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10034_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10036",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10036_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10037",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10036_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10038",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10038_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10039",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10039_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10040",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10040_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10043",
+      "title": "ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10043_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_11001",
+      "title": "ITEM_EXCHANGE_11001_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_11001_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_11002",
+      "title": "ITEM_EXCHANGE_11002_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_11002_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_11003",
+      "title": "ITEM_EXCHANGE_11003_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_11003_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_11005",
+      "title": "ITEM_EXCHANGE_11005_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_11005_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_11006",
+      "title": "ITEM_EXCHANGE_11006_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_11006_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_CHALLENGE_STAGE",
+      "title": "ITEM_EXCHANGE_CHALLENGE_STAGE_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_CHALLENGE_STAGE_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "OUTPOST_DEFENCE_LEVEL_RETROACTIVE_APPLICATION",
+      "title": "OUTPOST_DEFENCE_LEVEL_RETROACTIVE_APPLICATION_TITLE",
+      "description": "OUTPOST_DEFENCE_LEVEL_RETROACTIVE_APPLICATION_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "COOPERATION_RANK_CHANGE_INCLUDE_BAN_USER",
+      "title": "COOPERATION_RANK_CHANGE_INCLUDE_BAN_USER_TITLE",
+      "description": "COOPERATION_RANK_CHANGE_INCLUDE_BAN_USER_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "SOLO_RAID_BAN_USER_INFORM_MAIL",
+      "title": "SOLO_RAID_BAN_USER_INFORM_MAIL_TITLE",
+      "description": "SOLO_RAID_BAN_USER_INFORM_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "SOLO_RAID_RANKING_REWARD_MAIL",
+      "title": "SOLO_RAID_RANKING_REWARD_MAIL_TITLE",
+      "description": "SOLO_RAID_RANKING_REWARD_MAIL_DESC",
+      "sender_id": 101
+    },
+    {
+      "key": "SUBSCRIBE_LEFT_7DAYS",
+      "title": "SUBSCRIBE_LEFT_7DAYS_TITLE",
+      "description": "SUBSCRIBE_LEFT_7DAYS_DESC",
+      "sender_id": 1
+    }
+  ]
+}

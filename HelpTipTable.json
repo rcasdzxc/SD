@@ -1,0 +1,976 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 200100,
+      "view_id": 2001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_CHARACTER_MANAGE_TITLE",
+      "description_group": 270
+    },
+    {
+      "id": 200200,
+      "view_id": 2002,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_CHARACTER_MANAGE_TITLE",
+      "description_group": 270,
+      "hud_tutorial_replay": "Attractive"
+    },
+    {
+      "id": 200500,
+      "view_id": 2005,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_JUKEBOX_TITLE",
+      "description_group": 290
+    },
+    {
+      "id": 200800,
+      "view_id": 2008,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_MEMORIAL_TITLE",
+      "description_group": 280
+    },
+    {
+      "id": 202100,
+      "view_id": 2021,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_ALBUM_TITLE",
+      "description_group": 400
+    },
+    {
+      "id": 300000,
+      "view_id": 3000,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_FRIEND_TITLE",
+      "description_group": 330
+    },
+    {
+      "id": 400800,
+      "view_id": 4008,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_AWAKEN_TITLE",
+      "description_group": 430
+    },
+    {
+      "id": 403100,
+      "view_id": 4031,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EVENT_ITEM_AUTO_CHARGE_TITLE",
+      "description_group": 500
+    },
+    {
+      "id": 500200,
+      "view_id": 5002,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_GUILD_TITLE",
+      "description_group": 170
+    },
+    {
+      "id": 500900,
+      "view_id": 5009,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_GUILD_TITLE",
+      "description_group": 170
+    },
+    {
+      "id": 501200,
+      "view_id": 5012,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_GUILD_MANAGEMENT_TITLE",
+      "description_group": 180
+    },
+    {
+      "id": 501400,
+      "view_id": 5014,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_SHOOTING_RANGE_TITLE",
+      "description_group": 190
+    },
+    {
+      "id": 501401,
+      "view_id": 5014,
+      "view_sub_id": 1,
+      "title": "Locale_System:HELP_SHOOTING_RANGE_SPEC_TITLE",
+      "description_group": 191
+    },
+    {
+      "id": 600000,
+      "view_id": 6000,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_ARENA_TITLE",
+      "description_group": 150
+    },
+    {
+      "id": 601200,
+      "view_id": 6012,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_NIKKE_TITLE",
+      "description_group": 100,
+      "hud_tutorial_replay": "Nikke"
+    },
+    {
+      "id": 601700,
+      "view_id": 6017,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_NIKKE_TITLE",
+      "description_group": 100
+    },
+    {
+      "id": 602000,
+      "view_id": 6020,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_AWAKEN_TITLE",
+      "description_group": 430
+    },
+    {
+      "id": 602700,
+      "view_id": 6027,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_GACHA_TITLE",
+      "description_group": 390
+    },
+    {
+      "id": 602704,
+      "view_id": 6027,
+      "view_sub_id": 4,
+      "title": "Locale_System:HELP_GACHA_FIRST_TITLE",
+      "description_group": 900
+    },
+    {
+      "id": 602710,
+      "view_id": 6027,
+      "view_sub_id": 10,
+      "title": "Locale_System:HELP_GACHA_2023_NEWYEAR_TITLE",
+      "description_group": 901
+    },
+    {
+      "id": 60271001,
+      "view_id": 6027,
+      "view_sub_id": 1001,
+      "title": "Locale_System:HELP_GACHA_STEPUP_TITLE",
+      "description_group": 902
+    },
+    {
+      "id": 60271002,
+      "view_id": 6027,
+      "view_sub_id": 1002,
+      "title": "Locale_System:HELP_GACHA_STEPUP_TITLE",
+      "description_group": 902
+    },
+    {
+      "id": 60271003,
+      "view_id": 6027,
+      "view_sub_id": 1003,
+      "title": "Locale_System:HELP_GACHA_STEPUP_TITLE",
+      "description_group": 902
+    },
+    {
+      "id": 60271004,
+      "view_id": 6027,
+      "view_sub_id": 1004,
+      "title": "Locale_System:HELP_GACHA_STEPUP_TITLE",
+      "description_group": 902
+    },
+    {
+      "id": 603100,
+      "view_id": 6031,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_LOSTSECTOR_TITLE",
+      "description_group": 130
+    },
+    {
+      "id": 603500,
+      "view_id": 6035,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_TOWER_TITLE",
+      "description_group": 120,
+      "hud_tutorial_replay": "Tower"
+    },
+    {
+      "id": 603600,
+      "view_id": 6036,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_NIKKE_TITLE",
+      "description_group": 100
+    },
+    {
+      "id": 603700,
+      "view_id": 6037,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_HARMONYCUBE_TITLE",
+      "description_group": 140,
+      "hud_tutorial_replay": "Cube"
+    },
+    {
+      "id": 604400,
+      "view_id": 6044,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_HARMONYCUBE_TITLE",
+      "description_group": 140
+    },
+    {
+      "id": 604700,
+      "view_id": 6047,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_TOWER_TITLE",
+      "description_group": 120
+    },
+    {
+      "id": 605900,
+      "view_id": 6059,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_GUILD_RAID_TITLE",
+      "description_group": 200
+    },
+    {
+      "id": 606000,
+      "view_id": 6060,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_GUILD_RAID_TITLE",
+      "description_group": 200
+    },
+    {
+      "id": 606100,
+      "view_id": 6061,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_GUILD_RAID_TITLE",
+      "description_group": 200
+    },
+    {
+      "id": 606200,
+      "view_id": 6062,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_GUILD_RAID_TITLE",
+      "description_group": 200
+    },
+    {
+      "id": 624300,
+      "view_id": 6243,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_MY_LOBBY_TITLE",
+      "description_group": 340
+    },
+    {
+      "id": 630000,
+      "view_id": 6300,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_RANKING_TITLE",
+      "description_group": 385
+    },
+    {
+      "id": 630100,
+      "view_id": 6301,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_CAMPAIGN_RANKING_TITLE",
+      "description_group": 360
+    },
+    {
+      "id": 630101,
+      "view_id": 6301,
+      "view_sub_id": 1,
+      "title": "Locale_System:HELP_POINT_RANKING_TITLE",
+      "description_group": 370
+    },
+    {
+      "id": 630102,
+      "view_id": 6301,
+      "view_sub_id": 2,
+      "title": "Locale_System:HELP_POINT_RANKING_TITLE",
+      "description_group": 370
+    },
+    {
+      "id": 630103,
+      "view_id": 6301,
+      "view_sub_id": 3,
+      "title": "Locale_System:HELP_POINT_RANKING_TITLE",
+      "description_group": 370
+    },
+    {
+      "id": 630104,
+      "view_id": 6301,
+      "view_sub_id": 4,
+      "title": "Locale_System:HELP_POINT_RANKING_TITLE",
+      "description_group": 370
+    },
+    {
+      "id": 630105,
+      "view_id": 6301,
+      "view_sub_id": 5,
+      "title": "Locale_System:HELP_TOWER_RANKING_TITLE",
+      "description_group": 380
+    },
+    {
+      "id": 630106,
+      "view_id": 6301,
+      "view_sub_id": 6,
+      "title": "Locale_System:HELP_TOWER_RANKING_TITLE",
+      "description_group": 380
+    },
+    {
+      "id": 630107,
+      "view_id": 6301,
+      "view_sub_id": 7,
+      "title": "Locale_System:HELP_TOWER_RANKING_TITLE",
+      "description_group": 380
+    },
+    {
+      "id": 630108,
+      "view_id": 6301,
+      "view_sub_id": 8,
+      "title": "Locale_System:HELP_TOWER_RANKING_TITLE",
+      "description_group": 380
+    },
+    {
+      "id": 630109,
+      "view_id": 6301,
+      "view_sub_id": 9,
+      "title": "Locale_System:HELP_TOWER_RANKING_TITLE",
+      "description_group": 380
+    },
+    {
+      "id": 700200,
+      "view_id": 7002,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_DISPATCH_TITLE",
+      "description_group": 300,
+      "hud_tutorial_replay": "Dispatch"
+    },
+    {
+      "id": 700600,
+      "view_id": 7006,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_OUTPOST_BATTLE_TITLE",
+      "description_group": 220,
+      "hud_tutorial_replay": "OutpostBattle"
+    },
+    {
+      "id": 700601,
+      "view_id": 7006,
+      "view_sub_id": 1,
+      "title": "Locale_System:HELP_OUTPOST_BATTLE_REWARD_TITLE",
+      "description_group": 221
+    },
+    {
+      "id": 700700,
+      "view_id": 7007,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_OUTPOST_TITLE",
+      "description_group": 210,
+      "hud_tutorial_replay": "OutpostHUD"
+    },
+    {
+      "id": 701000,
+      "view_id": 7010,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_SYNCHRO_TITLE",
+      "description_group": 230,
+      "hud_tutorial_replay": "SynchroDevice"
+    },
+    {
+      "id": 701200,
+      "view_id": 7012,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_SYNCHRO_TITLE",
+      "description_group": 230
+    },
+    {
+      "id": 701400,
+      "view_id": 7014,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_ACADEMY_TITLE",
+      "description_group": 250,
+      "hud_tutorial_replay": "Academy"
+    },
+    {
+      "id": 703000,
+      "view_id": 7030,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_INFRACORE_TITLE",
+      "description_group": 260
+    },
+    {
+      "id": 800100,
+      "view_id": 8001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_CAMPAIGN_FIELD_TITLE",
+      "description_group": 110
+    },
+    {
+      "id": 800200,
+      "view_id": 8002,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_LOSTSECTOR_TITLE",
+      "description_group": 130
+    },
+    {
+      "id": 1110000,
+      "view_id": 11100,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_RECYCLE_ROOM_TITLE",
+      "description_group": 240,
+      "hud_tutorial_replay": "RecycleRoom"
+    },
+    {
+      "id": 1300100,
+      "view_id": 13001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_SPECIAL_ARENA_TITLE",
+      "description_group": 160
+    },
+    {
+      "id": 1300201,
+      "view_id": 13100,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_CHAMPION_ARENA_TITLE_01",
+      "description_group": 161
+    },
+    {
+      "id": 1300202,
+      "view_id": 13101,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_CHAMPION_ARENA_TITLE_02",
+      "description_group": 162
+    },
+    {
+      "id": 1300203,
+      "view_id": 13103,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_CHAMPION_ARENA_TITLE_03",
+      "description_group": 163
+    },
+    {
+      "id": 1300204,
+      "view_id": 13104,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_CHAMPION_ARENA_TITLE_04",
+      "description_group": 164
+    },
+    {
+      "id": 1400000,
+      "view_id": 14000,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EMERGENCY_QUEST_TITLE",
+      "description_group": 320
+    },
+    {
+      "id": 1500300,
+      "view_id": 15003,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_COOPERATION_TITLE",
+      "description_group": 350
+    },
+    {
+      "id": 1500400,
+      "view_id": 15004,
+      "view_sub_id": 90001,
+      "title": "Locale_System:HELP_COMEBACK_EVENT_TITLE",
+      "description_group": 480
+    },
+    {
+      "id": 1500401,
+      "view_id": 15004,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_COMEBACK_EVENT_TITLE",
+      "description_group": 481
+    },
+    {
+      "id": 1700100,
+      "view_id": 17001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_SIMULATIONROOM_TITLE",
+      "description_group": 420
+    },
+    {
+      "id": 1700101,
+      "view_id": 17001,
+      "view_sub_id": 1,
+      "title": "Locale_System:HELP_SIMULATIONROOM_OVERCLOCK_TITLE",
+      "description_group": 421
+    },
+    {
+      "id": 1700300,
+      "view_id": 17003,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_SIMULATIONROOM_TITLE",
+      "description_group": 420
+    },
+    {
+      "id": 1700301,
+      "view_id": 17003,
+      "view_sub_id": 1,
+      "title": "Locale_System:HELP_SIMULATIONROOM_OVERCLOCK_TITLE",
+      "description_group": 421
+    },
+    {
+      "id": 1701001,
+      "view_id": 17010,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_SIMULATIONROOM_OVERCLOCK_TITLE",
+      "description_group": 421,
+      "hud_tutorial_replay": "OverClock"
+    },
+    {
+      "id": 1800300,
+      "view_id": 18003,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EVENT_STORY_BONUS_REWARD_TITLE",
+      "description_group": 510
+    },
+    {
+      "id": 1900100,
+      "view_id": 19001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_PASS_TITLE",
+      "description_group": 410
+    },
+    {
+      "id": 1910100,
+      "view_id": 19101,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_PASS_TITLE",
+      "description_group": 470
+    },
+    {
+      "id": 2000100,
+      "view_id": 20001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_UNION_RAID_TITLE",
+      "description_group": 450
+    },
+    {
+      "id": 2000200,
+      "view_id": 20002,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_UNION_RAID_TITLE",
+      "description_group": 450
+    },
+    {
+      "id": 3000100,
+      "view_id": 30001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_CONTENTS_SHOP_TITLE",
+      "description_group": 310
+    },
+    {
+      "id": 4000100,
+      "view_id": 40001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_VoltRoad_EVENT_TITLE",
+      "description_group": 1300
+    },
+    {
+      "id": 4100200,
+      "view_id": 41002,
+      "view_sub_id": 1,
+      "title": "Locale_System:HELP_TEXT_ADVENTURE_EVENT_TITLE",
+      "description_group": 1200
+    },
+    {
+      "id": 4100201,
+      "view_id": 41002,
+      "view_sub_id": 2,
+      "title": "Locale_System:HELP_TEXT_ADVENTURE_EVENT_TITLE",
+      "description_group": 1201
+    },
+    {
+      "id": 5000100,
+      "view_id": 50001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EVENT_FIELD_EVENT_TITLE",
+      "description_group": 490
+    },
+    {
+      "id": 5000101,
+      "view_id": 50001,
+      "view_sub_id": 1010003,
+      "title": "Locale_System:HELP_EVENT_FIELD_EVENT_TITLE",
+      "description_group": 491
+    },
+    {
+      "id": 5000300,
+      "view_id": 50003,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EVENT_FIELD_EVENT_TITLE",
+      "description_group": 490
+    },
+    {
+      "id": 5000400,
+      "view_id": 50004,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EVENT_FIELD_RECOLLECTION_TITLE",
+      "description_group": 494
+    },
+    {
+      "id": 6000100,
+      "view_id": 60001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_SORTOUT_EVENT_TITLE",
+      "description_group": 460
+    },
+    {
+      "id": 6000101,
+      "view_id": 60001,
+      "view_sub_id": 2,
+      "title": "Locale_System:HELP_SORTOUT_EVENT_TITLE",
+      "description_group": 461
+    },
+    {
+      "id": 7000100,
+      "view_id": 70001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EVENT_LIBERATE_TITLE",
+      "description_group": 701
+    },
+    {
+      "id": 7000200,
+      "view_id": 70002,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EVENT_LIBERATE_TITLE",
+      "description_group": 701
+    },
+    {
+      "id": 7000300,
+      "view_id": 70003,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EVENT_LIBERATE_TITLE",
+      "description_group": 701
+    },
+    {
+      "id": 7000400,
+      "view_id": 70004,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EVENT_LIBERATE_TITLE",
+      "description_group": 701
+    },
+    {
+      "id": 7000500,
+      "view_id": 70005,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EVENT_LIBERATE_TITLE",
+      "description_group": 701
+    },
+    {
+      "id": 7000501,
+      "view_id": 70002,
+      "view_sub_id": 1,
+      "title": "Locale_System:HELP_EVENT_LIBERATE_TITLE",
+      "description_group": 702
+    },
+    {
+      "id": 8000100,
+      "view_id": 80001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_BBQ_TYCOON_EVENT_TITLE",
+      "description_group": 1400
+    },
+    {
+      "id": 9000100,
+      "view_id": 90001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_CE002_MINIGAME_EVENT_TITLE",
+      "description_group": 1600
+    },
+    {
+      "id": 1500500,
+      "view_id": 15005,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_TEMPORARY_JOIN_TITLE",
+      "description_group": 1505
+    },
+    {
+      "id": 2200100,
+      "view_id": 22001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_CHALLENGE_STAGE_TITLE",
+      "description_group": 1000
+    },
+    {
+      "id": 18000003,
+      "view_id": 18000,
+      "view_sub_id": 10003,
+      "title": "Locale_System:HELP_EVENT_STORY_MIRACLE_SNOW_TITLE",
+      "description_group": 520
+    },
+    {
+      "id": 18000004,
+      "view_id": 18000,
+      "view_sub_id": 10004,
+      "title": "Locale_System:HELP_EVENT_STORY_ETERNAL_MEMORY_TITLE",
+      "description_group": 530
+    },
+    {
+      "id": 18000005,
+      "view_id": 18000,
+      "view_sub_id": 10005,
+      "title": "Locale_System:HELP_EVENT_STORY_BRAND_NEW_YEAR_TITLE",
+      "description_group": 540
+    },
+    {
+      "id": 18000006,
+      "view_id": 18000,
+      "view_sub_id": 10006,
+      "title": "Locale_System:HELP_EVENT_STORY_D-OUTSIDERS_TITLE",
+      "description_group": 550
+    },
+    {
+      "id": 18000007,
+      "view_id": 18000,
+      "view_sub_id": 10007,
+      "title": "Locale_System:HELP_EVENT_STORY_MAID_IN_VALENTINE_TITLE",
+      "description_group": 560
+    },
+    {
+      "id": 18000008,
+      "view_id": 18000,
+      "view_sub_id": 10008,
+      "title": "Locale_System:HELP_EVENT_STORY_CE_01_PART1_TITLE",
+      "description_group": 570
+    },
+    {
+      "id": 18000009,
+      "view_id": 18000,
+      "view_sub_id": 10009,
+      "title": "Locale_System:HELP_EVENT_STORY_CE_01_PART2_TITLE",
+      "description_group": 580
+    },
+    {
+      "id": 18000010,
+      "view_id": 18000,
+      "view_sub_id": 10010,
+      "title": "Locale_System:HELP_EVENT_STORY_BOW-WOW_PARADISE_TITLE",
+      "description_group": 590
+    },
+    {
+      "id": 18000011,
+      "view_id": 18000,
+      "view_sub_id": 10011,
+      "title": "Locale_System:HELP_EVENT_STORY_11_TITLE",
+      "description_group": 600
+    },
+    {
+      "id": 18000012,
+      "view_id": 18000,
+      "view_sub_id": 10012,
+      "title": "Locale_System:HELP_EVENT_STORY_12_TITLE",
+      "description_group": 610
+    },
+    {
+      "id": 18000013,
+      "view_id": 18000,
+      "view_sub_id": 10013,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000014,
+      "view_id": 18000,
+      "view_sub_id": 10014,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000015,
+      "view_id": 18000,
+      "view_sub_id": 10015,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000016,
+      "view_id": 18000,
+      "view_sub_id": 10016,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000020,
+      "view_id": 18000,
+      "view_sub_id": 10020,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000021,
+      "view_id": 18000,
+      "view_sub_id": 10021,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000022,
+      "view_id": 18000,
+      "view_sub_id": 10022,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000023,
+      "view_id": 18000,
+      "view_sub_id": 10023,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000024,
+      "view_id": 18000,
+      "view_sub_id": 10024,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000025,
+      "view_id": 18000,
+      "view_sub_id": 10025,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000026,
+      "view_id": 18000,
+      "view_sub_id": 10026,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000027,
+      "view_id": 18000,
+      "view_sub_id": 10027,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000028,
+      "view_id": 18000,
+      "view_sub_id": 10028,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000029,
+      "view_id": 18000,
+      "view_sub_id": 10029,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000030,
+      "view_id": 18000,
+      "view_sub_id": 10030,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000031,
+      "view_id": 18000,
+      "view_sub_id": 10031,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000032,
+      "view_id": 18000,
+      "view_sub_id": 10032,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000033,
+      "view_id": 18000,
+      "view_sub_id": 10033,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000034,
+      "view_id": 18000,
+      "view_sub_id": 10034,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000035,
+      "view_id": 18000,
+      "view_sub_id": 10035,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000036,
+      "view_id": 18000,
+      "view_sub_id": 10036,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000037,
+      "view_id": 18000,
+      "view_sub_id": 10037,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000038,
+      "view_id": 18000,
+      "view_sub_id": 10038,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000039,
+      "view_id": 18000,
+      "view_sub_id": 10039,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000040,
+      "view_id": 18000,
+      "view_sub_id": 10040,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 18000043,
+      "view_id": 18000,
+      "view_sub_id": 10043,
+      "title": "Locale_System:HELP_EVENT_STORY_COMMON_TITLE",
+      "description_group": 620
+    },
+    {
+      "id": 2021001,
+      "view_id": 2021,
+      "view_sub_id": 1,
+      "title": "Locale_System:HELP_EVENT_ARCHIVE_TITLE",
+      "description_group": 630,
+      "hud_tutorial_replay": "Archive"
+    },
+    {
+      "id": 2023000,
+      "view_id": 2023,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_EVENT_RECORD_INFO_TITLE",
+      "description_group": 640
+    },
+    {
+      "id": 18000000,
+      "view_id": 18000,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_ARCHIVE_STORY_EVENT_TITLE",
+      "description_group": 650
+    },
+    {
+      "id": 210011,
+      "view_id": 21001,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_SOLO_RAID_TITLE",
+      "description_group": 1100
+    },
+    {
+      "id": 1107300,
+      "view_id": 11073,
+      "view_sub_id": 0,
+      "title": "Locale_System:HELP_LOGIN_REPLENISH_TITLE",
+      "description_group": 1500
+    }
+  ]
+}

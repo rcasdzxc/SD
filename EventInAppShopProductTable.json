@@ -1,0 +1,285 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 101,
+      "group": 1,
+      "order": 1,
+      "package_group_id": 1,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 36,
+      "is_free": false,
+      "midas_product_id": 90000101
+    },
+    {
+      "id": 102,
+      "group": 1,
+      "order": 2,
+      "package_group_id": 2,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 18,
+      "is_free": false,
+      "midas_product_id": 90000102
+    },
+    {
+      "id": 103,
+      "group": 1,
+      "order": 3,
+      "package_group_id": 3,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 9,
+      "is_free": false,
+      "midas_product_id": 90000103
+    },
+    {
+      "id": 104,
+      "group": 1,
+      "order": 4,
+      "package_group_id": 4,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 6,
+      "is_free": false,
+      "midas_product_id": 90000104
+    },
+    {
+      "id": 201,
+      "group": 2,
+      "order": 1,
+      "package_group_id": 11,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 36,
+      "is_free": false,
+      "midas_product_id": 90000201
+    },
+    {
+      "id": 202,
+      "group": 2,
+      "order": 2,
+      "package_group_id": 12,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 18,
+      "is_free": false,
+      "midas_product_id": 90000202
+    },
+    {
+      "id": 203,
+      "group": 2,
+      "order": 3,
+      "package_group_id": 13,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 9,
+      "is_free": false,
+      "midas_product_id": 90000203
+    },
+    {
+      "id": 204,
+      "group": 2,
+      "order": 4,
+      "package_group_id": 14,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 6,
+      "is_free": false,
+      "midas_product_id": 90000204
+    },
+    {
+      "id": 301,
+      "group": 3,
+      "order": 1,
+      "package_group_id": 21,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 36,
+      "is_free": false,
+      "midas_product_id": 90000301
+    },
+    {
+      "id": 302,
+      "group": 3,
+      "order": 2,
+      "package_group_id": 22,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 18,
+      "is_free": false,
+      "midas_product_id": 90000302
+    },
+    {
+      "id": 303,
+      "group": 3,
+      "order": 3,
+      "package_group_id": 23,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 9,
+      "is_free": false,
+      "midas_product_id": 90000303
+    },
+    {
+      "id": 304,
+      "group": 3,
+      "order": 4,
+      "package_group_id": 24,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 6,
+      "is_free": false,
+      "midas_product_id": 90000304
+    },
+    {
+      "id": 401,
+      "group": 4,
+      "order": 1,
+      "package_group_id": 31,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 36,
+      "is_free": false,
+      "midas_product_id": 90000401
+    },
+    {
+      "id": 402,
+      "group": 4,
+      "order": 2,
+      "package_group_id": 32,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 18,
+      "is_free": false,
+      "midas_product_id": 90000402
+    },
+    {
+      "id": 403,
+      "group": 4,
+      "order": 3,
+      "package_group_id": 33,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 9,
+      "is_free": false,
+      "midas_product_id": 90000403
+    },
+    {
+      "id": 404,
+      "group": 4,
+      "order": 4,
+      "package_group_id": 34,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 6,
+      "is_free": false,
+      "midas_product_id": 90000404
+    },
+    {
+      "id": 501,
+      "group": 5,
+      "order": 1,
+      "package_group_id": 41,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 36,
+      "is_free": false,
+      "midas_product_id": 90000501
+    },
+    {
+      "id": 502,
+      "group": 5,
+      "order": 2,
+      "package_group_id": 42,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 18,
+      "is_free": false,
+      "midas_product_id": 90000502
+    },
+    {
+      "id": 503,
+      "group": 5,
+      "order": 3,
+      "package_group_id": 43,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 9,
+      "is_free": false,
+      "midas_product_id": 90000503
+    },
+    {
+      "id": 504,
+      "group": 5,
+      "order": 4,
+      "package_group_id": 44,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 6,
+      "is_free": false,
+      "midas_product_id": 90000504
+    },
+    {
+      "id": 601,
+      "group": 6,
+      "order": 1,
+      "package_group_id": 51,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 36,
+      "is_free": false,
+      "midas_product_id": 90000601
+    },
+    {
+      "id": 602,
+      "group": 6,
+      "order": 2,
+      "package_group_id": 52,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 18,
+      "is_free": false,
+      "midas_product_id": 90000602
+    },
+    {
+      "id": 603,
+      "group": 6,
+      "order": 3,
+      "package_group_id": 53,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 9,
+      "is_free": false,
+      "midas_product_id": 90000603
+    },
+    {
+      "id": 604,
+      "group": 6,
+      "order": 4,
+      "package_group_id": 54,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 6,
+      "is_free": false,
+      "midas_product_id": 90000604
+    },
+    {
+      "id": 701,
+      "group": 7,
+      "order": 1,
+      "package_group_id": 51,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 36,
+      "is_free": true,
+      "midas_product_id": 90000701
+    },
+    {
+      "id": 702,
+      "group": 7,
+      "order": 2,
+      "package_group_id": 52,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 18,
+      "is_free": true,
+      "midas_product_id": 90000702
+    },
+    {
+      "id": 703,
+      "group": 7,
+      "order": 3,
+      "package_group_id": 53,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 9,
+      "is_free": true,
+      "midas_product_id": 90000703
+    },
+    {
+      "id": 704,
+      "group": 7,
+      "order": 4,
+      "package_group_id": 54,
+      "buy_limit_type": "Account",
+      "buy_limit_count": 6,
+      "is_free": true,
+      "midas_product_id": 90000704
+    }
+  ]
+}

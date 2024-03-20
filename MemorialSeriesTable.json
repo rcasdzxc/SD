@@ -1,0 +1,1047 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "memorial_series_id": 100100,
+      "order": 1,
+      "memorial_series_name": "Locale_Memorial:memorial_01_name",
+      "memorial_series_description": "Locale_Memorial:memorial_01_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 100101
+        },
+        {
+          "memorial_memory_id": 100102
+        },
+        {
+          "memorial_memory_id": 100103
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 100200,
+      "order": 2,
+      "memorial_series_name": "Locale_Memorial:memorial_02_name",
+      "memorial_series_description": "Locale_Memorial:memorial_02_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1002",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 100201
+        },
+        {
+          "memorial_memory_id": 100202
+        },
+        {
+          "memorial_memory_id": 100203
+        },
+        {
+          "memorial_memory_id": 100204
+        },
+        {
+          "memorial_memory_id": 100205
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 100300,
+      "order": 3,
+      "memorial_series_name": "Locale_Memorial:memorial_03_name",
+      "memorial_series_description": "Locale_Memorial:memorial_03_description",
+      "memorial_series_category": "CallLog",
+      "memorial_series_resource": "mm_1003",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 100301
+        },
+        {
+          "memorial_memory_id": 100302
+        },
+        {
+          "memorial_memory_id": 100303
+        },
+        {
+          "memorial_memory_id": 100304
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 100400,
+      "order": 4,
+      "memorial_series_name": "Locale_Memorial:memorial_04_name",
+      "memorial_series_description": "Locale_Memorial:memorial_04_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 100401
+        },
+        {
+          "memorial_memory_id": 100402
+        },
+        {
+          "memorial_memory_id": 100403
+        },
+        {
+          "memorial_memory_id": 100404
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 100500,
+      "order": 5,
+      "memorial_series_name": "Locale_Memorial:memorial_05_name",
+      "memorial_series_description": "Locale_Memorial:memorial_05_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1005",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 100501
+        },
+        {
+          "memorial_memory_id": 100502
+        },
+        {
+          "memorial_memory_id": 100503
+        },
+        {
+          "memorial_memory_id": 100504
+        },
+        {
+          "memorial_memory_id": 100505
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 100600,
+      "order": 6,
+      "memorial_series_name": "Locale_Memorial:memorial_06_name",
+      "memorial_series_description": "Locale_Memorial:memorial_06_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 100601
+        },
+        {
+          "memorial_memory_id": 100602
+        },
+        {
+          "memorial_memory_id": 100603
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 100700,
+      "order": 7,
+      "memorial_series_name": "Locale_Memorial:memorial_07_name",
+      "memorial_series_description": "Locale_Memorial:memorial_07_description",
+      "memorial_series_category": "CallLog",
+      "memorial_series_resource": "mm_1003",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 100701
+        },
+        {
+          "memorial_memory_id": 100702
+        },
+        {
+          "memorial_memory_id": 100703
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 100800,
+      "order": 8,
+      "memorial_series_name": "Locale_Memorial:memorial_08_name",
+      "memorial_series_description": "Locale_Memorial:memorial_08_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 100801
+        },
+        {
+          "memorial_memory_id": 100802
+        },
+        {
+          "memorial_memory_id": 100803
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 100900,
+      "order": 9,
+      "memorial_series_name": "Locale_Memorial:memorial_09_name",
+      "memorial_series_description": "Locale_Memorial:memorial_09_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 100901
+        },
+        {
+          "memorial_memory_id": 100902
+        },
+        {
+          "memorial_memory_id": 100903
+        },
+        {
+          "memorial_memory_id": 100904
+        },
+        {
+          "memorial_memory_id": 100905
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 101000,
+      "order": 10,
+      "memorial_series_name": "Locale_Memorial:memorial_10_name",
+      "memorial_series_description": "Locale_Memorial:memorial_10_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101001
+        },
+        {
+          "memorial_memory_id": 101002
+        },
+        {
+          "memorial_memory_id": 101003
+        },
+        {
+          "memorial_memory_id": 101004
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 101100,
+      "order": 11,
+      "memorial_series_name": "Locale_Memorial:memorial_11_name",
+      "memorial_series_description": "Locale_Memorial:memorial_11_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1005",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101101
+        },
+        {
+          "memorial_memory_id": 101102
+        },
+        {
+          "memorial_memory_id": 101103
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 101200,
+      "order": 12,
+      "memorial_series_name": "Locale_Memorial:memorial_12_name",
+      "memorial_series_description": "Locale_Memorial:memorial_12_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101201
+        },
+        {
+          "memorial_memory_id": 101202
+        },
+        {
+          "memorial_memory_id": 101203
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 101300,
+      "order": 13,
+      "memorial_series_name": "Locale_Memorial:memorial_13_name",
+      "memorial_series_description": "Locale_Memorial:memorial_13_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1002",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101301
+        },
+        {
+          "memorial_memory_id": 101302
+        },
+        {
+          "memorial_memory_id": 101303
+        },
+        {
+          "memorial_memory_id": 101304
+        },
+        {
+          "memorial_memory_id": 101305
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 101400,
+      "order": 14,
+      "memorial_series_name": "Locale_Memorial:memorial_14_name",
+      "memorial_series_description": "Locale_Memorial:memorial_14_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101401
+        },
+        {
+          "memorial_memory_id": 101402
+        },
+        {
+          "memorial_memory_id": 101403
+        },
+        {
+          "memorial_memory_id": 101404
+        },
+        {
+          "memorial_memory_id": 101405
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 101500,
+      "order": 15,
+      "memorial_series_name": "Locale_Memorial:memorial_15_name",
+      "memorial_series_description": "Locale_Memorial:memorial_15_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1005",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101501
+        },
+        {
+          "memorial_memory_id": 101502
+        },
+        {
+          "memorial_memory_id": 101503
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 101600,
+      "order": 16,
+      "memorial_series_name": "Locale_Memorial:memorial_16_name",
+      "memorial_series_description": "Locale_Memorial:memorial_16_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1002",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101601
+        },
+        {
+          "memorial_memory_id": 101602
+        },
+        {
+          "memorial_memory_id": 101603
+        },
+        {
+          "memorial_memory_id": 101604
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 101700,
+      "order": 17,
+      "memorial_series_name": "Locale_Memorial:memorial_17_name",
+      "memorial_series_description": "Locale_Memorial:memorial_17_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101701
+        },
+        {
+          "memorial_memory_id": 101702
+        },
+        {
+          "memorial_memory_id": 101703
+        },
+        {
+          "memorial_memory_id": 101704
+        },
+        {
+          "memorial_memory_id": 101705
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 101800,
+      "order": 18,
+      "memorial_series_name": "Locale_Memorial:memorial_18_name",
+      "memorial_series_description": "Locale_Memorial:memorial_18_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101801
+        },
+        {
+          "memorial_memory_id": 101802
+        },
+        {
+          "memorial_memory_id": 101803
+        },
+        {
+          "memorial_memory_id": 101804
+        },
+        {
+          "memorial_memory_id": 101805
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 101900,
+      "order": 19,
+      "memorial_series_name": "Locale_Memorial:memorial_19_name",
+      "memorial_series_description": "Locale_Memorial:memorial_19_description",
+      "memorial_series_category": "CallLog",
+      "memorial_series_resource": "mm_1003",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101901
+        },
+        {
+          "memorial_memory_id": 101902
+        },
+        {
+          "memorial_memory_id": 101903
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 102000,
+      "order": 20,
+      "memorial_series_name": "Locale_Memorial:memorial_20_name",
+      "memorial_series_description": "Locale_Memorial:memorial_20_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 102001
+        },
+        {
+          "memorial_memory_id": 102002
+        },
+        {
+          "memorial_memory_id": 102003
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 102100,
+      "order": 21,
+      "memorial_series_name": "Locale_Memorial:memorial_21_name",
+      "memorial_series_description": "Locale_Memorial:memorial_21_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1002",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 102101
+        },
+        {
+          "memorial_memory_id": 102102
+        },
+        {
+          "memorial_memory_id": 102103
+        },
+        {
+          "memorial_memory_id": 102104
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 102200,
+      "order": 22,
+      "memorial_series_name": "Locale_Memorial:memorial_22_name",
+      "memorial_series_description": "Locale_Memorial:memorial_22_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1005",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 102201
+        },
+        {
+          "memorial_memory_id": 102202
+        },
+        {
+          "memorial_memory_id": 102203
+        },
+        {
+          "memorial_memory_id": 102204
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 102300,
+      "order": 23,
+      "memorial_series_name": "Locale_Memorial:memorial_23_name",
+      "memorial_series_description": "Locale_Memorial:memorial_23_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 102301
+        },
+        {
+          "memorial_memory_id": 102302
+        },
+        {
+          "memorial_memory_id": 102303
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 102400,
+      "order": 24,
+      "memorial_series_name": "Locale_Memorial:memorial_24_name",
+      "memorial_series_description": "Locale_Memorial:memorial_24_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 102401
+        },
+        {
+          "memorial_memory_id": 102402
+        },
+        {
+          "memorial_memory_id": 102403
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 102500,
+      "order": 25,
+      "memorial_series_name": "Locale_Memorial:memorial_25_name",
+      "memorial_series_description": "Locale_Memorial:memorial_25_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1005",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 102501
+        },
+        {
+          "memorial_memory_id": 102502
+        },
+        {
+          "memorial_memory_id": 102503
+        },
+        {
+          "memorial_memory_id": 102504
+        },
+        {
+          "memorial_memory_id": 102505
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 102600,
+      "order": 26,
+      "memorial_series_name": "Locale_Memorial:memorial_26_name",
+      "memorial_series_description": "Locale_Memorial:memorial_26_description",
+      "memorial_series_category": "CallLog",
+      "memorial_series_resource": "mm_1003",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 102601
+        },
+        {
+          "memorial_memory_id": 102602
+        },
+        {
+          "memorial_memory_id": 102603
+        },
+        {
+          "memorial_memory_id": 102604
+        },
+        {
+          "memorial_memory_id": 102605
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 102700,
+      "order": 27,
+      "memorial_series_name": "Locale_Memorial:memorial_27_name",
+      "memorial_series_description": "Locale_Memorial:memorial_27_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1005",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 102701
+        },
+        {
+          "memorial_memory_id": 102702
+        },
+        {
+          "memorial_memory_id": 102703
+        },
+        {
+          "memorial_memory_id": 102704
+        },
+        {
+          "memorial_memory_id": 102705
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 102800,
+      "order": 28,
+      "memorial_series_name": "Locale_Memorial:memorial_28_name",
+      "memorial_series_description": "Locale_Memorial:memorial_28_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1005",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 102801
+        },
+        {
+          "memorial_memory_id": 102802
+        },
+        {
+          "memorial_memory_id": 102803
+        },
+        {
+          "memorial_memory_id": 102804
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 102900,
+      "order": 29,
+      "memorial_series_name": "Locale_Memorial:memorial_29_name",
+      "memorial_series_description": "Locale_Memorial:memorial_29_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 102901
+        },
+        {
+          "memorial_memory_id": 102902
+        },
+        {
+          "memorial_memory_id": 102903
+        },
+        {
+          "memorial_memory_id": 102904
+        },
+        {
+          "memorial_memory_id": 102905
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 103000,
+      "order": 30,
+      "memorial_series_name": "Locale_Memorial:memorial_30_name",
+      "memorial_series_description": "Locale_Memorial:memorial_30_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1005",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 103001
+        },
+        {
+          "memorial_memory_id": 103002
+        },
+        {
+          "memorial_memory_id": 103003
+        },
+        {
+          "memorial_memory_id": 103004
+        },
+        {
+          "memorial_memory_id": 103005
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 103100,
+      "order": 31,
+      "memorial_series_name": "Locale_Memorial:memorial_31_name",
+      "memorial_series_description": "Locale_Memorial:memorial_31_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 103101
+        },
+        {
+          "memorial_memory_id": 103102
+        },
+        {
+          "memorial_memory_id": 103103
+        },
+        {
+          "memorial_memory_id": 103104
+        },
+        {
+          "memorial_memory_id": 103105
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 103200,
+      "order": 32,
+      "memorial_series_name": "Locale_Memorial:memorial_32_name",
+      "memorial_series_description": "Locale_Memorial:memorial_32_description",
+      "memorial_series_category": "CallLog",
+      "memorial_series_resource": "mm_1003",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 103201
+        },
+        {
+          "memorial_memory_id": 103202
+        },
+        {
+          "memorial_memory_id": 103203
+        },
+        {
+          "memorial_memory_id": 103204
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 103300,
+      "order": 33,
+      "memorial_series_name": "Locale_Memorial:memorial_33_name",
+      "memorial_series_description": "Locale_Memorial:memorial_33_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 103301
+        },
+        {
+          "memorial_memory_id": 103302
+        },
+        {
+          "memorial_memory_id": 103303
+        },
+        {
+          "memorial_memory_id": 103304
+        },
+        {
+          "memorial_memory_id": 103305
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 103400,
+      "order": 34,
+      "memorial_series_name": "Locale_Memorial:memorial_34_name",
+      "memorial_series_description": "Locale_Memorial:memorial_34_description",
+      "memorial_series_category": "CallLog",
+      "memorial_series_resource": "mm_1003",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 103401
+        },
+        {
+          "memorial_memory_id": 103402
+        },
+        {
+          "memorial_memory_id": 103403
+        },
+        {
+          "memorial_memory_id": 103404
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 103500,
+      "order": 35,
+      "memorial_series_name": "Locale_Memorial:memorial_35_name",
+      "memorial_series_description": "Locale_Memorial:memorial_35_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1001",
+      "is_event_memorial": false,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 103501
+        },
+        {
+          "memorial_memory_id": 103502
+        },
+        {
+          "memorial_memory_id": 103503
+        },
+        {
+          "memorial_memory_id": 103504
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 200100,
+      "order": 1,
+      "memorial_series_name": "Locale_Memorial:memorial_redash_01_name",
+      "memorial_series_description": "Locale_Memorial:memorial_redash_01_description",
+      "memorial_series_category": "RedAsh",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": true,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 200101
+        },
+        {
+          "memorial_memory_id": 200102
+        },
+        {
+          "memorial_memory_id": 200103
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 200200,
+      "order": 2,
+      "memorial_series_name": "Locale_Memorial:memorial_redash_02_name",
+      "memorial_series_description": "Locale_Memorial:memorial_redash_02_description",
+      "memorial_series_category": "RedAsh",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": true,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 200201
+        },
+        {
+          "memorial_memory_id": 200202
+        },
+        {
+          "memorial_memory_id": 200203
+        },
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 200300,
+      "order": 3,
+      "memorial_series_name": "Locale_Memorial:memorial_redash_03_name",
+      "memorial_series_description": "Locale_Memorial:memorial_redash_03_description",
+      "memorial_series_category": "RedAsh",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": true,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 200301
+        },
+        {
+          "memorial_memory_id": 200302
+        },
+        {
+          "memorial_memory_id": 200303
+        },
+        {
+          "memorial_memory_id": 200304
+        },
+        {
+          "memorial_memory_id": 200305
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 200400,
+      "order": 4,
+      "memorial_series_name": "Locale_Memorial:memorial_redash_04_name",
+      "memorial_series_description": "Locale_Memorial:memorial_redash_04_description",
+      "memorial_series_category": "RedAsh",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": true,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 200401
+        },
+        {
+          "memorial_memory_id": 200402
+        },
+        {
+          "memorial_memory_id": 200403
+        },
+        {
+          "memorial_memory_id": 200404
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 200500,
+      "order": 5,
+      "memorial_series_name": "Locale_Memorial:memorial_redash_05_name",
+      "memorial_series_description": "Locale_Memorial:memorial_redash_05_description",
+      "memorial_series_category": "RedAsh",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": true,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 200501
+        },
+        {
+          "memorial_memory_id": 200502
+        },
+        {},
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 200600,
+      "order": 6,
+      "memorial_series_name": "Locale_Memorial:memorial_redash_06_name",
+      "memorial_series_description": "Locale_Memorial:memorial_redash_06_description",
+      "memorial_series_category": "RedAsh",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": true,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 200601
+        },
+        {
+          "memorial_memory_id": 200602
+        },
+        {},
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 200700,
+      "order": 7,
+      "memorial_series_name": "Locale_Memorial:memorial_redash_07_name",
+      "memorial_series_description": "Locale_Memorial:memorial_redash_07_description",
+      "memorial_series_category": "RedAsh",
+      "memorial_series_resource": "mm_1004",
+      "is_event_memorial": true,
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 200701
+        },
+        {
+          "memorial_memory_id": 200702
+        },
+        {},
+        {},
+        {}
+      ],
+      "collect_reward_id": 100
+    }
+  ]
+}

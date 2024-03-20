@@ -1,0 +1,941 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1001,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7032001,
+          "reward_value": 100
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7033001,
+          "reward_value": 100
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7034001,
+          "reward_value": 100
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9110001,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9120001,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9140001,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9110002,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9120002,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9140002,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9110003,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9120003,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9140003,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9110004,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9120004,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9140004,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        }
+      ]
+    },
+    {
+      "id": 1006,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9110005,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9120005,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9140005,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        }
+      ]
+    },
+    {
+      "id": 1007,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9110006,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9120006,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9140006,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        }
+      ]
+    },
+    {
+      "id": 1008,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9110007,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9120007,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9140007,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        }
+      ]
+    },
+    {
+      "id": 2001,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7091001,
+          "reward_value": 18
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7091002,
+          "reward_value": 12
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7091003,
+          "reward_value": 6
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        }
+      ]
+    },
+    {
+      "id": 2002,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7092001,
+          "reward_value": 9
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7092002,
+          "reward_value": 6
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7092003,
+          "reward_value": 3
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        }
+      ]
+    },
+    {
+      "id": 3001,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9110001,
+          "reward_value": 30
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9120001,
+          "reward_value": 30
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9140001,
+          "reward_value": 30
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7140001,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7091001,
+          "reward_value": 180
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7091002,
+          "reward_value": 120
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7091003,
+          "reward_value": 60
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7092001,
+          "reward_value": 90
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7092002,
+          "reward_value": 60
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7092003,
+          "reward_value": 30
+        }
+      ]
+    },
+    {
+      "id": 3002,
+      "user_exp": 0,
+      "character_exp": 0,
+      "is_mail": false,
+      "rewards": [
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Currency",
+          "reward_id": 99,
+          "reward_value": 2024
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 9301007,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "Item",
+          "reward_id": 7140001,
+          "reward_value": 1
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        },
+        {
+          "reward_percent": 1000000,
+          "percent_display_type": "None",
+          "reward_type": "None",
+          "reward_id": 0,
+          "reward_value": 0
+        }
+      ]
+    }
+  ]
+}

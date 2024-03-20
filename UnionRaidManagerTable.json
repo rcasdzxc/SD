@@ -1,0 +1,61 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1000001,
+      "monster_preset": 10001
+    },
+    {
+      "id": 1000002,
+      "monster_preset": 10002
+    },
+    {
+      "id": 1000003,
+      "monster_preset": 10003
+    },
+    {
+      "id": 1000004,
+      "monster_preset": 10004
+    },
+    {
+      "id": 1000005,
+      "monster_preset": 10005
+    },
+    {
+      "id": 1000006,
+      "monster_preset": 10006
+    },
+    {
+      "id": 1000007,
+      "monster_preset": 10007
+    },
+    {
+      "id": 1000008,
+      "monster_preset": 10008
+    },
+    {
+      "id": 1000009,
+      "monster_preset": 10009
+    },
+    {
+      "id": 1000010,
+      "monster_preset": 10010
+    },
+    {
+      "id": 1000011,
+      "monster_preset": 10011
+    },
+    {
+      "id": 1000012,
+      "monster_preset": 10012
+    },
+    {
+      "id": 1000013,
+      "monster_preset": 10013
+    },
+    {
+      "id": 1000014,
+      "monster_preset": 10014
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1001,
+      "pass_point_id": 1,
+      "condition_type": "SimulationRoomClearWithoutCondition",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_SimulationRoomClearWithoutCondition",
+      "reward_id": 4000000
+    },
+    {
+      "id": 1002,
+      "pass_point_id": 1,
+      "condition_type": "CharacterCounsel",
+      "condition_id": 0,
+      "condition_value": 3,
+      "name_localkey": "Locale_Trigger:trigger_desc_CharacterCounsel",
+      "reward_id": 4000000
+    },
+    {
+      "id": 1003,
+      "pass_point_id": 1,
+      "condition_type": "InterceptStart",
+      "condition_id": 0,
+      "condition_value": 3,
+      "name_localkey": "Locale_Trigger:trigger_desc_InterceptClear",
+      "reward_id": 4000000
+    },
+    {
+      "id": 1004,
+      "pass_point_id": 1,
+      "condition_type": "SendFriendShipPoint",
+      "condition_id": 0,
+      "condition_value": 5,
+      "name_localkey": "Locale_Trigger:trigger_desc_SendFriendShipPoint",
+      "reward_id": 4000000
+    },
+    {
+      "id": 1005,
+      "pass_point_id": 1,
+      "condition_type": "MainShopBuy",
+      "condition_id": 0,
+      "condition_value": 2,
+      "name_localkey": "Locale_Trigger:trigger_desc_MainShopBuy",
+      "reward_id": 4000000
+    },
+    {
+      "id": 1006,
+      "pass_point_id": 1,
+      "condition_type": "ObtainEquipItemALL",
+      "condition_id": 0,
+      "condition_value": 20,
+      "name_localkey": "Locale_Trigger:trigger_desc_ObtainEquipItemALL",
+      "reward_id": 4000000
+    },
+    {
+      "id": 1007,
+      "pass_point_id": 1,
+      "condition_type": "PointRewardDaily",
+      "condition_id": 0,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardDaily",
+      "reward_id": 4000000
+    },
+    {
+      "id": 2001,
+      "pass_point_id": 2,
+      "condition_type": "SimulationRoomClearWithoutCondition",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_SimulationRoomClearWithoutCondition",
+      "reward_id": 4000001
+    },
+    {
+      "id": 2002,
+      "pass_point_id": 2,
+      "condition_type": "CharacterCounsel",
+      "condition_id": 0,
+      "condition_value": 3,
+      "name_localkey": "Locale_Trigger:trigger_desc_CharacterCounsel",
+      "reward_id": 4000001
+    },
+    {
+      "id": 2003,
+      "pass_point_id": 2,
+      "condition_type": "InterceptStart",
+      "condition_id": 0,
+      "condition_value": 3,
+      "name_localkey": "Locale_Trigger:trigger_desc_InterceptClear",
+      "reward_id": 4000001
+    },
+    {
+      "id": 2004,
+      "pass_point_id": 2,
+      "condition_type": "SendFriendShipPoint",
+      "condition_id": 0,
+      "condition_value": 5,
+      "name_localkey": "Locale_Trigger:trigger_desc_SendFriendShipPoint",
+      "reward_id": 4000001
+    },
+    {
+      "id": 2005,
+      "pass_point_id": 2,
+      "condition_type": "MainShopBuy",
+      "condition_id": 0,
+      "condition_value": 2,
+      "name_localkey": "Locale_Trigger:trigger_desc_MainShopBuy",
+      "reward_id": 4000001
+    },
+    {
+      "id": 2006,
+      "pass_point_id": 2,
+      "condition_type": "ObtainEquipItemALL",
+      "condition_id": 0,
+      "condition_value": 20,
+      "name_localkey": "Locale_Trigger:trigger_desc_ObtainEquipItemALL",
+      "reward_id": 4000001
+    },
+    {
+      "id": 2007,
+      "pass_point_id": 2,
+      "condition_type": "PointRewardDaily",
+      "condition_id": 0,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardDaily",
+      "reward_id": 4000001
+    },
+    {
+      "id": 3001,
+      "pass_point_id": 3,
+      "condition_type": "SimulationRoomClearWithoutCondition",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_SimulationRoomClearWithoutCondition",
+      "reward_id": 4000004
+    },
+    {
+      "id": 3002,
+      "pass_point_id": 3,
+      "condition_type": "CharacterCounsel",
+      "condition_id": 0,
+      "condition_value": 3,
+      "name_localkey": "Locale_Trigger:trigger_desc_CharacterCounsel",
+      "reward_id": 4000004
+    },
+    {
+      "id": 3003,
+      "pass_point_id": 3,
+      "condition_type": "InterceptStart",
+      "condition_id": 0,
+      "condition_value": 3,
+      "name_localkey": "Locale_Trigger:trigger_desc_InterceptClear",
+      "reward_id": 4000004
+    },
+    {
+      "id": 3004,
+      "pass_point_id": 3,
+      "condition_type": "SendFriendShipPoint",
+      "condition_id": 0,
+      "condition_value": 5,
+      "name_localkey": "Locale_Trigger:trigger_desc_SendFriendShipPoint",
+      "reward_id": 4000004
+    },
+    {
+      "id": 3005,
+      "pass_point_id": 3,
+      "condition_type": "MainShopBuy",
+      "condition_id": 0,
+      "condition_value": 2,
+      "name_localkey": "Locale_Trigger:trigger_desc_MainShopBuy",
+      "reward_id": 4000004
+    },
+    {
+      "id": 3006,
+      "pass_point_id": 3,
+      "condition_type": "OutpostFastBattleReward",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_OutpostFastBattleReward",
+      "reward_id": 4000004
+    },
+    {
+      "id": 3007,
+      "pass_point_id": 3,
+      "condition_type": "PointRewardDaily",
+      "condition_id": 0,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardDaily",
+      "reward_id": 4000004
+    },
+    {
+      "id": 4001,
+      "pass_point_id": 4,
+      "condition_type": "SimulationRoomClearWithoutCondition",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_SimulationRoomClearWithoutCondition",
+      "reward_id": 4000005
+    },
+    {
+      "id": 4002,
+      "pass_point_id": 4,
+      "condition_type": "CharacterCounsel",
+      "condition_id": 0,
+      "condition_value": 3,
+      "name_localkey": "Locale_Trigger:trigger_desc_CharacterCounsel",
+      "reward_id": 4000005
+    },
+    {
+      "id": 4003,
+      "pass_point_id": 4,
+      "condition_type": "InterceptStart",
+      "condition_id": 0,
+      "condition_value": 3,
+      "name_localkey": "Locale_Trigger:trigger_desc_InterceptClear",
+      "reward_id": 4000005
+    },
+    {
+      "id": 4004,
+      "pass_point_id": 4,
+      "condition_type": "SendFriendShipPoint",
+      "condition_id": 0,
+      "condition_value": 5,
+      "name_localkey": "Locale_Trigger:trigger_desc_SendFriendShipPoint",
+      "reward_id": 4000005
+    },
+    {
+      "id": 4005,
+      "pass_point_id": 4,
+      "condition_type": "MainShopBuy",
+      "condition_id": 0,
+      "condition_value": 2,
+      "name_localkey": "Locale_Trigger:trigger_desc_MainShopBuy",
+      "reward_id": 4000005
+    },
+    {
+      "id": 4006,
+      "pass_point_id": 4,
+      "condition_type": "OutpostFastBattleReward",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_OutpostFastBattleReward",
+      "reward_id": 4000005
+    },
+    {
+      "id": 4007,
+      "pass_point_id": 4,
+      "condition_type": "PointRewardDaily",
+      "condition_id": 0,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardDaily",
+      "reward_id": 4000005
+    },
+    {
+      "id": 2000101,
+      "pass_point_id": 10001,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40003,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_02",
+      "reward_id": 4000002
+    },
+    {
+      "id": 2000102,
+      "pass_point_id": 10001,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40004,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_03",
+      "reward_id": 4000002
+    },
+    {
+      "id": 2000103,
+      "pass_point_id": 10001,
+      "condition_type": "EventSortOutClear",
+      "condition_id": 1,
+      "condition_value": 2,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventSortOutClear",
+      "reward_id": 4000002
+    },
+    {
+      "id": 2000104,
+      "pass_point_id": 10001,
+      "condition_type": "ObtainEventCurrencyMaterialMiraclesnow",
+      "condition_id": 0,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_ObtainEventCurrencyMaterialMiraclesnow",
+      "reward_id": 4000002
+    },
+    {
+      "id": 2000105,
+      "pass_point_id": 10001,
+      "condition_type": "PointRewardEvent",
+      "condition_id": 301,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardEventDaily",
+      "reward_id": 4000002
+    },
+    {
+      "id": 2000106,
+      "pass_point_id": 10001,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
+      "reward_id": 4000002
+    },
+    {
+      "id": 2000201,
+      "pass_point_id": 11001,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40008,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_02",
+      "reward_id": 4011001
+    },
+    {
+      "id": 2000202,
+      "pass_point_id": 11001,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40009,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_03",
+      "reward_id": 4011001
+    },
+    {
+      "id": 2000203,
+      "pass_point_id": 11001,
+      "condition_type": "ObtainEventCurrencyMaterial",
+      "condition_id": 7060008,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_ObtainEventCurrencyMaterialCE01",
+      "reward_id": 4011001
+    },
+    {
+      "id": 2000204,
+      "pass_point_id": 11001,
+      "condition_type": "PointRewardEvent",
+      "condition_id": 801,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardEventDaily",
+      "reward_id": 4011001
+    },
+    {
+      "id": 2000205,
+      "pass_point_id": 11001,
+      "condition_type": "WinArena",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_WinArena",
+      "reward_id": 4011001
+    },
+    {
+      "id": 2000206,
+      "pass_point_id": 11001,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
+      "reward_id": 4011001
+    },
+    {
+      "id": 2000301,
+      "pass_point_id": 11002,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 80303,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_02",
+      "reward_id": 4011002
+    },
+    {
+      "id": 2000302,
+      "pass_point_id": 11002,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 80304,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_03",
+      "reward_id": 4011002
+    },
+    {
+      "id": 2000303,
+      "pass_point_id": 11002,
+      "condition_type": "ObtainEventCurrencyMaterial",
+      "condition_id": 7060013,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_ObtainEventCurrencyMaterialOZ",
+      "reward_id": 4011002
+    },
+    {
+      "id": 2000304,
+      "pass_point_id": 11002,
+      "condition_type": "PointRewardEvent",
+      "condition_id": 1301,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardEventDaily",
+      "reward_id": 4011002
+    },
+    {
+      "id": 2000305,
+      "pass_point_id": 11002,
+      "condition_type": "EventTextAdventureClear",
+      "condition_id": 1001,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_TextAdventureFinishedWM",
+      "reward_id": 4011002
+    },
+    {
+      "id": 2000306,
+      "pass_point_id": 11002,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
+      "reward_id": 4011002
+    },
+    {
+      "id": 2000401,
+      "pass_point_id": 11003,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40020,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_02",
+      "reward_id": 4011003
+    },
+    {
+      "id": 2000402,
+      "pass_point_id": 11003,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40021,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_03",
+      "reward_id": 4011003
+    },
+    {
+      "id": 2000403,
+      "pass_point_id": 11003,
+      "condition_type": "ObtainEventCurrencyMaterial",
+      "condition_id": 7060020,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_ObtainEventCurrencyMaterialBI",
+      "reward_id": 4011003
+    },
+    {
+      "id": 2000404,
+      "pass_point_id": 11003,
+      "condition_type": "PointRewardEvent",
+      "condition_id": 2001,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardEventDaily",
+      "reward_id": 4011003
+    },
+    {
+      "id": 2000405,
+      "pass_point_id": 11003,
+      "condition_type": "EventDicePlayCount",
+      "condition_id": 2,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDicePlayCountVR",
+      "reward_id": 4011003
+    },
+    {
+      "id": 2000406,
+      "pass_point_id": 11003,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
+      "reward_id": 4011003
+    },
+    {
+      "id": 2000501,
+      "pass_point_id": 11004,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40024,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_02",
+      "reward_id": 4011004
+    },
+    {
+      "id": 2000502,
+      "pass_point_id": 11004,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40025,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_03",
+      "reward_id": 4011004
+    },
+    {
+      "id": 2000503,
+      "pass_point_id": 11004,
+      "condition_type": "ObtainEventCurrencyMaterial",
+      "condition_id": 7060024,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_ObtainEventCurrencyMaterialSYA",
+      "reward_id": 4011004
+    },
+    {
+      "id": 2000504,
+      "pass_point_id": 11004,
+      "condition_type": "PointRewardEvent",
+      "condition_id": 2401,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardEventDaily",
+      "reward_id": 4011004
+    },
+    {
+      "id": 2000505,
+      "pass_point_id": 11004,
+      "condition_type": "EventBBQTycoonDailyRewardCheck",
+      "condition_id": 80603,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventBBQTycoonDailyRewardCheck",
+      "reward_id": 4011004
+    },
+    {
+      "id": 2000506,
+      "pass_point_id": 11004,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
+      "reward_id": 4011004
+    },
+    {
+      "id": 2000601,
+      "pass_point_id": 11005,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40026,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_02",
+      "reward_id": 4011005
+    },
+    {
+      "id": 2000602,
+      "pass_point_id": 11005,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40027,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_03",
+      "reward_id": 4011005
+    },
+    {
+      "id": 2000603,
+      "pass_point_id": 11005,
+      "condition_type": "ObtainEventCurrencyMaterial",
+      "condition_id": 7060026,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_ObtainEventCurrencyMaterialCE002",
+      "reward_id": 4011005
+    },
+    {
+      "id": 2000604,
+      "pass_point_id": 11005,
+      "condition_type": "PointRewardEvent",
+      "condition_id": 2601,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardEventDaily",
+      "reward_id": 4011005
+    },
+    {
+      "id": 2000605,
+      "pass_point_id": 11005,
+      "condition_type": "EventMiniGameCe002PlayCheck",
+      "condition_id": 80703,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventMiniGameCe002PlayCheck",
+      "reward_id": 4011005
+    },
+    {
+      "id": 2000606,
+      "pass_point_id": 11005,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
+      "reward_id": 4011005
+    },
+    {
+      "id": 2000701,
+      "pass_point_id": 11006,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40031,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_02",
+      "reward_id": 4011006
+    },
+    {
+      "id": 2000702,
+      "pass_point_id": 11006,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40032,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_03",
+      "reward_id": 4011006
+    },
+    {
+      "id": 2000703,
+      "pass_point_id": 11006,
+      "condition_type": "ObtainEventCurrencyMaterial",
+      "condition_id": 7060031,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_ObtainEventCurrencyMaterialRA",
+      "reward_id": 4011006
+    },
+    {
+      "id": 2000704,
+      "pass_point_id": 11006,
+      "condition_type": "PointRewardEvent",
+      "condition_id": 3101,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardEventDaily",
+      "reward_id": 4011006
+    },
+    {
+      "id": 2000705,
+      "pass_point_id": 11006,
+      "condition_type": "EventMiniGameNKSPlayCheck",
+      "condition_id": 80803,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventMiniGameNKSPlayCheck",
+      "reward_id": 4011006
+    },
+    {
+      "id": 2000706,
+      "pass_point_id": 11006,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
+      "reward_id": 4011006
+    },
+    {
+      "id": 2000801,
+      "pass_point_id": 11007,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40034,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_02",
+      "reward_id": 4011007
+    },
+    {
+      "id": 2000802,
+      "pass_point_id": 11007,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40035,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_03",
+      "reward_id": 4011007
+    },
+    {
+      "id": 2000803,
+      "pass_point_id": 11007,
+      "condition_type": "ObtainEventCurrencyMaterial",
+      "condition_id": 7060034,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_ObtainEventCurrencyMaterialNL",
+      "reward_id": 4011007
+    },
+    {
+      "id": 2000804,
+      "pass_point_id": 11007,
+      "condition_type": "PointRewardEvent",
+      "condition_id": 3401,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardEventDaily",
+      "reward_id": 4011007
+    },
+    {
+      "id": 2000805,
+      "pass_point_id": 11007,
+      "condition_type": "EventSnowfallOasisDailyRewardCheck",
+      "condition_id": 80903,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventSnowfallOasisDailyRewardCheck",
+      "reward_id": 4011007
+    },
+    {
+      "id": 2000806,
+      "pass_point_id": 11007,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
+      "reward_id": 4011007
+    },
+    {
+      "id": 3000101,
+      "pass_point_id": 10002,
+      "condition_type": "CharacterCounsel",
+      "condition_id": 0,
+      "condition_value": 3,
+      "name_localkey": "Locale_Trigger:trigger_desc_CharacterCounsel",
+      "reward_id": 4000003
+    },
+    {
+      "id": 3000102,
+      "pass_point_id": 10002,
+      "condition_type": "CharacterAttractivePresent",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_CharacterAttractivePresent",
+      "reward_id": 4000003
+    },
+    {
+      "id": 3000103,
+      "pass_point_id": 10002,
+      "condition_type": "OutpostFastBattleReward",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_OutpostFastBattleReward",
+      "reward_id": 4000003
+    },
+    {
+      "id": 3000104,
+      "pass_point_id": 10002,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
+      "reward_id": 4000003
+    },
+    {
+      "id": 3000105,
+      "pass_point_id": 10002,
+      "condition_type": "GetFriendShipPoint",
+      "condition_id": 0,
+      "condition_value": 10,
+      "name_localkey": "Locale_Trigger:trigger_desc_GetFriendShipPoint",
+      "reward_id": 4000003
+    },
+    {
+      "id": 3000201,
+      "pass_point_id": 10003,
+      "condition_type": "CharacterCounsel",
+      "condition_id": 0,
+      "condition_value": 3,
+      "name_localkey": "Locale_Trigger:trigger_desc_CharacterCounsel",
+      "reward_id": 4000006
+    },
+    {
+      "id": 3000202,
+      "pass_point_id": 10003,
+      "condition_type": "CharacterAttractivePresent",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_CharacterAttractivePresent",
+      "reward_id": 4000006
+    },
+    {
+      "id": 3000203,
+      "pass_point_id": 10003,
+      "condition_type": "OutpostFastBattleReward",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_OutpostFastBattleReward",
+      "reward_id": 4000006
+    },
+    {
+      "id": 3000204,
+      "pass_point_id": 10003,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
+      "reward_id": 4000006
+    },
+    {
+      "id": 3000205,
+      "pass_point_id": 10003,
+      "condition_type": "GetFriendShipPoint",
+      "condition_id": 0,
+      "condition_value": 10,
+      "name_localkey": "Locale_Trigger:trigger_desc_GetFriendShipPoint",
+      "reward_id": 4000006
+    },
+    {
+      "id": 9000201,
+      "pass_point_id": 90002,
+      "condition_type": "OutpostBattleReward",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_OutpostBattleReward",
+      "reward_id": 4092001
+    },
+    {
+      "id": 9000202,
+      "pass_point_id": 90002,
+      "condition_type": "EquipItemLevelCount",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EquipItemLevelCount",
+      "reward_id": 4092001
+    },
+    {
+      "id": 9000203,
+      "pass_point_id": 90002,
+      "condition_type": "CharacterAttractivePresent",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_CharacterAttractivePresent",
+      "reward_id": 4092001
+    },
+    {
+      "id": 9000204,
+      "pass_point_id": 90002,
+      "condition_type": "SendDispatch",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_SendDispatch",
+      "reward_id": 4092001
+    },
+    {
+      "id": 9000205,
+      "pass_point_id": 90002,
+      "condition_type": "OutpostFastBattleReward",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_OutpostFastBattleReward",
+      "reward_id": 4092001
+    },
+    {
+      "id": 9000206,
+      "pass_point_id": 90002,
+      "condition_type": "PointRewardDaily",
+      "condition_id": 0,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardDaily",
+      "reward_id": 4092001
+    },
+    {
+      "id": 9000301,
+      "pass_point_id": 90003,
+      "condition_type": "OutpostBattleReward",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_OutpostBattleReward",
+      "reward_id": 4092002
+    },
+    {
+      "id": 9000302,
+      "pass_point_id": 90003,
+      "condition_type": "EquipItemLevelCount",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EquipItemLevelCount",
+      "reward_id": 4092002
+    },
+    {
+      "id": 9000303,
+      "pass_point_id": 90003,
+      "condition_type": "CharacterAttractivePresent",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_CharacterAttractivePresent",
+      "reward_id": 4092002
+    },
+    {
+      "id": 9000304,
+      "pass_point_id": 90003,
+      "condition_type": "SendDispatch",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_SendDispatch",
+      "reward_id": 4092002
+    },
+    {
+      "id": 9000305,
+      "pass_point_id": 90003,
+      "condition_type": "OutpostFastBattleReward",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_OutpostFastBattleReward",
+      "reward_id": 4092002
+    },
+    {
+      "id": 9000306,
+      "pass_point_id": 90003,
+      "condition_type": "PointRewardDaily",
+      "condition_id": 0,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardDaily",
+      "reward_id": 4092002
+    }
+  ]
+}

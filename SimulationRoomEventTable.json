@@ -1,0 +1,48 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "event_type": "NormalBattle",
+      "name_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_NORMALBATTLE_NAME",
+      "description_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_NORMALBATTLE_DESC"
+    },
+    {
+      "id": 2,
+      "event_type": "EliteBattle",
+      "name_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_ELITEBATTLE_NAME",
+      "description_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_ELITEBATTLE_DESC"
+    },
+    {
+      "id": 3,
+      "event_type": "BossBattle",
+      "name_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_BOSSBATTLE_NAME",
+      "description_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_BOSSBATTLE_DESC",
+      "resource_id": "icn_confirm"
+    },
+    {
+      "id": 4,
+      "event_type": "Maintenance",
+      "name_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_MAINTENANCE_NAME",
+      "description_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_MAINTENANCE_DESC"
+    },
+    {
+      "id": 5,
+      "event_type": "RandomSelection",
+      "name_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_RANDOMSELECTION_NAME",
+      "description_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_RANDOMSELECTION_DESC"
+    },
+    {
+      "id": 6,
+      "event_type": "EnhanceBuff",
+      "name_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_ENHANCEBUFF_NAME",
+      "description_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_ENHANCEBUFF_DESC"
+    },
+    {
+      "id": 7,
+      "event_type": "SpecialBattle",
+      "name_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_SPECIALBATTLE_NAME",
+      "description_localkey": "Locale_System:SIMULATIONROOM_EVENT_TYPE_SPECIALBATTLE_DESC"
+    }
+  ]
+}

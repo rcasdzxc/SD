@@ -1,0 +1,125 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1101,
+      "assistsquad_type": "None",
+      "assistsquad_distance": 100,
+      "assistsquad_membercount": 1,
+      "assistsquad_prefab": "as_robot_001_var",
+      "assistsquad_movetype": "Ground",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1201,
+      "assistsquad_type": "None",
+      "assistsquad_distance": 100,
+      "assistsquad_membercount": 1,
+      "assistsquad_prefab": "as_robot_pickup_001_var",
+      "assistsquad_movetype": "Fly",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1202,
+      "assistsquad_type": "Pickup",
+      "assistsquad_distance": 50,
+      "assistsquad_membercount": 1,
+      "assistsquad_prefab": "as_robot_pickup_001_var",
+      "assistsquad_movetype": "Fly",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1102,
+      "assistsquad_type": "Hammer",
+      "assistsquad_distance": 150,
+      "assistsquad_membercount": 3,
+      "assistsquad_prefab": "as_robot_destroy_001_var",
+      "assistsquad_movetype": "Ground",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1103,
+      "assistsquad_type": "Fix",
+      "assistsquad_distance": 100,
+      "assistsquad_membercount": 1,
+      "assistsquad_prefab": "as_robot_repair_001_var",
+      "assistsquad_movetype": "Ground",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1104,
+      "assistsquad_type": "Hacking",
+      "assistsquad_distance": 100,
+      "assistsquad_membercount": 1,
+      "assistsquad_prefab": "as_robot_hacking_001_var",
+      "assistsquad_movetype": "Ground",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1203,
+      "assistsquad_type": "Transport",
+      "assistsquad_distance": 350,
+      "assistsquad_membercount": 1,
+      "assistsquad_prefab": "as_robot_transport_001",
+      "assistsquad_movetype": "Fly",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1105,
+      "assistsquad_type": "Electric",
+      "assistsquad_distance": 100,
+      "assistsquad_membercount": 1,
+      "assistsquad_prefab": "as_robot_Electric_001_var",
+      "assistsquad_movetype": "Ground_Electric",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1106,
+      "assistsquad_type": "Electric",
+      "assistsquad_distance": 100,
+      "assistsquad_membercount": 2,
+      "assistsquad_prefab": "as_robot_Electric_001_var",
+      "assistsquad_movetype": "Ground_Electric",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1107,
+      "assistsquad_type": "Electric",
+      "assistsquad_distance": 100,
+      "assistsquad_membercount": 3,
+      "assistsquad_prefab": "as_robot_Electric_001_var",
+      "assistsquad_movetype": "Ground_Electric",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1108,
+      "assistsquad_type": "Electric",
+      "assistsquad_distance": 100,
+      "assistsquad_membercount": 4,
+      "assistsquad_prefab": "as_robot_Electric_001_var",
+      "assistsquad_movetype": "Ground_Electric",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1109,
+      "assistsquad_type": "Electric",
+      "assistsquad_distance": 100,
+      "assistsquad_membercount": 5,
+      "assistsquad_prefab": "as_robot_Electric_001_var",
+      "assistsquad_movetype": "Ground_Electric",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    }
+  ]
+}

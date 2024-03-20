@@ -1,0 +1,29 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "arena_type": "ArenaNormal",
+      "time_limit": 300,
+      "field_resource": "fabg_ArenaNormal",
+      "theme": "NormalArena",
+      "theme_time": "Day"
+    },
+    {
+      "id": 2,
+      "arena_type": "ArenaSpecial",
+      "time_limit": 300,
+      "field_resource": "fabg_ArenaSpecial",
+      "theme": "SpecialArena",
+      "theme_time": "Day"
+    },
+    {
+      "id": 3,
+      "arena_type": "ArenaChampion",
+      "time_limit": 90,
+      "field_resource": "fabg_ArenaChampion",
+      "theme": "ChampionArena",
+      "theme_time": "Day"
+    }
+  ]
+}

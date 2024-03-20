@@ -1,0 +1,2201 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 100001,
+      "group_id": 1000,
+      "rare": "SSR",
+      "prob": 350,
+      "prob_max_count": 10000,
+      "gacha_list_id": 10005,
+      "customize_list_id": 19995
+    },
+    {
+      "id": 100002,
+      "group_id": 1000,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 10004,
+      "customize_list_id": 10004
+    },
+    {
+      "id": 100003,
+      "group_id": 1000,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 10003,
+      "customize_list_id": 10003
+    },
+    {
+      "id": 100004,
+      "group_id": 1000,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 10001,
+      "customize_list_id": 10001
+    },
+    {
+      "id": 150001,
+      "group_id": 1500,
+      "rare": "SSR",
+      "prob": 350,
+      "prob_max_count": 10000,
+      "gacha_list_id": 15001,
+      "customize_list_id": 15001
+    },
+    {
+      "id": 150002,
+      "group_id": 1500,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 15002,
+      "customize_list_id": 15002
+    },
+    {
+      "id": 150003,
+      "group_id": 1500,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 15003,
+      "customize_list_id": 15003
+    },
+    {
+      "id": 150004,
+      "group_id": 1500,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 15004,
+      "customize_list_id": 15004
+    },
+    {
+      "id": 200001,
+      "group_id": 2000,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 100001,
+      "customize_list_id": 100001
+    },
+    {
+      "id": 200002,
+      "group_id": 2000,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 100002,
+      "customize_list_id": 100002
+    },
+    {
+      "id": 200003,
+      "group_id": 2000,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 100003,
+      "customize_list_id": 100003
+    },
+    {
+      "id": 200004,
+      "group_id": 2000,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 100004,
+      "customize_list_id": 100004
+    },
+    {
+      "id": 200005,
+      "group_id": 2000,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 100005,
+      "customize_list_id": 100005
+    },
+    {
+      "id": 200101,
+      "group_id": 2001,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 110001,
+      "customize_list_id": 110001
+    },
+    {
+      "id": 200102,
+      "group_id": 2001,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 110002,
+      "customize_list_id": 110002
+    },
+    {
+      "id": 200103,
+      "group_id": 2001,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 110003,
+      "customize_list_id": 110003
+    },
+    {
+      "id": 200104,
+      "group_id": 2001,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 110004,
+      "customize_list_id": 110004
+    },
+    {
+      "id": 200105,
+      "group_id": 2001,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 110005,
+      "customize_list_id": 110005
+    },
+    {
+      "id": 200201,
+      "group_id": 2002,
+      "rare": "SSR",
+      "prob": 100,
+      "prob_max_count": 0,
+      "gacha_list_id": 120001,
+      "customize_list_id": 120001
+    },
+    {
+      "id": 200202,
+      "group_id": 2002,
+      "rare": "SSR",
+      "prob": 250,
+      "prob_max_count": 0,
+      "gacha_list_id": 120002,
+      "customize_list_id": 120002
+    },
+    {
+      "id": 200203,
+      "group_id": 2002,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 120003,
+      "customize_list_id": 120003
+    },
+    {
+      "id": 200204,
+      "group_id": 2002,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 120004,
+      "customize_list_id": 120004
+    },
+    {
+      "id": 200205,
+      "group_id": 2002,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 120005,
+      "customize_list_id": 120005
+    },
+    {
+      "id": 200301,
+      "group_id": 2003,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 500001,
+      "customize_list_id": 500001
+    },
+    {
+      "id": 200302,
+      "group_id": 2003,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 500002,
+      "customize_list_id": 500002
+    },
+    {
+      "id": 200303,
+      "group_id": 2003,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 500003,
+      "customize_list_id": 500003
+    },
+    {
+      "id": 200304,
+      "group_id": 2003,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500004,
+      "customize_list_id": 500004
+    },
+    {
+      "id": 200305,
+      "group_id": 2003,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500005,
+      "customize_list_id": 500005
+    },
+    {
+      "id": 200401,
+      "group_id": 2004,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 500101,
+      "customize_list_id": 500101
+    },
+    {
+      "id": 200402,
+      "group_id": 2004,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 500102,
+      "customize_list_id": 500102
+    },
+    {
+      "id": 200403,
+      "group_id": 2004,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 500103,
+      "customize_list_id": 500103
+    },
+    {
+      "id": 200404,
+      "group_id": 2004,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500104,
+      "customize_list_id": 500104
+    },
+    {
+      "id": 200405,
+      "group_id": 2004,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500105,
+      "customize_list_id": 500105
+    },
+    {
+      "id": 200501,
+      "group_id": 2005,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 500201,
+      "customize_list_id": 500201
+    },
+    {
+      "id": 200502,
+      "group_id": 2005,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 500202,
+      "customize_list_id": 500202
+    },
+    {
+      "id": 200503,
+      "group_id": 2005,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 500203,
+      "customize_list_id": 500203
+    },
+    {
+      "id": 200504,
+      "group_id": 2005,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500204,
+      "customize_list_id": 500204
+    },
+    {
+      "id": 200505,
+      "group_id": 2005,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500205,
+      "customize_list_id": 500205
+    },
+    {
+      "id": 200601,
+      "group_id": 2006,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 500301,
+      "customize_list_id": 500301
+    },
+    {
+      "id": 200602,
+      "group_id": 2006,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 500302,
+      "customize_list_id": 500302
+    },
+    {
+      "id": 200603,
+      "group_id": 2006,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 500303,
+      "customize_list_id": 500303
+    },
+    {
+      "id": 200604,
+      "group_id": 2006,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500304,
+      "customize_list_id": 500304
+    },
+    {
+      "id": 200605,
+      "group_id": 2006,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500305,
+      "customize_list_id": 500305
+    },
+    {
+      "id": 200701,
+      "group_id": 2007,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 500401,
+      "customize_list_id": 500401
+    },
+    {
+      "id": 200702,
+      "group_id": 2007,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 500402,
+      "customize_list_id": 500402
+    },
+    {
+      "id": 200703,
+      "group_id": 2007,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 500403,
+      "customize_list_id": 500403
+    },
+    {
+      "id": 200704,
+      "group_id": 2007,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500404,
+      "customize_list_id": 500404
+    },
+    {
+      "id": 200705,
+      "group_id": 2007,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500405,
+      "customize_list_id": 500405
+    },
+    {
+      "id": 200801,
+      "group_id": 2008,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 500501,
+      "customize_list_id": 500501
+    },
+    {
+      "id": 200802,
+      "group_id": 2008,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 500502,
+      "customize_list_id": 500502
+    },
+    {
+      "id": 200803,
+      "group_id": 2008,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 500503,
+      "customize_list_id": 500503
+    },
+    {
+      "id": 200804,
+      "group_id": 2008,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500504,
+      "customize_list_id": 500504
+    },
+    {
+      "id": 200805,
+      "group_id": 2008,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500505,
+      "customize_list_id": 500505
+    },
+    {
+      "id": 200901,
+      "group_id": 2009,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 500601,
+      "customize_list_id": 500601
+    },
+    {
+      "id": 200902,
+      "group_id": 2009,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 500602,
+      "customize_list_id": 500602
+    },
+    {
+      "id": 200903,
+      "group_id": 2009,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 500603,
+      "customize_list_id": 500603
+    },
+    {
+      "id": 200904,
+      "group_id": 2009,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500604,
+      "customize_list_id": 500604
+    },
+    {
+      "id": 200905,
+      "group_id": 2009,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500605,
+      "customize_list_id": 500605
+    },
+    {
+      "id": 201001,
+      "group_id": 2010,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 500701,
+      "customize_list_id": 500701
+    },
+    {
+      "id": 201002,
+      "group_id": 2010,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 500702,
+      "customize_list_id": 500702
+    },
+    {
+      "id": 201003,
+      "group_id": 2010,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 500703,
+      "customize_list_id": 500703
+    },
+    {
+      "id": 201004,
+      "group_id": 2010,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500704,
+      "customize_list_id": 500704
+    },
+    {
+      "id": 201005,
+      "group_id": 2010,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500705,
+      "customize_list_id": 500705
+    },
+    {
+      "id": 201101,
+      "group_id": 2011,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 500801,
+      "customize_list_id": 500801
+    },
+    {
+      "id": 201102,
+      "group_id": 2011,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 500802,
+      "customize_list_id": 500802
+    },
+    {
+      "id": 201103,
+      "group_id": 2011,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 500803,
+      "customize_list_id": 500803
+    },
+    {
+      "id": 201104,
+      "group_id": 2011,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500804,
+      "customize_list_id": 500804
+    },
+    {
+      "id": 201105,
+      "group_id": 2011,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500805,
+      "customize_list_id": 500805
+    },
+    {
+      "id": 201201,
+      "group_id": 2012,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 500901,
+      "customize_list_id": 500901
+    },
+    {
+      "id": 201202,
+      "group_id": 2012,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 500902,
+      "customize_list_id": 500902
+    },
+    {
+      "id": 201203,
+      "group_id": 2012,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 500903,
+      "customize_list_id": 500903
+    },
+    {
+      "id": 201204,
+      "group_id": 2012,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500904,
+      "customize_list_id": 500904
+    },
+    {
+      "id": 201205,
+      "group_id": 2012,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 500905,
+      "customize_list_id": 500905
+    },
+    {
+      "id": 201301,
+      "group_id": 2013,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 501001,
+      "customize_list_id": 501001
+    },
+    {
+      "id": 201302,
+      "group_id": 2013,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 501002,
+      "customize_list_id": 501002
+    },
+    {
+      "id": 201303,
+      "group_id": 2013,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 501003,
+      "customize_list_id": 501003
+    },
+    {
+      "id": 201304,
+      "group_id": 2013,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501004,
+      "customize_list_id": 501004
+    },
+    {
+      "id": 201305,
+      "group_id": 2013,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501005,
+      "customize_list_id": 501005
+    },
+    {
+      "id": 201401,
+      "group_id": 2014,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 501101,
+      "customize_list_id": 501101
+    },
+    {
+      "id": 201402,
+      "group_id": 2014,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 501102,
+      "customize_list_id": 501102
+    },
+    {
+      "id": 201403,
+      "group_id": 2014,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 501103,
+      "customize_list_id": 501103
+    },
+    {
+      "id": 201404,
+      "group_id": 2014,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501104,
+      "customize_list_id": 501104
+    },
+    {
+      "id": 201405,
+      "group_id": 2014,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501105,
+      "customize_list_id": 501105
+    },
+    {
+      "id": 201501,
+      "group_id": 2015,
+      "rare": "SSR",
+      "prob": 100,
+      "prob_max_count": 0,
+      "gacha_list_id": 501201,
+      "customize_list_id": 501201
+    },
+    {
+      "id": 201502,
+      "group_id": 2015,
+      "rare": "SSR",
+      "prob": 250,
+      "prob_max_count": 0,
+      "gacha_list_id": 501202,
+      "customize_list_id": 501202
+    },
+    {
+      "id": 201503,
+      "group_id": 2015,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 501203,
+      "customize_list_id": 501203
+    },
+    {
+      "id": 201504,
+      "group_id": 2015,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501204,
+      "customize_list_id": 501204
+    },
+    {
+      "id": 201505,
+      "group_id": 2015,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501205,
+      "customize_list_id": 501205
+    },
+    {
+      "id": 201601,
+      "group_id": 2016,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 501301,
+      "customize_list_id": 501301
+    },
+    {
+      "id": 201602,
+      "group_id": 2016,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 501302,
+      "customize_list_id": 501302
+    },
+    {
+      "id": 201603,
+      "group_id": 2016,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 501303,
+      "customize_list_id": 501303
+    },
+    {
+      "id": 201604,
+      "group_id": 2016,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501304,
+      "customize_list_id": 501304
+    },
+    {
+      "id": 201605,
+      "group_id": 2016,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501305,
+      "customize_list_id": 501305
+    },
+    {
+      "id": 201701,
+      "group_id": 2017,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 501401,
+      "customize_list_id": 501401
+    },
+    {
+      "id": 201702,
+      "group_id": 2017,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 501402,
+      "customize_list_id": 501402
+    },
+    {
+      "id": 201703,
+      "group_id": 2017,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 501403,
+      "customize_list_id": 501403
+    },
+    {
+      "id": 201704,
+      "group_id": 2017,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501404,
+      "customize_list_id": 501404
+    },
+    {
+      "id": 201705,
+      "group_id": 2017,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501405,
+      "customize_list_id": 501405
+    },
+    {
+      "id": 201801,
+      "group_id": 2018,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 501501,
+      "customize_list_id": 501501
+    },
+    {
+      "id": 201802,
+      "group_id": 2018,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 501502,
+      "customize_list_id": 501502
+    },
+    {
+      "id": 201803,
+      "group_id": 2018,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 501503,
+      "customize_list_id": 501503
+    },
+    {
+      "id": 201804,
+      "group_id": 2018,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501504,
+      "customize_list_id": 501504
+    },
+    {
+      "id": 201805,
+      "group_id": 2018,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501505,
+      "customize_list_id": 501505
+    },
+    {
+      "id": 201901,
+      "group_id": 2019,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 501601,
+      "customize_list_id": 501601
+    },
+    {
+      "id": 201902,
+      "group_id": 2019,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 501602,
+      "customize_list_id": 501602
+    },
+    {
+      "id": 201903,
+      "group_id": 2019,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 501603,
+      "customize_list_id": 501603
+    },
+    {
+      "id": 201904,
+      "group_id": 2019,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501604,
+      "customize_list_id": 501604
+    },
+    {
+      "id": 201905,
+      "group_id": 2019,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501605,
+      "customize_list_id": 501605
+    },
+    {
+      "id": 202001,
+      "group_id": 2020,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 501701,
+      "customize_list_id": 501701
+    },
+    {
+      "id": 202002,
+      "group_id": 2020,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 501702,
+      "customize_list_id": 501702
+    },
+    {
+      "id": 202003,
+      "group_id": 2020,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 501703,
+      "customize_list_id": 501703
+    },
+    {
+      "id": 202004,
+      "group_id": 2020,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501704,
+      "customize_list_id": 501704
+    },
+    {
+      "id": 202005,
+      "group_id": 2020,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501705,
+      "customize_list_id": 501705
+    },
+    {
+      "id": 202101,
+      "group_id": 2021,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 501801,
+      "customize_list_id": 501801
+    },
+    {
+      "id": 202102,
+      "group_id": 2021,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 501802,
+      "customize_list_id": 501802
+    },
+    {
+      "id": 202103,
+      "group_id": 2021,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 501803,
+      "customize_list_id": 501803
+    },
+    {
+      "id": 202104,
+      "group_id": 2021,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501804,
+      "customize_list_id": 501804
+    },
+    {
+      "id": 202105,
+      "group_id": 2021,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501805,
+      "customize_list_id": 501805
+    },
+    {
+      "id": 202201,
+      "group_id": 2022,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 501901,
+      "customize_list_id": 501901
+    },
+    {
+      "id": 202202,
+      "group_id": 2022,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 501902,
+      "customize_list_id": 501902
+    },
+    {
+      "id": 202203,
+      "group_id": 2022,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 501903,
+      "customize_list_id": 501903
+    },
+    {
+      "id": 202204,
+      "group_id": 2022,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501904,
+      "customize_list_id": 501904
+    },
+    {
+      "id": 202205,
+      "group_id": 2022,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 501905,
+      "customize_list_id": 501905
+    },
+    {
+      "id": 202301,
+      "group_id": 2023,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 502001,
+      "customize_list_id": 502001
+    },
+    {
+      "id": 202302,
+      "group_id": 2023,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 502002,
+      "customize_list_id": 502002
+    },
+    {
+      "id": 202303,
+      "group_id": 2023,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 502003,
+      "customize_list_id": 502003
+    },
+    {
+      "id": 202304,
+      "group_id": 2023,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502004,
+      "customize_list_id": 502004
+    },
+    {
+      "id": 202305,
+      "group_id": 2023,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502005,
+      "customize_list_id": 502005
+    },
+    {
+      "id": 202401,
+      "group_id": 2024,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 502101,
+      "customize_list_id": 502101
+    },
+    {
+      "id": 202402,
+      "group_id": 2024,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 502102,
+      "customize_list_id": 502102
+    },
+    {
+      "id": 202403,
+      "group_id": 2024,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 502103,
+      "customize_list_id": 502103
+    },
+    {
+      "id": 202404,
+      "group_id": 2024,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502104,
+      "customize_list_id": 502104
+    },
+    {
+      "id": 202405,
+      "group_id": 2024,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502105,
+      "customize_list_id": 502105
+    },
+    {
+      "id": 202501,
+      "group_id": 2025,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 502201,
+      "customize_list_id": 502201
+    },
+    {
+      "id": 202502,
+      "group_id": 2025,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 502202,
+      "customize_list_id": 502202
+    },
+    {
+      "id": 202503,
+      "group_id": 2025,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 502203,
+      "customize_list_id": 502203
+    },
+    {
+      "id": 202504,
+      "group_id": 2025,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502204,
+      "customize_list_id": 502204
+    },
+    {
+      "id": 202505,
+      "group_id": 2025,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502205,
+      "customize_list_id": 502205
+    },
+    {
+      "id": 202601,
+      "group_id": 2026,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 502301,
+      "customize_list_id": 502301
+    },
+    {
+      "id": 202602,
+      "group_id": 2026,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 502302,
+      "customize_list_id": 502302
+    },
+    {
+      "id": 202603,
+      "group_id": 2026,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 502303,
+      "customize_list_id": 502303
+    },
+    {
+      "id": 202604,
+      "group_id": 2026,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502304,
+      "customize_list_id": 502304
+    },
+    {
+      "id": 202605,
+      "group_id": 2026,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502305,
+      "customize_list_id": 502305
+    },
+    {
+      "id": 202701,
+      "group_id": 2027,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 502401,
+      "customize_list_id": 502401
+    },
+    {
+      "id": 202702,
+      "group_id": 2027,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 502402,
+      "customize_list_id": 502402
+    },
+    {
+      "id": 202703,
+      "group_id": 2027,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 502403,
+      "customize_list_id": 502403
+    },
+    {
+      "id": 202704,
+      "group_id": 2027,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502404,
+      "customize_list_id": 502404
+    },
+    {
+      "id": 202705,
+      "group_id": 2027,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502405,
+      "customize_list_id": 502405
+    },
+    {
+      "id": 202801,
+      "group_id": 2028,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 502501,
+      "customize_list_id": 502501
+    },
+    {
+      "id": 202802,
+      "group_id": 2028,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 502502,
+      "customize_list_id": 502502
+    },
+    {
+      "id": 202803,
+      "group_id": 2028,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 502503,
+      "customize_list_id": 502503
+    },
+    {
+      "id": 202804,
+      "group_id": 2028,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502504,
+      "customize_list_id": 502504
+    },
+    {
+      "id": 202805,
+      "group_id": 2028,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502505,
+      "customize_list_id": 502505
+    },
+    {
+      "id": 202901,
+      "group_id": 2029,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 502601,
+      "customize_list_id": 502601
+    },
+    {
+      "id": 202902,
+      "group_id": 2029,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 502602,
+      "customize_list_id": 502602
+    },
+    {
+      "id": 202903,
+      "group_id": 2029,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 502603,
+      "customize_list_id": 502603
+    },
+    {
+      "id": 202904,
+      "group_id": 2029,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502604,
+      "customize_list_id": 502604
+    },
+    {
+      "id": 202905,
+      "group_id": 2029,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502605,
+      "customize_list_id": 502605
+    },
+    {
+      "id": 203001,
+      "group_id": 2030,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 502701,
+      "customize_list_id": 502701
+    },
+    {
+      "id": 203002,
+      "group_id": 2030,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 502702,
+      "customize_list_id": 502702
+    },
+    {
+      "id": 203003,
+      "group_id": 2030,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 502703,
+      "customize_list_id": 502703
+    },
+    {
+      "id": 203004,
+      "group_id": 2030,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502704,
+      "customize_list_id": 502704
+    },
+    {
+      "id": 203005,
+      "group_id": 2030,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502705,
+      "customize_list_id": 502705
+    },
+    {
+      "id": 203101,
+      "group_id": 2031,
+      "rare": "SSR",
+      "prob": 100,
+      "prob_max_count": 0,
+      "gacha_list_id": 502801,
+      "customize_list_id": 502801
+    },
+    {
+      "id": 203102,
+      "group_id": 2031,
+      "rare": "SSR",
+      "prob": 250,
+      "prob_max_count": 0,
+      "gacha_list_id": 502802,
+      "customize_list_id": 502802
+    },
+    {
+      "id": 203103,
+      "group_id": 2031,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 502803,
+      "customize_list_id": 502803
+    },
+    {
+      "id": 203104,
+      "group_id": 2031,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502804,
+      "customize_list_id": 502804
+    },
+    {
+      "id": 203105,
+      "group_id": 2031,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502805,
+      "customize_list_id": 502805
+    },
+    {
+      "id": 203201,
+      "group_id": 2032,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 502901,
+      "customize_list_id": 502901
+    },
+    {
+      "id": 203202,
+      "group_id": 2032,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 502902,
+      "customize_list_id": 502902
+    },
+    {
+      "id": 203203,
+      "group_id": 2032,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 502903,
+      "customize_list_id": 502903
+    },
+    {
+      "id": 203204,
+      "group_id": 2032,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502904,
+      "customize_list_id": 502904
+    },
+    {
+      "id": 203205,
+      "group_id": 2032,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 502905,
+      "customize_list_id": 502905
+    },
+    {
+      "id": 203301,
+      "group_id": 2033,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 503001,
+      "customize_list_id": 503001
+    },
+    {
+      "id": 203302,
+      "group_id": 2033,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503002,
+      "customize_list_id": 503002
+    },
+    {
+      "id": 203303,
+      "group_id": 2033,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503003,
+      "customize_list_id": 503003
+    },
+    {
+      "id": 203304,
+      "group_id": 2033,
+      "rare": "SSR",
+      "prob": 100,
+      "prob_max_count": 0,
+      "gacha_list_id": 503004,
+      "customize_list_id": 503004
+    },
+    {
+      "id": 203305,
+      "group_id": 2033,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503005,
+      "customize_list_id": 503005
+    },
+    {
+      "id": 203306,
+      "group_id": 2033,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503006,
+      "customize_list_id": 503006
+    },
+    {
+      "id": 203401,
+      "group_id": 2034,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 503101,
+      "customize_list_id": 503101
+    },
+    {
+      "id": 203402,
+      "group_id": 2034,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503102,
+      "customize_list_id": 503102
+    },
+    {
+      "id": 203403,
+      "group_id": 2034,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503103,
+      "customize_list_id": 503103
+    },
+    {
+      "id": 203404,
+      "group_id": 2034,
+      "rare": "SSR",
+      "prob": 100,
+      "prob_max_count": 0,
+      "gacha_list_id": 503104,
+      "customize_list_id": 503104
+    },
+    {
+      "id": 203405,
+      "group_id": 2034,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503105,
+      "customize_list_id": 503105
+    },
+    {
+      "id": 203406,
+      "group_id": 2034,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503106,
+      "customize_list_id": 503106
+    },
+    {
+      "id": 203501,
+      "group_id": 2035,
+      "rare": "SSR",
+      "prob": 100,
+      "prob_max_count": 0,
+      "gacha_list_id": 503201,
+      "customize_list_id": 503201
+    },
+    {
+      "id": 203502,
+      "group_id": 2035,
+      "rare": "SSR",
+      "prob": 250,
+      "prob_max_count": 0,
+      "gacha_list_id": 503202,
+      "customize_list_id": 503202
+    },
+    {
+      "id": 203503,
+      "group_id": 2035,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503203,
+      "customize_list_id": 503203
+    },
+    {
+      "id": 203504,
+      "group_id": 2035,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503204,
+      "customize_list_id": 503204
+    },
+    {
+      "id": 203505,
+      "group_id": 2035,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503205,
+      "customize_list_id": 503205
+    },
+    {
+      "id": 203601,
+      "group_id": 2036,
+      "rare": "SSR",
+      "prob": 100,
+      "prob_max_count": 0,
+      "gacha_list_id": 503301,
+      "customize_list_id": 503301
+    },
+    {
+      "id": 203602,
+      "group_id": 2036,
+      "rare": "SSR",
+      "prob": 250,
+      "prob_max_count": 0,
+      "gacha_list_id": 503302,
+      "customize_list_id": 503302
+    },
+    {
+      "id": 203603,
+      "group_id": 2036,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503303,
+      "customize_list_id": 503303
+    },
+    {
+      "id": 203604,
+      "group_id": 2036,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503304,
+      "customize_list_id": 503304
+    },
+    {
+      "id": 203605,
+      "group_id": 2036,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503305,
+      "customize_list_id": 503305
+    },
+    {
+      "id": 203701,
+      "group_id": 2037,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 503401,
+      "customize_list_id": 503401
+    },
+    {
+      "id": 203702,
+      "group_id": 2037,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 503402,
+      "customize_list_id": 503402
+    },
+    {
+      "id": 203703,
+      "group_id": 2037,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503403,
+      "customize_list_id": 503403
+    },
+    {
+      "id": 203704,
+      "group_id": 2037,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503404,
+      "customize_list_id": 503404
+    },
+    {
+      "id": 203705,
+      "group_id": 2037,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503405,
+      "customize_list_id": 503405
+    },
+    {
+      "id": 203801,
+      "group_id": 2038,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 503501,
+      "customize_list_id": 503501
+    },
+    {
+      "id": 203802,
+      "group_id": 2038,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 503502,
+      "customize_list_id": 503502
+    },
+    {
+      "id": 203803,
+      "group_id": 2038,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503503,
+      "customize_list_id": 503503
+    },
+    {
+      "id": 203804,
+      "group_id": 2038,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503504,
+      "customize_list_id": 503504
+    },
+    {
+      "id": 203805,
+      "group_id": 2038,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503505,
+      "customize_list_id": 503505
+    },
+    {
+      "id": 203901,
+      "group_id": 2039,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 503601,
+      "customize_list_id": 503601
+    },
+    {
+      "id": 203902,
+      "group_id": 2039,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 503602,
+      "customize_list_id": 503602
+    },
+    {
+      "id": 203903,
+      "group_id": 2039,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503603,
+      "customize_list_id": 503603
+    },
+    {
+      "id": 203904,
+      "group_id": 2039,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503604,
+      "customize_list_id": 503604
+    },
+    {
+      "id": 203905,
+      "group_id": 2039,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503605,
+      "customize_list_id": 503605
+    },
+    {
+      "id": 204001,
+      "group_id": 2040,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 503701,
+      "customize_list_id": 503701
+    },
+    {
+      "id": 204002,
+      "group_id": 2040,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 503702,
+      "customize_list_id": 503702
+    },
+    {
+      "id": 204003,
+      "group_id": 2040,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503703,
+      "customize_list_id": 503703
+    },
+    {
+      "id": 204004,
+      "group_id": 2040,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503704,
+      "customize_list_id": 503704
+    },
+    {
+      "id": 204005,
+      "group_id": 2040,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503705,
+      "customize_list_id": 503705
+    },
+    {
+      "id": 204101,
+      "group_id": 2041,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 503801,
+      "customize_list_id": 503801
+    },
+    {
+      "id": 204102,
+      "group_id": 2041,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 503802,
+      "customize_list_id": 503802
+    },
+    {
+      "id": 204103,
+      "group_id": 2041,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503803,
+      "customize_list_id": 503803
+    },
+    {
+      "id": 204104,
+      "group_id": 2041,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503804,
+      "customize_list_id": 503804
+    },
+    {
+      "id": 204105,
+      "group_id": 2041,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503805,
+      "customize_list_id": 503805
+    },
+    {
+      "id": 204201,
+      "group_id": 2042,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 503901,
+      "customize_list_id": 503901
+    },
+    {
+      "id": 204202,
+      "group_id": 2042,
+      "rare": "SSR",
+      "prob": 150,
+      "prob_max_count": 0,
+      "gacha_list_id": 503902,
+      "customize_list_id": 503902
+    },
+    {
+      "id": 204203,
+      "group_id": 2042,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 503903,
+      "customize_list_id": 503903
+    },
+    {
+      "id": 204204,
+      "group_id": 2042,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503904,
+      "customize_list_id": 503904
+    },
+    {
+      "id": 204205,
+      "group_id": 2042,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 503905,
+      "customize_list_id": 503905
+    },
+    {
+      "id": 300001,
+      "group_id": 3000,
+      "rare": "SSR",
+      "prob": 0,
+      "prob_max_count": 10000,
+      "gacha_list_id": 300001,
+      "customize_list_id": 0
+    },
+    {
+      "id": 300002,
+      "group_id": 3000,
+      "rare": "SR",
+      "prob": 4700,
+      "prob_max_count": 0,
+      "gacha_list_id": 10003,
+      "customize_list_id": 0
+    },
+    {
+      "id": 300003,
+      "group_id": 3000,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 10001,
+      "customize_list_id": 0
+    },
+    {
+      "id": 400001,
+      "group_id": 4000,
+      "rare": "SSR",
+      "prob": 200,
+      "prob_max_count": 0,
+      "gacha_list_id": 10005,
+      "customize_list_id": 0
+    },
+    {
+      "id": 400002,
+      "group_id": 4000,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 10003,
+      "customize_list_id": 0
+    },
+    {
+      "id": 400003,
+      "group_id": 4000,
+      "rare": "R",
+      "prob": 5500,
+      "prob_max_count": 0,
+      "gacha_list_id": 10001,
+      "customize_list_id": 0
+    },
+    {
+      "id": 510001,
+      "group_id": 5100,
+      "rare": "SSR",
+      "prob": 10000,
+      "prob_max_count": 0,
+      "gacha_list_id": 140001,
+      "customize_list_id": 0
+    },
+    {
+      "id": 520001,
+      "group_id": 5200,
+      "rare": "SSR",
+      "prob": 10000,
+      "prob_max_count": 0,
+      "gacha_list_id": 140002,
+      "customize_list_id": 0
+    },
+    {
+      "id": 530001,
+      "group_id": 5300,
+      "rare": "SSR",
+      "prob": 10000,
+      "prob_max_count": 0,
+      "gacha_list_id": 140003,
+      "customize_list_id": 0
+    },
+    {
+      "id": 540001,
+      "group_id": 5400,
+      "rare": "SSR",
+      "prob": 10000,
+      "prob_max_count": 0,
+      "gacha_list_id": 140004,
+      "customize_list_id": 0
+    },
+    {
+      "id": 550101,
+      "group_id": 5501,
+      "rare": "SSR",
+      "prob": 10000,
+      "prob_max_count": 0,
+      "gacha_list_id": 140005,
+      "customize_list_id": 0
+    },
+    {
+      "id": 550201,
+      "group_id": 5502,
+      "rare": "SSR",
+      "prob": 10000,
+      "prob_max_count": 0,
+      "gacha_list_id": 140006,
+      "customize_list_id": 0
+    },
+    {
+      "id": 550301,
+      "group_id": 5503,
+      "rare": "SSR",
+      "prob": 10000,
+      "prob_max_count": 0,
+      "gacha_list_id": 140007,
+      "customize_list_id": 0
+    },
+    {
+      "id": 610001,
+      "group_id": 6100,
+      "rare": "SSR",
+      "prob": 10000,
+      "prob_max_count": 0,
+      "gacha_list_id": 150001,
+      "customize_list_id": 0
+    },
+    {
+      "id": 620001,
+      "group_id": 6200,
+      "rare": "SR",
+      "prob": 10000,
+      "prob_max_count": 0,
+      "gacha_list_id": 150002,
+      "customize_list_id": 0
+    },
+    {
+      "id": 700001,
+      "group_id": 7000,
+      "rare": "SSR",
+      "prob": 350,
+      "prob_max_count": 10000,
+      "gacha_list_id": 170001,
+      "customize_list_id": 0
+    },
+    {
+      "id": 700002,
+      "group_id": 7000,
+      "rare": "SSR",
+      "prob": 50,
+      "prob_max_count": 0,
+      "gacha_list_id": 170002,
+      "customize_list_id": 0
+    },
+    {
+      "id": 700003,
+      "group_id": 7000,
+      "rare": "SR",
+      "prob": 4300,
+      "prob_max_count": 0,
+      "gacha_list_id": 170003,
+      "customize_list_id": 0
+    },
+    {
+      "id": 700004,
+      "group_id": 7000,
+      "rare": "R",
+      "prob": 5300,
+      "prob_max_count": 0,
+      "gacha_list_id": 170004,
+      "customize_list_id": 0
+    }
+  ]
+}

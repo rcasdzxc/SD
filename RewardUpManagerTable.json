@@ -1,0 +1,527 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 3,
+      "event_group_id": 140002,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 4,
+      "event_group_id": 140002,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 5,
+      "event_group_id": 140003,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 6,
+      "event_group_id": 140003,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 7,
+      "event_group_id": 140004,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 8,
+      "event_group_id": 140004,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 9,
+      "event_group_id": 140005,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 10,
+      "event_group_id": 140005,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 11,
+      "event_group_id": 140006,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 12,
+      "event_group_id": 140006,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 13,
+      "event_group_id": 140007,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 14,
+      "event_group_id": 140007,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 15,
+      "event_group_id": 140008,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 16,
+      "event_group_id": 140008,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 17,
+      "event_group_id": 140009,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 18,
+      "event_group_id": 140009,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 19,
+      "event_group_id": 140010,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 20,
+      "event_group_id": 140010,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 21,
+      "event_group_id": 140011,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 22,
+      "event_group_id": 140011,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 23,
+      "event_group_id": 140012,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 24,
+      "event_group_id": 140012,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 25,
+      "event_group_id": 140013,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 26,
+      "event_group_id": 140013,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 27,
+      "event_group_id": 140014,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 28,
+      "event_group_id": 140014,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 29,
+      "event_group_id": 140015,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 30,
+      "event_group_id": 140015,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 31,
+      "event_group_id": 140016,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 32,
+      "event_group_id": 140016,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 33,
+      "event_group_id": 140017,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 34,
+      "event_group_id": 140017,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 35,
+      "event_group_id": 140018,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 36,
+      "event_group_id": 140018,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 37,
+      "event_group_id": 140019,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 38,
+      "event_group_id": 140019,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 39,
+      "event_group_id": 140020,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 40,
+      "event_group_id": 140020,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 41,
+      "event_group_id": 140021,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 42,
+      "event_group_id": 140021,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 43,
+      "event_group_id": 140022,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 44,
+      "event_group_id": 140022,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 45,
+      "event_group_id": 140023,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 46,
+      "event_group_id": 140023,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 47,
+      "event_group_id": 140024,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 48,
+      "event_group_id": 140024,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 49,
+      "event_group_id": 140025,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 50,
+      "event_group_id": 140025,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 51,
+      "event_group_id": 140026,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 52,
+      "event_group_id": 140026,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 53,
+      "event_group_id": 140027,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 54,
+      "event_group_id": 140027,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 55,
+      "event_group_id": 140028,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 56,
+      "event_group_id": 140028,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 57,
+      "event_group_id": 140029,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 58,
+      "event_group_id": 140029,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    },
+    {
+      "id": 59,
+      "event_group_id": 140030,
+      "event_type": "Intercept",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_intercept",
+      "title_localkey": "Locale_System:REWARDUP_INTERCEPT_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_INTERCEPT_DESCRIPTION"
+    },
+    {
+      "id": 60,
+      "event_group_id": 140030,
+      "event_type": "SimulationRoom",
+      "bonus_value": 2,
+      "icon": "icn_reward_up_simulationroom",
+      "title_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_TITLE",
+      "description_localkey": "Locale_System:REWARDUP_SIMULATIONROOM_DESCRIPTION"
+    }
+  ]
+}

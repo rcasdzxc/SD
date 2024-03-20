@@ -1,0 +1,221 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1001101,
+      "group": 10011,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1001101
+    },
+    {
+      "id": 1001201,
+      "group": 10012,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1001201
+    },
+    {
+      "id": 1013101,
+      "group": 10131,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1013101
+    },
+    {
+      "id": 1014101,
+      "group": 10141,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1014101
+    },
+    {
+      "id": 1014201,
+      "group": 10142,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1014201
+    },
+    {
+      "id": 1010101,
+      "group": 10101,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1010101
+    },
+    {
+      "id": 1010201,
+      "group": 10102,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1010201
+    },
+    {
+      "id": 1012101,
+      "group": 10121,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1012101
+    },
+    {
+      "id": 1012201,
+      "group": 10122,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1012201
+    },
+    {
+      "id": 1003101,
+      "group": 10031,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1003101
+    },
+    {
+      "id": 1004101,
+      "group": 10041,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1004101
+    },
+    {
+      "id": 1004201,
+      "group": 10042,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1004201
+    },
+    {
+      "id": 1017101,
+      "group": 10171,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1017101
+    },
+    {
+      "id": 1017201,
+      "group": 10172,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1017201
+    },
+    {
+      "id": 1022101,
+      "group": 10221,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1022101
+    },
+    {
+      "id": 1022201,
+      "group": 10222,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1022201
+    },
+    {
+      "id": 1011101,
+      "group": 10111,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1011101
+    },
+    {
+      "id": 1011201,
+      "group": 10112,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1011201
+    },
+    {
+      "id": 1006101,
+      "group": 10061,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1006101
+    },
+    {
+      "id": 1006201,
+      "group": 10062,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1006201
+    },
+    {
+      "id": 1007101,
+      "group": 10071,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1007101
+    },
+    {
+      "id": 1007201,
+      "group": 10072,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1007201
+    },
+    {
+      "id": 1016101,
+      "group": 10161,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1016101
+    },
+    {
+      "id": 1016201,
+      "group": 10162,
+      "chapter": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1016201
+    }
+  ]
+}
